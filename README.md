@@ -77,7 +77,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Dockerone](http://dockerone.com/)
 * [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
 * [CSDN Docker 社区](http://docker.csdn.net/)
-* [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
+
 
 
 ## 开源文档
@@ -90,6 +90,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Valuable Docker Links](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
+* [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
 
 # 相关项目
 ## OS
@@ -120,13 +121,13 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## Paas平台
-* [flynn](https://github.com/flynn/flynn)
-* [deis](http://deis.io/)
+* [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
+* [deis](http://deis.io/) (Your PaaS. Your Rules)
 * [peas](https://github.com/tombh/peas) (Docker and Ruby based PaaS)
 * [dawn](https://github.com/dawn/dawn) (Docker-based PaaS in Ruby)
 * [octohost](https://github.com/octohost/octohost)(Simple web focused Dockerfile based PaaS server)
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
-* [cloudfoundry](https://github.com/cloudfoundry) ()
+* [cloudfoundry](https://github.com/cloudfoundry) 
 
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -140,12 +141,12 @@ docker资源汇总,随时更新，欢迎补充。
 * 
 
 ## 网络
-* [weave](https://github.com/zettio/weave)
+* [weave](https://github.com/zettio/weave) (The Docker Network)
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
 
 ## 持续集成
-* [drone](https://github.com/drone/drone)
+* [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
 
 
 ## 开发部署
@@ -157,13 +158,13 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## 日志
-* [logspout](https://github.com/gliderlabs/logspout)
+* [logspout](https://github.com/gliderlabs/logspout) (Log routing for Docker container logs)
 * [logjam](https://github.com/gocardless/logjam) (a log shipping tool)
 
 
 ## 服务发现
 * [skydock](https://github.com/crosbymichael/skydock) (基于DNS)
-* [Consul](https://www.consul.io/)
+* [Consul](https://www.consul.io/) (Consul is a tool for service discovery, monitoring and configuration)
 * [registrator](https://github.com/gliderlabs/registrator)(Service registry bridge for Docker with pluggable adapters)
 * [etcd](https://github.com/coreos/etcd) (A highly-available key value store for shared configuration and service discovery)
 * [docker-grand-ambassador](https://github.com/cpuguy83/docker-grand-ambassador) ( fully dynamic docker link ambassador)
@@ -176,16 +177,16 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## 可视化工具
-* [dockerboard](https://github.com/dockerboard/dockerboard) 
+* [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
 * [Kitematic](https://kitematic.com/) (用于MAC)
-* [dockerui](https://github.com/crosbymichael/dockerui)
+* [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
 * 
 
 ## 存储
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
-* [Docker Volume Manager](https://github.com/cpuguy83/docker-volumes)
+* [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
 
 ## 镜像及Dockerfile
@@ -202,8 +203,8 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
-* [Supervisor](http://supervisord.org/)
-* [CFEngine](http://cfengine.com/)
+* [Supervisor](http://supervisord.org/) (A Process Control System)
+* [CFEngine](http://cfengine.com/) 
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
 
 
