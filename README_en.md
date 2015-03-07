@@ -1,7 +1,9 @@
 # docker-resources
 A collection of docker online resources.
 
-# 目录
+中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
+
+# Menu
 * [Main Resources](#main-resources)
   * [Books](#books)
   * [Websites](#websites)
@@ -24,6 +26,7 @@ A collection of docker online resources.
   * [UI Tools](#ui-tools)
   * [Storage](#storage)
   * [Volumes](#volumes)
+  * [Security](#security)
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
@@ -64,7 +67,7 @@ A collection of docker online resources.
 
 # Main Resources
 ## Books
-* [THE Docker Book](http://www.dockerbook.com/)
+* [The Docker Book](http://www.dockerbook.com/)
 
 ## Websites
 
@@ -79,6 +82,7 @@ A collection of docker online resources.
 
 ## Documents
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
+
 
 ## Archives
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) 
@@ -122,6 +126,7 @@ A collection of docker online resources.
 * [panamax](http://panamax.io/) (Docker management for humans)
 * [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
 * [fleet] (https://github.com/coreos/fleet) (A Distributed init System)
+* [Meteor](https://github.com/meteorhacks/cluster)(Clustering solution for Meteor with load balancing and service discovery)
 
 
 ## Paas Platfroms
@@ -150,6 +155,7 @@ A collection of docker online resources.
 * [weave](https://github.com/zettio/weave) (The Docker Network)
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
+* [calico-docker](https://github.com/Metaswitch/calico-docker)(Docker version of Project Calico,Calico can provide networking in a Docker environment)
 
 ## Continuous Integration
 * [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
@@ -197,6 +203,8 @@ A collection of docker online resources.
 ## Volumes
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
+## Security
+* [subuser](https://github.com/subuser-security/subuser) (Run programs in linux with selectively restricted permissions)
 
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -208,6 +216,8 @@ A collection of docker online resources.
 * [Dockerfile Project](http://dockerfile.github.io/)
 * [Dockerfiles](https://github.com/crosbymichael/Dockerfiles)(Collection of Dockerfiles)
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
+* [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
+* [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
 
 
 ## Containers
@@ -215,6 +225,7 @@ A collection of docker online resources.
 * [Supervisor](http://supervisord.org/) (A Process Control System)
 * [CFEngine](http://cfengine.com/) 
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
+* [tini](https://github.com/krallin/tini) (A tiny but valid `init` for containers)
 
 
 ## Extensions
@@ -229,6 +240,9 @@ A collection of docker online resources.
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
 * [Docker orchestration](http://chrisbarra.me/posts/docker-orchestration.html)
+* [Docker's rise from sleeper to open source king](http://www.cnbc.com/id/102422954)
+* [Faster Builds with Container-Based Infrastructure and Docker](http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/)
+
 
 ## Docker
 ### Images
@@ -268,6 +282,8 @@ A collection of docker online resources.
 * [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
+* [On-demand activation of Docker containers with systemd](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
+
 
 ### Security
 * [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -286,6 +302,7 @@ A collection of docker online resources.
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
+* [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 
 
 ### Monitoring
@@ -316,6 +333,16 @@ A collection of docker online resources.
 * [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 * [boycott docker](http://www.boycottdocker.org/)
+* [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
+* [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
+* [Is docker ready for production?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html?)
+* [After Docker:Unikernels and Immutable Infrastructure](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e)
+* [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
+* [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
+* [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
+
+
+
 
 
 ## Underlying Techniques
@@ -332,10 +359,14 @@ A collection of docker online resources.
 ## Related Projects
 ### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
+* [Announcing Docker Compose
+](https://blog.docker.com/2015/02/announcing-docker-compose/)
+
 
 ### Swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 * [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
+* [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
 
 
 ### Mesosphere
@@ -344,6 +375,9 @@ A collection of docker online resources.
 * [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
+* [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
+* [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
+* 
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
@@ -353,6 +387,10 @@ A collection of docker online resources.
 
 ### Others
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
+* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
+* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+
+
 
 
 ### openstack
@@ -371,6 +409,11 @@ A collection of docker online resources.
 * [Deploying and migrating a multi-node ElasticSearch-Logstash-Kibana cluster using Docker](https://clusterhq.com/blog/deploying-multi-node-elasticsearch-logstash-kibana-cluster-using-docker/)
 * [Node With Docker - Continuous Integration and Delivery](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/#.VPsh0YGUerE)
 * [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker)
+* [Ad Hoc Log Analysis with Kibana and Docker](https://www.cloudgear.net/blog/2015/apache-log-analysis-with-kibana-docker/)
+* [Networking Spark Cluster on Docker with Weave](http://weaveblog.com/2015/02/19/networking-spark-cluster-on-docker-with-weave/)
+* [Breaking Data Out of the Enterprise](http://read.payne.io/2015/02/19/breaking_data_out_of_the_enterprise.html)
+* [Using dockeer to build a data acqusition pipeline with kafka and hbase](http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase)
+* [How to use MongoDB & NodeJS with Docker](http://ifdattic.com/how-to-mongodb-nodejs-docker/)
 
 
 
@@ -396,6 +439,7 @@ A collection of docker online resources.
 * [Docker and Phoenix: How to Make Your Continuous Integration More Awesome](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
 * [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
 * [Docker in Action - Development to Delivery ](https://blog.rainforestqa.com/2014-11-19-docker-in-action-from-deployment-to-delivery-part-1-local-docker-setup/) / [part2](https://blog.rainforestqa.com/2014-12-08-docker-in-action-from-deployment-to-delivery-part-2-continuous-integration) / [part3](https://blog.rainforestqa.com/2015-01-15-docker-in-action-from-deployment-to-delivery-part-3-continuous-delivery)
+* [ASP.NET 5 development on OS X with Docker](http://open.bekk.no/aspnet5-development-on-osx-with-docker)
 
 
 ### Production
@@ -408,4 +452,6 @@ A collection of docker online resources.
 
 ### Other Platfroms
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
+* [The IoT Singularity: Docker for Internet of Things Devices](http://blogs.intel.com/evangelists/2015/01/28/iot-singularity-docker-internet-things-devices/)
+* [Heavily ARMed after major upgrade: Raspberry Pi with Docker 1.5.0](http://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
 
