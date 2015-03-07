@@ -43,11 +43,13 @@ docker资源汇总,随时更新，欢迎补充。
   * [底层技术](#底层技术)
     * [LXC](#LXC)
     * [cgroups](#cgroups)
-  * [相关组件](#相关组件)
+  * [相关项目](#相关项目)
     * [compose](#compose)
     * [swarm](#swarm)
     * [mesosphere](#mesosphere)
     * [kubernetes](#kubernetes)
+    * [openstack](#openstack)
+    * [Azure](#Azure)
   * [应用](#应用)
     * [Apps](#Apps)
     * [GUI](#GUI)
@@ -270,6 +272,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) (与systemd有关)
 
 ### 网络
+* [Advanced networking](https://docs.docker.com/articles/networking/)
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
@@ -315,7 +318,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (archwiki上的内容)
 
 
-## 相关组件
+## 相关项目
 ### compose
 * [Docker Compose](http://docs.docker.com/compose/)
 
@@ -329,7 +332,12 @@ docker资源汇总,随时更新，欢迎补充。
 ### kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
 * [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
-* 
+
+### openstack
+* [docker](https://wiki.openstack.org/wiki/Docker)
+
+### Azure
+* [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
 
 ## 应用
 
