@@ -67,7 +67,7 @@ A collection of docker online resources.
 
 # Main Resources
 ## Books
-* [THE Docker Book](http://www.dockerbook.com/)
+* [The Docker Book](http://www.dockerbook.com/)
 
 ## Websites
 
@@ -339,6 +339,8 @@ A collection of docker online resources.
 * [After Docker:Unikernels and Immutable Infrastructure](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e)
 * [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
 * [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
+* [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
+
 
 
 
