@@ -31,6 +31,7 @@ A collection of docker online resources.
   * [Docker](#docker)
     * [Images](#images)
     * [Storage](#storage)
+    * [Volumes](#volumes)
     * [Dockerfiles](#dockerfiles)
     * [Containers](#containers)
     * [Security](#security)
@@ -129,6 +130,8 @@ A collection of docker online resources.
 * [octohost](https://github.com/octohost/octohost)(Simple web focused Dockerfile based PaaS server)
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
 * [cloudfoundry](https://github.com/cloudfoundry) 
+* [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
+* 
 
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -241,7 +244,11 @@ A collection of docker online resources.
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
+
+### Volumes
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
+* [Powerstrip-flocker: Portable volumes using just the Docker CLI](https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/)
+* 
 
 ### Dockerfiles
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
