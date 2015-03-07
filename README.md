@@ -63,14 +63,18 @@ docker资源汇总,随时更新，欢迎补充。
 ### 英文
 * [官方文档](https://docs.docker.com/) 
 * [Docker项目地址](https://github.com/docker/docker)
+* [官方博客](http://blog.docker.com/)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
-
+* [Coreos官方文档](https://coreos.com/docs/)
+* [Coreos官方博客](https://coreos.com/blog/)
 
 ### 中文
 * [Dockerpool](http://dockerpool.com/) 
 * [Docker中文](http://www.docker.org.cn/) 
 * [Dockerone](http://dockerone.com/)
+* [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
+* [CSDN Docker 社区](http://docker.csdn.net/)
 
 ## 开源文档
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
