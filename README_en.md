@@ -12,7 +12,7 @@ A collection of docker online resources.
   * [OS](#os)
   * [Competitor](#competitor)
   * [Management Tool](#management-tool)
-  * [Paas Platform](#paas-platfrom)
+  * [Paas Platforms](#paas-platfroms)
   * [Integration With Other Projects](#integration-with-other-projects)
   * [Monitor](#monitor)
   * [Network](#network)
@@ -63,7 +63,7 @@ A collection of docker online resources.
 ## Books
 * [THE DOCKER BOOK](http://www.dockerbook.com/)
 
-## Wensites
+## Websites
 
 * [Official Documents](https://docs.docker.com/) 
 * [Docker Source Code](https://github.com/docker/docker)
