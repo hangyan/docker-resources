@@ -28,7 +28,7 @@ A collection of docker online resources.
   * [Containers](#containers)
   * [Extensions](#extensions)
 * [Blog Posts](#blog-posts)
-  * [Introduction](#introduction)
+  * [General](#general)
   * [Docker](#docker)
     * [Images](#images)
     * [Storage](#storage)
@@ -47,12 +47,13 @@ A collection of docker online resources.
     * [LXC](#lxc)
     * [cgroups](#cgroups)
   * [Related Projects](#related-projects)
-    * [compose](#compose)
-    * [swarm](#swarm)
-    * [mesosphere](#mesosphere)
-    * [kubernetes](#kubernetes)
-    * [openstack](#openstack)
+    * [Compose](#compose)
+    * [Wwarm](#swarm)
+    * [Mesosphere](#mesosphere)
+    * [Kubernetes](#kubernetes)
+    * [Openstack](#openstack)
     * [Azure](#azure)
+    * [Others](#others)
   * [Usage](#usage)
     * [Apps](#apps)
     * [GUI](#gui)
@@ -223,10 +224,11 @@ A collection of docker online resources.
 
 
 # Blog Posts
-## Introduction
+## General
 * [How to Use Docker on OS X: The Missing Guide](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
+* [Docker orchestration](http://chrisbarra.me/posts/docker-orchestration.html)
 
 ## Docker
 ### Images
@@ -313,6 +315,7 @@ A collection of docker online resources.
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
 * [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
+* [boycott docker](http://www.boycottdocker.org/)
 
 
 ## Underlying Techniques
@@ -327,26 +330,29 @@ A collection of docker online resources.
 
 
 ## Related Projects
-### compose
+### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
 
-### swarm
+### Swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 * [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
 
 
-### mesosphere
+### Mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
 * [Managing Docker Clusters Using Mesos and Marathon](http://beingasysadmin.wordpress.com/2014/06/27/managing-docker-clusters-using-mesos-and-marathon/)
 * [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 
-### kubernetes
+### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
 * [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/)
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
+
+### Others
+* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 
 
 ### openstack
@@ -364,6 +370,7 @@ A collection of docker online resources.
 * [Transparent Squid in a container](https://github.com/jpetazzo/squid-in-a-can)
 * [Deploying and migrating a multi-node ElasticSearch-Logstash-Kibana cluster using Docker](https://clusterhq.com/blog/deploying-multi-node-elasticsearch-logstash-kibana-cluster-using-docker/)
 * [Node With Docker - Continuous Integration and Delivery](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/#.VPsh0YGUerE)
+* [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker)
 
 
 
