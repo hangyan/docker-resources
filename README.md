@@ -1,9 +1,9 @@
 # docker-resources
 A collection of docker online resources.
 
-[中文](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
+中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
 
-# 目录
+# Menu
 * [Main Resources](#main-resources)
   * [Books](#books)
   * [Websites](#websites)
