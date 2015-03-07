@@ -3,9 +3,51 @@ docker资源汇总
 
 # 目录
 * [介绍](#介绍)
+  * [书籍](#书籍)
+  * [网站](#网站)
+  * [开源文档](#开源文档)
+  * [资源汇集](#资源汇集)
 * [相关项目](#相关项目)
+  * [OS](#OS)
+  * [竞争者](#竞争者)
+  * [管理工具](#管理工具)
+  * [Paas平台](#Paas平台)
+  * [项目集成](#项目集成)
+  * [监控](#监控)
+  * [网络](#网络)
+  * [持续集成](#持续集成）
+  * [开发环境](#开发环境)
+  * [日志](#日志)
+  * [服务发现](#服务发现)
+  * [私有仓库](#私有仓库)
+  * [可视化工具](#可视化工具)
+  * [存储](#存储)
 * [博文](#博文)
-
+  * [Docker技术](#Docker技术)
+    * [镜像](#镜像)
+    * [存储](#存储)
+    * [Dockerfile](#Dockerfile)
+    * [容器](#容器)
+    * [安全](#安全)
+    * [开发部署](#开发部署）
+    * [测试](#测试)
+    * [资源管理](#资源管理)
+    * [网络](#网路)
+    * [监控](#监控)
+    * [私有仓库](#私有仓库)
+    * [API](#API)
+    * [性能](#性能）
+  * [思考](#思考)
+  * [底层技术](#底层技术)
+    * [LXC](#LXC)
+  * [相关组件](#相关组件)
+    * [compose](#compose)
+    * [swarm](#swarm)
+  * [应用](#应用)
+    * [Apps](#Apps)
+    * [GUI](#GUI)
+    * [企业实践](#企业实践)
+    * [其他平台](#其他平台)
 
 # 介绍
 ## 书籍
@@ -116,9 +158,6 @@ docker资源汇总
 * [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c)
 * [Containers&Docker: How secure are they?](https://blog.docker.com/2013/08/containers-docker-how-secure-are-they/)
 
-### docker开发环境
-* [Setting Up a Dev Environment](https://docs.docker.com/contributing/devenvironment/)
-* 
 
 ### 开发部署
 * [Docker: Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
@@ -152,10 +191,6 @@ docker资源汇总
 ### 性能
 * [PostgreSQL Performance on Docker](http://www.davidmkerr.com/2014/06/postgresql-performance-on-docker.html)
 
-### GUI应用
-* [Docker Containers on the Desktop](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
-* [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
-* [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 
 ## 思考
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
@@ -179,6 +214,12 @@ docker资源汇总
 
 ### Apps
 * [Dockerizing a Python Web App](http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App)
+
+### GUI
+* [Docker Containers on the Desktop](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
+* [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
+* [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
+
 
 ### 企业实践
 * [Docker at Lyst](http://developers.lyst.com/devops/2014/12/08/docker/)
