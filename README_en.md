@@ -5,7 +5,7 @@ A collection of docker online resources.
 * [Main Resources](#main-resources)
   * [Books](#books)
   * [Websites](#websites)
-  * [Open Source Documents](#open-source-documents)
+  * [Documents](#documents)
   * [Archives](#archives)
   * [Personal Blogs](#personal-blogs)
 * [Related Projects](#related-projects)
@@ -61,7 +61,7 @@ A collection of docker online resources.
 
 # Main Resources
 ## Books
-* [THE DOCKER BOOK](http://www.dockerbook.com/)
+* [THE Docker Book](http://www.dockerbook.com/)
 
 ## Websites
 
@@ -74,7 +74,7 @@ A collection of docker online resources.
 * [Coreos Official Blogs](https://coreos.com/blog/)
 
 
-## Open Source Documents
+## Documents
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
 
 ## Archives
@@ -94,20 +94,21 @@ A collection of docker online resources.
 
 # Related Projects
 ## OS
-* [coreos](https://coreos.com/) 
-* [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) 
-* [rancheio](http://rancher.com/) 
+* [coreos](https://coreos.com/) (Linux for Massive Server Deployments)
+* [RHEL Atomic Host](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers) 
+* [rancheio](http://rancher.com/) (Simple, elegant tools for managing Docker in production)
+* [snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
 
 ## Competitors
-* [rocket](https://github.com/coreos/rocket) 
+* [rocket](https://github.com/coreos/rocket)  (App Container runtime)
 
 ## Management Tools
-* [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) 
-* [shipyard](https://github.com/shipyard/shipyard)  
-* [swarm](https://github.com/docker/swarm) 
-* [citadel](https://github.com/citadel/citadel) 
-* [docker-cluster](https://github.com/tsuru/docker-cluster) 
-* [compose](https://github.com/docker/compose) (Define and run complex applications using Docker.原来的Fig)
+* [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
+* [shipyard](https://github.com/shipyard/shipyard)   (Composable Docker Management)
+* [swarm](https://github.com/docker/swarm) (A Docker-native clustering system)
+* [citadel](https://github.com/citadel/citadel) (A toolkit for building a distributed docker cluster)
+* [docker-cluster](https://github.com/tsuru/docker-cluster) (Cluster support for Docker, using the remote API) 
+* [compose](https://github.com/docker/compose) (Define and run complex applications using Docker)
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
 * [maestro](https://github.com/toscanini/maestro) (Container orchestration for Docker environments)
 * [decking](https://github.com/meetfinch/decking) (A Docker helper to create, manage and run clusters of containers)
@@ -138,7 +139,7 @@ A collection of docker online resources.
 * [dockerana](https://github.com/dockerana/dockerana) (Docker Monitoring with support for Grafana and Graphite)
 * [docker-mon](https://github.com/icecrime/docker-mon)(Console-based Docker monitoring)
 * [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
-* 
+
 
 ## Networking
 * [weave](https://github.com/zettio/weave) (The Docker Network)
@@ -179,7 +180,7 @@ A collection of docker online resources.
 
 ## UI Tools
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
-* [Kitematic](https://kitematic.com/) (用于MAC)
+* [Kitematic](https://kitematic.com/) (for MAC OSX)
 * [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
@@ -257,7 +258,7 @@ A collection of docker online resources.
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
 
 ### Security
-* [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
+* [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
 * [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c)
 * [Containers&Docker: How secure are they?](https://blog.docker.com/2013/08/containers-docker-how-secure-are-they/)
 * [Docker and SELinux](http://www.projectatomic.io/docs/docker-and-selinux/)
@@ -266,17 +267,17 @@ A collection of docker online resources.
 * [Docker Container Breakout Proof-Of-Concept Exploit](http://outofmemory.cn/wr/?u=http%3A%2F%2Fblog.docker.com%2F2014%2F06%2Fdocker-container-breakout-proof-of-concept-exploit%2F)
 
 ### Resource Management
-* [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) (与systemd有关)
+* [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) 
 
 ### Networking
 * [Advanced networking](https://docs.docker.com/articles/networking/)
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
-* [Docker部署基于Ryu的SDN环境](http://www.csdn.net/article/2014-12-05/2822974)
+
 
 ### Monitoring
-* [GATHERING LXC AND DOCKER CONTAINERS METRICS](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
+* [Gathering lxc and docker containers metrics](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 * [Runtime Metrics](https://docs.docker.com/articles/runmetrics/)
 
@@ -287,7 +288,7 @@ A collection of docker online resources.
 
 
 ### API
-* [DOCKER FROM A DISTANCE - THE REMOTE API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/) 
+* [Docker from a distance - the remote API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/) 
 * [KVM and Docker LXC Benchmarking with OpenStack](http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html)
 
 ### Performance
@@ -311,7 +312,7 @@ A collection of docker online resources.
 
 ### cgroups
 * [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) 
-* [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html) (推荐）
+* [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html)
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) 
 
 
@@ -328,7 +329,7 @@ A collection of docker online resources.
 
 ### kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
-* [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
+
 
 ### openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
