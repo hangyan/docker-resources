@@ -45,7 +45,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [相关组件](#相关组件)
     * [compose](#compose)
     * [swarm](#swarm)
-    * [Mesosphere](#Mesosphere)
+    * [mesosphere](#mesosphere)
     * [kubernetes](#kubernetes)
   * [应用](#应用)
     * [Apps](#Apps)
@@ -116,7 +116,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [gaudi](https://github.com/marmelab/gaudi) (Gaudi allows to share multi-component applications, based on Docker, Go, and YAML)
 * [panamax](http://panamax.io/) (Docker management for humans)
 * [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
-* 
+* [fleet] (https://github.com/coreos/fleet) (A Distributed init System)
 
 
 ## Paas平台
@@ -126,7 +126,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dawn](https://github.com/dawn/dawn) (Docker-based PaaS in Ruby)
 * [octohost](https://github.com/octohost/octohost)(Simple web focused Dockerfile based PaaS server)
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
-
+* [cloudfoundry](https://github.com/cloudfoundry) ()
 
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -168,6 +168,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [etcd](https://github.com/coreos/etcd) (A highly-available key value store for shared configuration and service discovery)
 * [docker-grand-ambassador](https://github.com/cpuguy83/docker-grand-ambassador) ( fully dynamic docker link ambassador)
 * [confd](https://github.com/kelseyhightower/confd) (Manage local application configuration files using templates and data from etcd or consul)
+* [ambassadord](https://github.com/progrium/ambassadord) (Magic Docker ambassador)
 
 ## 私有仓库
 * [docket](https://github.com/netvarun/docket) (Custom docker registry that allows for lightning fast deploys through bittorrent)
@@ -196,6 +197,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [passenger-docker](https://github.com/phusion/passenger-docker) (Docker base images for Ruby, Python, Node.js and Meteor web apps)
 * [Dockerfile Project](http://dockerfile.github.io/)
 * [Dockerfiles](https://github.com/crosbymichael/Dockerfiles)(Collection of Dockerfiles)
+* [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
 
 
 ## 容器
@@ -295,7 +297,7 @@ docker资源汇总,随时更新，欢迎补充。
 ### swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 
-### Mesosphere
+### mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
 
 ### kubernetes
