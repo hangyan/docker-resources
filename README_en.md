@@ -10,12 +10,12 @@ A collection of docker online resources.
   * [Personal Blogs](#personal-blogs)
 * [Related Projects](#related-projects)
   * [OS](#os)
-  * [Competitor](#competitor)
-  * [Management Tool](#management-tool)
+  * [Competitors](#competitors)
+  * [Management Tools](#management-tools)
   * [Paas Platforms](#paas-platfroms)
-  * [Integration With Other Projects](#integration-with-other-projects)
-  * [Monitor](#monitor)
-  * [Network](#network)
+  * [Integration Projects](#integration-projects)
+  * [Monitoring](#monitoring)
+  * [Networking](#networking)
   * [Continuous Integration](#continuous-integration)
   * [Development And Deployment](#development-and-deployment)
   * [Logging](#logging)
@@ -23,26 +23,26 @@ A collection of docker online resources.
   * [Private Registry](#private-registry)
   * [UI Tools](#ui-tools)
   * [Storage](#storage)
-  * [Image And Dockerfile](#image-and-dockerfile)
+  * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
-  * [Extension](#extension)
-* [Blogs](#blogs)
-  * [Intro](#intro)
+  * [Extensions](#extensions)
+* [Blog Posts](#blog-posts)
+  * [Introduction](#introduction)
   * [Docker](#docker)
     * [Images](#images)
     * [Storage](#storage)
-    * [Dockerfile](#dockerfile)
+    * [Dockerfiles](#dockerfiles)
     * [Containers](#containers)
     * [Security](#security)
     * [Resource Management](#resource-management)
     * [Networking](#networking)
-    * [Monitor](#monitor)
+    * [Monitoring](#monitoring)
     * [Private Registry](#private-registry)
     * [API](#api)
     * [Performance](#performance)
-  * [Think](#think)
-  * [Underlying Technique](#underlying-technique)
-    * [LXC](#LXC)
+  * [Think Deeply](#think-deeply)
+  * [Underlying Techniques](#underlying-techniques)
+    * [LXC](#lxc)
     * [cgroups](#cgroups)
   * [Related Projects](#related-projects)
     * [compose](#compose)
@@ -55,7 +55,7 @@ A collection of docker online resources.
     * [Apps](#apps)
     * [GUI](#gui)
     * [Service Discovery](#service-discovery)
-    * [Development And Deployment And Test](#development-deployment-test)
+    * [Development And Deployment And Test](#development-and-deployment-and-test)
     * [Production](#production)
     * [Other Platfroms](#other-platfroms)
 
@@ -98,10 +98,10 @@ A collection of docker online resources.
 * [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) 
 * [rancheio](http://rancher.com/) 
 
-## Competitor
+## Competitors
 * [rocket](https://github.com/coreos/rocket) 
 
-## Management Tool
+## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) 
 * [shipyard](https://github.com/shipyard/shipyard)  
 * [swarm](https://github.com/docker/swarm) 
@@ -129,18 +129,18 @@ A collection of docker online resources.
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
 * [cloudfoundry](https://github.com/cloudfoundry) 
 
-## Integration With Other Projects
+## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
 
-## Monitor
+## Monitoring
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
 * [dockerana](https://github.com/dockerana/dockerana) (Docker Monitoring with support for Grafana and Graphite)
 * [docker-mon](https://github.com/icecrime/docker-mon)(Console-based Docker monitoring)
 * [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
 * 
 
-## Network
+## Networking
 * [weave](https://github.com/zettio/weave) (The Docker Network)
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
@@ -190,7 +190,7 @@ A collection of docker online resources.
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
 
-## Image And Dockerfile
+## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
 * [baseimage-docker](https://github.com/phusion/baseimage-docker) (A minimal Ubuntu base image modified for Docker-friendlines)
 * [busybox](https://github.com/jpetazzo/docker-busybox) (Busybox for Stackbrew)
@@ -209,14 +209,14 @@ A collection of docker online resources.
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
 
 
-## Extension
+## Extensions
 * [powerstrip](https://github.com/clusterhq/powerstrip) (A tool for prototyping Docker extensions)
 
 
 
 
-# Blogs
-## Intro
+# Blog Posts
+## Introduction
 * [How to Use Docker on OS X: The Missing Guide](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
@@ -242,7 +242,7 @@ A collection of docker online resources.
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
 
-### Dockerfile
+### Dockerfiles
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
 * [Writing Dockerfile](http://www.techbar.me/writing-dockerfile/)
 * [How to Optimize Your Dockerfile](http://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
@@ -275,7 +275,7 @@ A collection of docker online resources.
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
 * [Docker部署基于Ryu的SDN环境](http://www.csdn.net/article/2014-12-05/2822974)
 
-### Monitor
+### Monitoring
 * [GATHERING LXC AND DOCKER CONTAINERS METRICS](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 * [Runtime Metrics](https://docs.docker.com/articles/runmetrics/)
@@ -298,13 +298,13 @@ A collection of docker online resources.
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
 
 
-## Think
+## Think Deeply
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
 * [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 
 
-## Underlying Technique
+## Underlying Techniques
 ### LXC
 * [Exploring LXC Networking](http://containerops.org/2013/11/19/lxc-networking/)
 * [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers)
@@ -373,7 +373,7 @@ A collection of docker online resources.
 * [Docker at Shopify: How we built containers that power over 100,000 online shops](http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 * [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
 * [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
-* [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
+
 
 
 ### Other Platfroms
