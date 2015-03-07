@@ -28,7 +28,7 @@ A collection of docker online resources.
   * [Extension](#extension)
 * [Blogs](#blogs)
   * [Intro](#intro)
-  * [Docker](#cocker)
+  * [Docker](#docker)
     * [Images](#images)
     * [Storage](#storage)
     * [Dockerfile](#dockerfile)
@@ -149,7 +149,7 @@ A collection of docker online resources.
 * [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
 
 
-## Development & Deployment
+## Development And Deployment
 * [tug](https://github.com/nitrous-io/tug) (Docker development workflow)
 * [vagga](https://github.com/tailhook/vagga)(Vagga is a tool to create development environments)
 * [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
@@ -358,7 +358,7 @@ A collection of docker online resources.
 * [Docker Service Discovery Using Etcd and Haproxy](http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/)
 
 
-### Development & Deployment & Test
+### Development And Deployment And Test
 * [Docker: Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 * [Eight Docker Development Patterns](http://www.hokstad.com/docker/patterns)
 * [Deploy Java Apps With Docker = Awesome](http://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
