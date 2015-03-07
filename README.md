@@ -175,6 +175,7 @@ docker资源汇总,随时更新，欢迎补充。
 ## 私有仓库
 * [docket](https://github.com/netvarun/docket) (Custom docker registry that allows for lightning fast deploys through bittorrent)
 * [docker-registry](https://github.com/docker/docker-registry) (Registry server for Docker (hosting/delivering of repositories and images))
+* [wharf](https://github.com/dockercn/wharf)(ContainerOps Open Source Platform)
 
 
 ## 可视化工具
@@ -367,7 +368,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker at Shopify: How we built containers that power over 100,000 online shops](http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 * [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
 * [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
-* 
+* [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
+
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
