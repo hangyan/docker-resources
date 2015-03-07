@@ -241,6 +241,8 @@ A collection of docker online resources.
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
 * [Docker orchestration](http://chrisbarra.me/posts/docker-orchestration.html)
 * [Docker's rise from sleeper to open source king](http://www.cnbc.com/id/102422954)
+* [Faster Builds with Container-Based Infrastructure and Docker](http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/)
+
 
 ## Docker
 ### Images
@@ -332,6 +334,12 @@ A collection of docker online resources.
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 * [boycott docker](http://www.boycottdocker.org/)
 * [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
+* [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
+* [Is docker ready for production?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html?)
+* [After Docker:Unikernels and Immutable Infrastructure](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e)
+* [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
+* [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
+
 
 
 
@@ -366,6 +374,8 @@ A collection of docker online resources.
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 * [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
+* [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
+* 
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
@@ -376,6 +386,8 @@ A collection of docker online resources.
 ### Others
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
+* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+
 
 
 
