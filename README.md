@@ -7,6 +7,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [网站](#网站)
   * [开源文档](#开源文档)
   * [内容聚合](#内容聚合)
+  * [个人博客](#个人博客)
 * [相关项目](#相关项目)
   * [OS](#OS)
   * [竞争者](#竞争者)
@@ -94,6 +95,13 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
 * [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
+
+## 个人博客
+* [jpetazzo](http://jpetazzo.github.io/)
+* [PROGRIUM](http://progrium.com/blog/)
+* [Jason Wilder](http://jasonwilder.com/)
+* [Michael Crosby](http://crosbymichael.com/)
+
 
 # 相关项目
 ## OS
