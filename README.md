@@ -46,7 +46,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [compose](#compose)
     * [swarm](#swarm)
     * [Mesosphere](#Mesosphere)
-    * [kubernetes](#Mesosphere)
+    * [kubernetes](#kubernetes)
   * [应用](#应用)
     * [Apps](#Apps)
     * [GUI](#GUI)
