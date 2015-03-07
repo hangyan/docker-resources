@@ -98,7 +98,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
-* [PROGRIUM](http://progrium.com/blog/)
+* [Jeff Lindsay](http://progrium.com/blog/)
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
 
