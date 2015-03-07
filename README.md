@@ -42,6 +42,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [思考](#思考)
   * [底层技术](#底层技术)
     * [LXC](#LXC)
+    * [cgroups](#cgroups)
   * [相关组件](#相关组件)
     * [compose](#compose)
     * [swarm](#swarm)
@@ -305,6 +306,13 @@ docker资源汇总,随时更新，欢迎补充。
 ## 底层技术
 ### LXC
 * [Exploring LXC Networking](http://containerops.org/2013/11/19/lxc-networking/)
+* [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers)
+
+### cgroups
+* [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) (内核官方文档)
+* [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html) (推荐）
+* [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (archwiki上的内容)
+
 
 ## 相关组件
 ### compose
