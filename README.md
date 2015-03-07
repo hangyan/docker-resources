@@ -58,8 +58,8 @@ docker资源汇总,随时更新，欢迎补充。
 
 # 资源汇集
 ## 书籍
-* [第一本Docker书](http://book.douban.com/subject/26285268/) (收费，推荐。)
-* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) (开源，内容一般，慎入)
+* [第一本Docker书](http://book.douban.com/subject/26285268/) 
+* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 
 * [THE DOCKER BOOK](http://www.dockerbook.com/)
 
 ## 网站
