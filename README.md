@@ -316,7 +316,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## 相关组件
 ### compose
-* [http://docs.docker.com/compose/](http://docs.docker.com/compose/)
+* [Docker Compose](http://docs.docker.com/compose/)
 
 ### swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
