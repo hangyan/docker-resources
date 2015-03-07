@@ -348,12 +348,12 @@ A collection of docker online resources.
 ## Underlying Techniques
 ### LXC
 * [Exploring LXC Networking](http://containerops.org/2013/11/19/lxc-networking/)
-* [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers)
+* [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers) (from archwiki)
 
 ### cgroups
-* [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) 
+* [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) (from kernel.org)
 * [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html)
-* [Cgroups](https://wiki.archlinux.org/index.php/cgroups) 
+* [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (from archwiki)
 
 
 ## Related Projects
