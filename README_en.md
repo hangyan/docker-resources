@@ -34,11 +34,11 @@ A collection of docker online resources.
     * [Dockerfile](#dockerfile)
     * [Containers](#containers)
     * [Security](#security)
-    * [Resource Management](#resource Management)
+    * [Resource Management](#resource-management)
     * [Networking](#networking)
     * [Monitor](#monitor)
     * [Private Registry](#private-registry)
-    * [API](#API)
+    * [API](#api)
     * [Performance](#performance)
   * [Think](#think)
   * [Underlying Technique](#underlying-technique)
@@ -268,7 +268,7 @@ A collection of docker online resources.
 ### Resource Management
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) (与systemd有关)
 
-### Network
+### Networking
 * [Advanced networking](https://docs.docker.com/articles/networking/)
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
