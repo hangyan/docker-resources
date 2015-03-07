@@ -3,8 +3,8 @@ docker资源汇总
 
 # 介绍
 ## 书籍
-* [第一本Docker书](http://book.douban.com/subject/26285268/) 收费，推荐。
-* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 开源，内容一般，慎入
+* [第一本Docker书](http://book.douban.com/subject/26285268/) (收费，推荐。)
+* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) (开源，内容一般，慎入)
 * [THE DOCKER BOOK](http://www.dockerbook.com/)
 
 ## 网站
@@ -19,49 +19,56 @@ docker资源汇总
 * [Dockerone](http://dockerone.com/)
 
 ## 开源文档
-* [Docker中文指南](https://github.com/widuu/chinese_docker)  中文，质量一般，较老
+* [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
 
 ## 资源汇集
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) 英文docker资源汇总
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) (英文docker资源汇总)
 
 # 相关项目
 ## OS
-* [coreos](https://coreos.com/) 比较成熟
-* [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) 新出，内置kubernetes
-* [rancheio](http://rancher.com/) 较新
+* [coreos](https://coreos.com/) (比较成熟)
+* [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，内置kubernetes)
+* [rancheio](http://rancher.com/) (较新)
 
 ## 竞争者
-* [rocket](https://github.com/coreos/rocket) coreos推出
+* [rocket](https://github.com/coreos/rocket) (coreos推出)
 
 ## 管理工具
-* [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) 最有可能成为事实标准的一个，已经获得诸多平台支持
-* [shipyard](https://github.com/shipyard/shipyard)  带GUI
-* [swarm](https://github.com/docker/swarm) 官方出品，尚在初期
-* [citadel](https://github.com/citadel/citadel) 用于创建管理工具的tookit,shipyard即是基于此开发
-* [docker-cluster](https://github.com/tsuru/docker-cluster) 使用`Docker remote api`
+* [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (最有可能成为事实标准的一个，已经获得诸多平台支持)
+* [shipyard](https://github.com/shipyard/shipyard)  (带GUI)
+* [swarm](https://github.com/docker/swarm) (官方出品，尚在初期)
+* [citadel](https://github.com/citadel/citadel) (用于创建管理工具的tookit,shipyard即是基于此开发)
+* [docker-cluster](https://github.com/tsuru/docker-cluster) (使用`Docker remote api`)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn)
 * [deis](http://deis.io/)
+* [peas](https://github.com/tombh/peas) (Docker and Ruby based PaaS)
+* [dawn](https://github.com/dawn/dawn) (Docker-based PaaS in Ruby)
+
+## 项目集成
+* [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
+* 
 
 ## 监控
 
 ## 网络
 * [weave](https://github.com/zettio/weave)
+* [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 
 ## 持续集成
 * [drone](https://github.com/drone/drone)
 * 
 
 ## 开发环境
-* [tug](https://github.com/nitrous-io/tug) Docker development workflow
+* [tug](https://github.com/nitrous-io/tug) (Docker development workflow)
 * 
 
 ## 日志
 * [logspout](https://github.com/gliderlabs/logspout)
 
 ## 服务发现
-* [skydock](https://github.com/crosbymichael/skydock) 基于DNS
+* [skydock](https://github.com/crosbymichael/skydock) (基于DNS)
 * [Consul](https://www.consul.io/)
 
 ## 私有仓库
@@ -71,6 +78,9 @@ docker资源汇总
 * [dockerboard](https://github.com/dockerboard/dockerboard) 
 * [Kitematic](https://kitematic.com/) 用于MAC
 * [dockerui](https://github.com/crosbymichael/dockerui)
+
+## 存储
+* [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
 
 ## 镜像
 
@@ -89,6 +99,7 @@ docker资源汇总
 
 ### Dockerfile
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
+* [Writing Dockerfile](http://www.techbar.me/writing-dockerfile/)
 
 ### 容器
 * [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
@@ -118,6 +129,7 @@ docker资源汇总
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) 与systemd有关
 
 ### 网络
+* [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 
 ### 监控
 * [GATHERING LXC AND DOCKER CONTAINERS METRICS](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
@@ -129,7 +141,7 @@ docker资源汇总
 
 ### API
 * [DOCKER FROM A DISTANCE - THE REMOTE API](http://blog.trifork.com/2013/12/24/docker-from-a-distance-the-remote-api/) 
-* 
+* [KVM and Docker LXC Benchmarking with OpenStack](http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html)
 
 ### 性能
 * [PostgreSQL Performance on Docker](http://www.davidmkerr.com/2014/06/postgresql-performance-on-docker.html)
@@ -158,10 +170,16 @@ docker资源汇总
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 
 ## 应用
-### 成功案例
+
+### Apps
+* [Dockerizing a Python Web App](http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App)
+
+### 企业实践
 * [Docker at Lyst](http://developers.lyst.com/devops/2014/12/08/docker/)
 * [Docker at Shopify: How we built containers that power over 100,000 online shops](http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 * [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
+* [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
+* 
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
