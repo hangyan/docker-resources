@@ -23,6 +23,7 @@ A collection of docker online resources.
   * [Private Registry](#private-registry)
   * [UI Tools](#ui-tools)
   * [Storage](#storage)
+  * [Volumes](#volumes)
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
@@ -131,7 +132,7 @@ A collection of docker online resources.
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
 * [cloudfoundry](https://github.com/cloudfoundry) 
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
-* 
+
 
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -191,6 +192,8 @@ A collection of docker online resources.
 
 ## Storage
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
+
+## Volumes
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
 
@@ -248,7 +251,7 @@ A collection of docker online resources.
 ### Volumes
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
 * [Powerstrip-flocker: Portable volumes using just the Docker CLI](https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/)
-* 
+
 
 ### Dockerfiles
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
@@ -256,7 +259,7 @@ A collection of docker online resources.
 * [How to Optimize Your Dockerfile](http://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 * [Dockerfile Golf (or optimizing the Docker build process)](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Dockerfile Best Practices](http://crosbymichael.com/dockerfile-best-practices.html)
-* 
+
 
 
 ### Containers
