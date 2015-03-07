@@ -16,7 +16,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [监控](#监控)
   * [网络](#网络)
   * [持续集成](#持续集成)
-  * [开发环境](#开发环境)
+  * [开发部署](#开发部署)
   * [日志](#日志)
   * [服务发现](#服务发现)
   * [私有仓库](#私有仓库)
@@ -104,7 +104,11 @@ docker资源汇总,随时更新，欢迎补充。
 * [decking](https://github.com/meetfinch/decking) (A Docker helper to create, manage and run clusters of containers)
 * [flocker](https://github.com/ClusterHQ/flocker) (Easily manage Docker containers & their data)
 * [serf](https://github.com/hashicorp/serf) (Service orchestration and management tool)
-
+* [marathon](https://github.com/mesosphere/marathon) (Deploy and manage containers (including Docker) on top of Apache Mesos at scale)
+* [gaudi](https://github.com/marmelab/gaudi) (Gaudi allows to share multi-component applications, based on Docker, Go, and YAML)
+* [panamax](http://panamax.io/) (Docker management for humans)
+* [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
+* 
 
 
 ## Paas平台
@@ -124,19 +128,24 @@ docker资源汇总,随时更新，欢迎补充。
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
 * [dockerana](https://github.com/dockerana/dockerana) (Docker Monitoring with support for Grafana and Graphite)
 * [docker-mon](https://github.com/icecrime/docker-mon)(Console-based Docker monitoring)
-
+* [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
+* 
 
 ## 网络
 * [weave](https://github.com/zettio/weave)
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
+* [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
 
 ## 持续集成
 * [drone](https://github.com/drone/drone)
 
 
-## 开发环境
+## 开发部署
 * [tug](https://github.com/nitrous-io/tug) (Docker development workflow)
 * [vagga](https://github.com/tailhook/vagga)(Vagga is a tool to create development environments)
+* [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
+* [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
+* 
 
 
 ## 日志
@@ -148,17 +157,22 @@ docker资源汇总,随时更新，欢迎补充。
 * [skydock](https://github.com/crosbymichael/skydock) (基于DNS)
 * [Consul](https://www.consul.io/)
 * [registrator](https://github.com/gliderlabs/registrator)(Service registry bridge for Docker with pluggable adapters)
+* [etcd](https://github.com/coreos/etcd) (A highly-available key value store for shared configuration and service discovery)
+* [docker-grand-ambassador](https://github.com/cpuguy83/docker-grand-ambassador) ( fully dynamic docker link ambassador)
+* [confd](https://github.com/kelseyhightower/confd) (Manage local application configuration files using templates and data from etcd or consul)
 
 ## 私有仓库
-* [docket](https://github.com/netvarun/docket)
+* [docket](https://github.com/netvarun/docket) (Custom docker registry that allows for lightning fast deploys through bittorrent)
 * [docker-registry](https://github.com/docker/docker-registry) (Registry server for Docker (hosting/delivering of repositories and images))
 
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard) 
-* [Kitematic](https://kitematic.com/) 用于MAC
+* [Kitematic](https://kitematic.com/) (用于MAC)
 * [dockerui](https://github.com/crosbymichael/dockerui)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
+* [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
+* 
 
 ## 存储
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
@@ -185,7 +199,9 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## 扩展
 * [powerstrip](https://github.com/clusterhq/powerstrip) (A tool for prototyping Docker extensions)
-* 
+
+
+
 
 # 博文
 ## 介绍
@@ -267,11 +283,12 @@ docker资源汇总,随时更新，欢迎补充。
 ## 相关组件
 ### compose
 * [http://docs.docker.com/compose/](http://docs.docker.com/compose/)
-* 
 
 ### swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 
+### Mesosphere
+* [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
 ## 应用
 
 ### Apps
