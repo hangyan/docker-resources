@@ -45,6 +45,8 @@ docker资源汇总,随时更新，欢迎补充。
   * [相关组件](#相关组件)
     * [compose](#compose)
     * [swarm](#swarm)
+    * [Mesosphere](#Mesosphere)
+    * [kubernetes](#Mesosphere)
   * [应用](#应用)
     * [Apps](#Apps)
     * [GUI](#GUI)
@@ -75,6 +77,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Dockerone](http://dockerone.com/)
 * [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
 * [CSDN Docker 社区](http://docker.csdn.net/)
+* [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
+
 
 ## 开源文档
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
@@ -294,6 +298,8 @@ docker资源汇总,随时更新，欢迎补充。
 ### Mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
 
+### kubernetes
+* [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
 
 ## 应用
 
