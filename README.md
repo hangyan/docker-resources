@@ -120,6 +120,7 @@ A collection of docker online resources.
 
 ## Competitors
 * [rocket](https://github.com/coreos/rocket)  (App Container runtime)
+* [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
 
 ## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
@@ -142,6 +143,8 @@ A collection of docker online resources.
 * [helios](https://github.com/spotify/helios) (Docker container orchestration platform)
 * [maestro-ng](https://github.com/signalfuse/maestro-ng) (Orchestration of Docker-based, multi-host environments)
 * [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
+* [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
+* [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
 
 
 ## Paas Platfroms
@@ -181,7 +184,7 @@ A collection of docker online resources.
 * [vagga](https://github.com/tailhook/vagga)(Vagga is a tool to create development environments)
 * [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
 * [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
-* 
+* [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
 
 
 ## Logging
@@ -235,6 +238,9 @@ A collection of docker online resources.
 * [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
 * [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
 * [discourse_docker](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
+* [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
+* [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
+* [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 
 
 ## Containers
@@ -250,10 +256,15 @@ A collection of docker online resources.
 
 ## API Client
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
+* [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
+* [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
+* 
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
+* [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
+* 
 
 
 # Blog Posts
@@ -279,6 +290,7 @@ A collection of docker online resources.
 * [Building Docker Images for Static Go Binaries](https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07)
 * [Squashing Docker Images](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/)
 * [Building a Multi-Purpose Docker Image](https://medium.com/docker-news/building-a-multi-purpose-docker-image-7762378ebc2e)
+
 
 
 ### Storage
