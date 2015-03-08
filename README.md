@@ -55,7 +55,7 @@ A collection of docker online resources.
     * [cgroups](#cgroups)
   * [Related Projects](#related-projects)
     * [Compose](#compose)
-    * [Wwarm](#swarm)
+    * [Swarm](#swarm)
     * [Mesosphere](#mesosphere)
     * [Kubernetes](#kubernetes)
     * [Openstack](#openstack)
