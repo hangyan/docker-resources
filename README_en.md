@@ -1,4 +1,4 @@
-# docker-resources
+# Docker Resources All In One
 A collection of docker online resources.
 
 中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
@@ -55,7 +55,7 @@ A collection of docker online resources.
     * [cgroups](#cgroups)
   * [Related Projects](#related-projects)
     * [Compose](#compose)
-    * [Wwarm](#swarm)
+    * [Swarm](#swarm)
     * [Mesosphere](#mesosphere)
     * [Kubernetes](#kubernetes)
     * [Openstack](#openstack)
@@ -258,13 +258,11 @@ A collection of docker online resources.
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
-* 
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
-* 
 
 
 # Blog Posts
@@ -340,7 +338,7 @@ A collection of docker online resources.
 * [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
 * [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
-* 
+
 
 
 ### Monitoring
@@ -417,7 +415,7 @@ A collection of docker online resources.
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 * [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
 * [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
-* 
+
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
@@ -434,11 +432,19 @@ A collection of docker online resources.
 
 
 
-### openstack
+### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
+
+### Others
+* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
+* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
+* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
+
+
 
 ## Usage
 
