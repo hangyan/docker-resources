@@ -9,6 +9,7 @@ A collection of docker online resources.
   * [Websites](#websites)
   * [Documents](#documents)
   * [Archives](#archives)
+  * [Community Blogs](#community-blogs)
   * [Personal Blogs](#personal-blogs)
 * [Related Projects](#related-projects)
   * [OS](#os)
@@ -74,11 +75,9 @@ A collection of docker online resources.
 
 * [Official Documents](https://docs.docker.com/) 
 * [Docker Source Code](https://github.com/docker/docker)
-* [Official Blogs](http://blog.docker.com/)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
-* [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
 * [Coreos Official Documents](https://coreos.com/docs/)
-* [Coreos Official Blogs](https://coreos.com/blog/)
+
 
 
 ## Documents
@@ -92,6 +91,11 @@ A collection of docker online resources.
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
 
+## Community Blogs
+* [Official Blogs](http://blog.docker.com/)
+* [Coreos Official Blogs](https://coreos.com/blog/)
+* [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
+* [SequenceIQ Blog](http://blog.sequenceiq.com/)
 
 ## Personal Blogs
 * [jpetazzo](http://jpetazzo.github.io/)
@@ -306,6 +310,8 @@ A collection of docker online resources.
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
 * [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
+* [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
+* 
 
 
 ### Monitoring
@@ -394,6 +400,7 @@ A collection of docker online resources.
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
 
 
 
@@ -421,6 +428,10 @@ A collection of docker online resources.
 * [How to use MongoDB & NodeJS with Docker](http://ifdattic.com/how-to-mongodb-nodejs-docker/)
 * [Wrapping Desktop Apps with Docker](http://container-solutions.com/2014/10/wrapping-desktop-apps-docker/)
 * [Deploying RethinkDB applications with Docker using Dokku](http://rethinkdb.com/blog/dokku-deployment/)
+* [Shipping Node.js Applications with Docker and Codeship](http://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
+* [Using Docker with Apache Flume - Part 1](http://probablyfine.co.uk/2014/05/05/using-docker-with-apache-flume-1/) / [part2](http://probablyfine.co.uk/2014/08/24/using-docker-with-apache-flume-2/)
+* [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
+
 
 
 
