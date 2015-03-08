@@ -53,7 +53,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [cgroups](#cgroups)
   * [相关项目](#相关项目)
     * [Compose](#Compose)
-    * [Swarm](#Wwarm)
+    * [Swarm](#Swarm)
     * [Mesosphere](#Mesosphere)
     * [Kubernetes](#Kubernetes)
     * [Openstack](#Openstack)
@@ -449,6 +449,9 @@ docker资源汇总,随时更新，欢迎补充。
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
 
+### Azure
+* [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
+
 ### Others
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
@@ -456,8 +459,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
 
 
-### Azure
-* [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
+
 
 ## 应用
 
