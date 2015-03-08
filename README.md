@@ -31,6 +31,8 @@ A collection of docker online resources.
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
+  * [API Client](#api-client)
+  * [Others](#others)
 * [Blog Posts](#blog-posts)
   * [General](#general)
   * [Docker](#docker)
@@ -223,6 +225,7 @@ A collection of docker online resources.
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
 * [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
 * [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
+* [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
 
 
 ## Containers
@@ -236,7 +239,11 @@ A collection of docker online resources.
 ## Extensions
 * [powerstrip](https://github.com/clusterhq/powerstrip) (A tool for prototyping Docker extensions)
 
+## API Client
+* [docker-py](https://github.com/docker/docker-py) (**Python**)
 
+## Others
+* [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 
 
 # Blog Posts
