@@ -264,7 +264,6 @@ A collection of docker online resources.
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
-* 
 
 
 # Blog Posts
@@ -434,11 +433,19 @@ A collection of docker online resources.
 
 
 
-### openstack
+### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
+
+### Others
+* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
+* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
+* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
+
+
 
 ## Usage
 
