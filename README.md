@@ -13,6 +13,7 @@ A collection of docker online resources.
   * [Personal Blogs](#personal-blogs)
 * [Related Projects](#related-projects)
   * [OS](#os)
+  * [Virtual Machine](#virtual-machine)
   * [Competitors](#competitors)
   * [Management Tools](#management-tools)
   * [Paas Platforms](#paas-platfroms)
@@ -113,6 +114,10 @@ A collection of docker online resources.
 * [rancheio](http://rancher.com/) (Simple, elegant tools for managing Docker in production)
 * [snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
 
+## Virtual Machine
+* [boot2docker](https://github.com/boot2docker/boot2docker) (Lightweight Linux for Docker)
+* [dvm](https://github.com/fnichol/dvm) (An on demand Docker virtual machine)
+
 ## Competitors
 * [rocket](https://github.com/coreos/rocket)  (App Container runtime)
 
@@ -134,6 +139,9 @@ A collection of docker online resources.
 * [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
 * [fleet] (https://github.com/coreos/fleet) (A Distributed init System)
 * [Meteor](https://github.com/meteorhacks/cluster)(Clustering solution for Meteor with load balancing and service discovery)
+* [helios](https://github.com/spotify/helios) (Docker container orchestration platform)
+* [maestro-ng](https://github.com/signalfuse/maestro-ng) (Orchestration of Docker-based, multi-host environments)
+* [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
 
 
 ## Paas Platfroms
@@ -226,6 +234,7 @@ A collection of docker online resources.
 * [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
 * [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
 * [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
+* [discourse_docker](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
 
 
 ## Containers
@@ -244,6 +253,7 @@ A collection of docker online resources.
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
+* [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 
 
 # Blog Posts
