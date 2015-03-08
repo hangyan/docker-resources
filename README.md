@@ -258,7 +258,6 @@ A collection of docker online resources.
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
-* 
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
