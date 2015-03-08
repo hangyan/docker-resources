@@ -338,7 +338,7 @@ A collection of docker online resources.
 * [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
 * [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
-* 
+
 
 
 ### Monitoring
@@ -415,7 +415,7 @@ A collection of docker online resources.
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 * [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
 * [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
-* 
+
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
