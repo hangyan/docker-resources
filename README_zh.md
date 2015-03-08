@@ -10,7 +10,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [社区博客](#社区博客)
   * [个人博客](#个人博客)
 * [相关项目](#相关项目)
-  * [OS](#OS)
+  * [操作系统](#操作系统)
   * [虚拟机](#虚拟机)
   * [竞争者](#竞争者)
   * [管理工具](#管理工具)
@@ -121,7 +121,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 # 相关项目
-## OS
+## 操作系统
 * [coreos](https://coreos.com/) (比较成熟)
 * [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，内置kubernetes)
 * [rancheio](http://rancher.com/) (较新)
