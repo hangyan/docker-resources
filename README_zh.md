@@ -7,9 +7,11 @@ docker资源汇总,随时更新，欢迎补充。
   * [网站](#网站)
   * [开源文档](#开源文档)
   * [内容聚合](#内容聚合)
+  * [社区博客](#社区博客)
   * [个人博客](#个人博客)
 * [相关项目](#相关项目)
   * [OS](#OS)
+  * [虚拟机](#虚拟机)
   * [竞争者](#竞争者)
   * [管理工具](#管理工具)
   * [Paas平台](#Paas平台)
@@ -23,14 +25,19 @@ docker资源汇总,随时更新，欢迎补充。
   * [私有仓库](#私有仓库)
   * [可视化工具](#可视化工具)
   * [存储](#存储)
+  * [卷管理](#卷管理)
+  * [安全](#安全)
   * [镜像及Dockerfile](#镜像及Dockerfile)
   * [容器](#容器)
   * [扩展](#扩展)
+  * [客户端](#客户端)
+  * [其他](#其他)
 * [博文](#博文)
   * [介绍](#介绍)
   * [Docker技术](#Docker技术)
     * [镜像](#镜像)
     * [存储](#存储)
+    * [卷管理](#卷管理)
     * [Dockerfile](#Dockerfile)
     * [容器](#容器)
     * [安全](#安全)
@@ -45,12 +52,13 @@ docker资源汇总,随时更新，欢迎补充。
     * [LXC](#LXC)
     * [cgroups](#cgroups)
   * [相关项目](#相关项目)
-    * [compose](#compose)
-    * [swarm](#swarm)
-    * [mesosphere](#mesosphere)
-    * [kubernetes](#kubernetes)
-    * [openstack](#openstack)
+    * [Compose](#Compose)
+    * [Swarm](#Wwarm)
+    * [Mesosphere](#Mesosphere)
+    * [Kubernetes](#Kubernetes)
+    * [Openstack](#Openstack)
     * [Azure](#Azure)
+    * [Others](#others)
   * [应用](#应用)
     * [Apps](#Apps)
     * [GUI](#GUI)
@@ -62,18 +70,18 @@ docker资源汇总,随时更新，欢迎补充。
 # 资源汇集
 ## 书籍
 * [第一本Docker书](http://book.douban.com/subject/26285268/) 
-* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 
-* [THE DOCKER BOOK](http://www.dockerbook.com/)
+* [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) (内容一般)
+* [The Docker Book](http://www.dockerbook.com/)
+* [Orchestrating Docker](http://www.amazon.com/Orchestrating-Docker-Shrikrishna-Holla/dp/1783984783)
+
 
 ## 网站
 ### 英文
 * [官方文档](https://docs.docker.com/) 
 * [Docker项目地址](https://github.com/docker/docker)
-* [官方博客](http://blog.docker.com/)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
-* [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
 * [Coreos官方文档](https://coreos.com/docs/)
-* [Coreos官方博客](https://coreos.com/blog/)
+
 
 ### 中文
 * [Dockerpool](http://dockerpool.com/) 
@@ -96,6 +104,15 @@ docker资源汇总,随时更新，欢迎补充。
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
 * [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
 
+## 社区博客
+* [Docker官方博客](http://blog.docker.com/)
+* [Coreos官方博客](https://coreos.com/blog/)
+* [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
+* [SequenceIQ Blog](http://blog.sequenceiq.com/)
+
+
+
+
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
 * [Jeff Lindsay](http://progrium.com/blog/)
@@ -108,9 +125,17 @@ docker资源汇总,随时更新，欢迎补充。
 * [coreos](https://coreos.com/) (比较成熟)
 * [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，内置kubernetes)
 * [rancheio](http://rancher.com/) (较新)
+* [snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
+
+## 虚拟机
+* [boot2docker](https://github.com/boot2docker/boot2docker) (Lightweight Linux for Docker)
+* [dvm](https://github.com/fnichol/dvm) (An on demand Docker virtual machine)
+
 
 ## 竞争者
 * [rocket](https://github.com/coreos/rocket) (coreos推出)
+* [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
+
 
 ## 管理工具
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (最有可能成为事实标准的一个，已经获得诸多平台支持)
@@ -129,6 +154,14 @@ docker资源汇总,随时更新，欢迎补充。
 * [panamax](http://panamax.io/) (Docker management for humans)
 * [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
 * [fleet] (https://github.com/coreos/fleet) (A Distributed init System)
+* [Meteor](https://github.com/meteorhacks/cluster)(Clustering solution for Meteor with load balancing and service discovery)
+* [helios](https://github.com/spotify/helios) (Docker container orchestration platform)
+* [maestro-ng](https://github.com/signalfuse/maestro-ng) (Orchestration of Docker-based, multi-host environments)
+* [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
+* [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
+* [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
+
+
 
 
 ## Paas平台
@@ -138,7 +171,9 @@ docker资源汇总,随时更新，欢迎补充。
 * [dawn](https://github.com/dawn/dawn) (Docker-based PaaS in Ruby)
 * [octohost](https://github.com/octohost/octohost)(Simple web focused Dockerfile based PaaS server)
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
-* [cloudfoundry](https://github.com/cloudfoundry) 
+* [cloudfoundry](https://github.com/cloudfoundry)
+* [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
+
 
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -149,12 +184,14 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockerana](https://github.com/dockerana/dockerana) (Docker Monitoring with support for Grafana and Graphite)
 * [docker-mon](https://github.com/icecrime/docker-mon)(Console-based Docker monitoring)
 * [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
-* 
+
 
 ## 网络
 * [weave](https://github.com/zettio/weave) (The Docker Network)
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
+* [calico-docker](https://github.com/Metaswitch/calico-docker)(Docker version of Project Calico,Calico can provide networking in a Docker environment)
+
 
 ## 持续集成
 * [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
@@ -165,7 +202,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [vagga](https://github.com/tailhook/vagga)(Vagga is a tool to create development environments)
 * [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
 * [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
-* 
+* [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
+
 
 
 ## 日志
@@ -194,10 +232,12 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
-* 
+* [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
 
 ## 存储
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
+
+## 卷管理
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
 
@@ -211,6 +251,15 @@ docker资源汇总,随时更新，欢迎补充。
 * [Dockerfile Project](http://dockerfile.github.io/)
 * [Dockerfiles](https://github.com/crosbymichael/Dockerfiles)(Collection of Dockerfiles)
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
+* [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
+* [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
+* [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
+* [discourse_docker](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
+* [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
+* [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
+* [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
+
+
 
 
 ## 容器
@@ -218,11 +267,21 @@ docker资源汇总,随时更新，欢迎补充。
 * [Supervisor](http://supervisord.org/) (A Process Control System)
 * [CFEngine](http://cfengine.com/) 
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
-
+* [tini](https://github.com/krallin/tini) (A tiny but valid `init` for containers)
 
 ## 扩展
 * [powerstrip](https://github.com/clusterhq/powerstrip) (A tool for prototyping Docker extensions)
 
+## 客户端
+* [docker-py](https://github.com/docker/docker-py) (**Python**)
+* [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
+* [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
+* 
+
+## 其他
+* [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
+* [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
+* [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
 
 
 
@@ -231,6 +290,12 @@ docker资源汇总,随时更新，欢迎补充。
 * [How to Use Docker on OS X: The Missing Guide](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
+* [Docker orchestration](http://chrisbarra.me/posts/docker-orchestration.html)
+* [Docker's rise from sleeper to open source king](http://www.cnbc.com/id/102422954)
+* [Faster Builds with Container-Based Infrastructure and Docker](http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/)
+
+
+
 
 ## Docker技术
 ### 镜像
@@ -251,7 +316,10 @@ docker资源汇总,随时更新，欢迎补充。
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
+
+### 卷管理
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
+* [Powerstrip-flocker: Portable volumes using just the Docker CLI](https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/)
 
 ### Dockerfile
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
@@ -259,13 +327,15 @@ docker资源汇总,随时更新，欢迎补充。
 * [How to Optimize Your Dockerfile](http://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 * [Dockerfile Golf (or optimizing the Docker build process)](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Dockerfile Best Practices](http://crosbymichael.com/dockerfile-best-practices.html)
-* 
+
 
 
 ### 容器
 * [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
+* [On-demand activation of Docker containers with systemd](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
+
 
 ### 安全
 * [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -275,6 +345,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
 * [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 * [Docker Container Breakout Proof-Of-Concept Exploit](http://outofmemory.cn/wr/?u=http%3A%2F%2Fblog.docker.com%2F2014%2F06%2Fdocker-container-breakout-proof-of-concept-exploit%2F)
+* [The dangers of UFW + Docker](http://blog.viktorpetersson.com/post/101707677489/the-dangers-of-ufw-docker)
+
 
 ### 资源管理
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) (与systemd有关)
@@ -285,12 +357,18 @@ docker资源汇总,随时更新，欢迎补充。
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
 * [Docker部署基于Ryu的SDN环境](http://www.csdn.net/article/2014-12-05/2822974)
+* [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
+* [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
+* [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
+
+
+
 
 ### 监控
 * [GATHERING LXC AND DOCKER CONTAINERS METRICS](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 * [Runtime Metrics](https://docs.docker.com/articles/runmetrics/)
-* 
+* [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/)
 
 
 ### 私有仓库
@@ -313,12 +391,21 @@ docker资源汇总,随时更新，欢迎补充。
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
 * [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
+* [boycott docker](http://www.boycottdocker.org/)
+* [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
+* [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
+* [Is docker ready for production?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html?)
+* [After Docker:Unikernels and Immutable Infrastructure](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e)
+* [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
+* [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
+* [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
+* [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
 
 
 ## 底层技术
 ### LXC
 * [Exploring LXC Networking](http://containerops.org/2013/11/19/lxc-networking/)
-* [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers)
+* [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers) (archwiki上的内容)
 
 ### cgroups
 * [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) (内核官方文档)
@@ -327,22 +414,47 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## 相关项目
-### compose
+### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
+* [Announcing Docker Compose
+](https://blog.docker.com/2015/02/announcing-docker-compose/)
 
-### swarm
+
+### Swarm
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
+* [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
+* [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
 
-### mesosphere
+
+
+### Mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
 * [Managing Docker Clusters Using Mesos and Marathon](http://beingasysadmin.wordpress.com/2014/06/27/managing-docker-clusters-using-mesos-and-marathon/)
+* [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
+* [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
+* [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
+* [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
+* [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
 
-### kubernetes
+
+
+### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
 * [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
+* [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/)
+* [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
+* [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
 
-### openstack
+
+### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
+
+### Others
+* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
+* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
+* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
+* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
+
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
@@ -355,6 +467,20 @@ docker资源汇总,随时更新，欢迎补充。
 * [Automated Nginx Reverse Proxy for Docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)
 * [Transparent Squid in a container](https://github.com/jpetazzo/squid-in-a-can)
 * [Deploying and migrating a multi-node ElasticSearch-Logstash-Kibana cluster using Docker](https://clusterhq.com/blog/deploying-multi-node-elasticsearch-logstash-kibana-cluster-using-docker/)
+* [Node With Docker - Continuous Integration and Delivery](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/#.VPsh0YGUerE)
+* [Rails on Docker](https://robots.thoughtbot.com/rails-on-docker)
+* [Ad Hoc Log Analysis with Kibana and Docker](https://www.cloudgear.net/blog/2015/apache-log-analysis-with-kibana-docker/)
+* [Networking Spark Cluster on Docker with Weave](http://weaveblog.com/2015/02/19/networking-spark-cluster-on-docker-with-weave/)
+* [Breaking Data Out of the Enterprise](http://read.payne.io/2015/02/19/breaking_data_out_of_the_enterprise.html)
+* [Using dockeer to build a data acqusition pipeline with kafka and hbase](http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase)
+* [How to use MongoDB & NodeJS with Docker](http://ifdattic.com/how-to-mongodb-nodejs-docker/)
+* [Wrapping Desktop Apps with Docker](http://container-solutions.com/2014/10/wrapping-desktop-apps-docker/)
+* [Deploying RethinkDB applications with Docker using Dokku](http://rethinkdb.com/blog/dokku-deployment/)
+* [Shipping Node.js Applications with Docker and Codeship](http://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
+* [Using Docker with Apache Flume - Part 1](http://probablyfine.co.uk/2014/05/05/using-docker-with-apache-flume-1/) / [part2](http://probablyfine.co.uk/2014/08/24/using-docker-with-apache-flume-2/)
+* [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
+
+
 
 
 ### GUI
@@ -377,6 +503,11 @@ docker资源汇总,随时更新，欢迎补充。
 * [Creating an ASP.NET vNext Docker Container using Mono](https://msopentech.com/blog/2014/11/07/creating-asp-net-vnext-docker-container-using-mono-2/)
 * [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker](http://blog.mist.io/post/82383668190/move-fast-and-dont-break-things-testing-with)
 * [Docker and Phoenix: How to Make Your Continuous Integration More Awesome](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
+* [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
+* [Docker in Action - Development to Delivery ](https://blog.rainforestqa.com/2014-11-19-docker-in-action-from-deployment-to-delivery-part-1-local-docker-setup/) / [part2](https://blog.rainforestqa.com/2014-12-08-docker-in-action-from-deployment-to-delivery-part-2-continuous-integration) / [part3](https://blog.rainforestqa.com/2015-01-15-docker-in-action-from-deployment-to-delivery-part-3-continuous-delivery)
+* [ASP.NET 5 development on OS X with Docker](http://open.bekk.no/aspnet5-development-on-osx-with-docker)
+
+
 
 
 ### 企业实践
@@ -385,8 +516,16 @@ docker资源汇总,随时更新，欢迎补充。
 * [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
 * [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
 * [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
+* [How Syncano Used Docker to Simplify Their Development Process](https://www.hakkalabs.co/articles/use-docker-cant-live-without)
+* [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
+
+
+
 
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
+* [The IoT Singularity: Docker for Internet of Things Devices](http://blogs.intel.com/evangelists/2015/01/28/iot-singularity-docker-internet-things-devices/)
+* [Heavily ARMed after major upgrade: Raspberry Pi with Docker 1.5.0](http://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
+
 
