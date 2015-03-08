@@ -14,7 +14,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [虚拟机](#虚拟机)
   * [竞争者](#竞争者)
   * [管理工具](#管理工具)
-  * [Paas平台](#Paas平台)
+  * [Paas平台](#paas-平台)
   * [项目集成](#项目集成)
   * [监控](#监控)
   * [网络](#网络)
@@ -160,8 +160,6 @@ docker资源汇总,随时更新，欢迎补充。
 * [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
-
-
 
 
 ## Paas平台
