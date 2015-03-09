@@ -250,9 +250,7 @@ A collection of docker online resources.
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
 * [Discourse](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
 * [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
-* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A
-  Dockerfile that installs the latest wordpress, nginx and php-fpm.another
-  wordpress [image](https://github.com/jbfink/docker-wordpress))
+* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm.another wordpress [image](https://github.com/jbfink/docker-wordpress))
 * [Nignx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 * [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
 * [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
