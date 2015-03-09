@@ -263,7 +263,7 @@ docker资源汇总,随时更新，欢迎补充。
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
 * [Supervisor](http://supervisord.org/) (A Process Control System)
-* [CFEngine](http://cfengine.com/) 
+* [CFEngine](http://cfengine.com/) (Process management)
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
 * [tini](https://github.com/krallin/tini) (A tiny but valid `init` for containers)
 
@@ -455,8 +455,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-
-
+* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
 
 
 ## 应用
