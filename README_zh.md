@@ -157,7 +157,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [gaudi](https://github.com/marmelab/gaudi) (Gaudi allows to share multi-component applications, based on Docker, Go, and YAML)
 * [panamax](http://panamax.io/) (Docker management for humans)
 * [clocker](https://github.com/brooklyncentral/clocker) (Brooklyn managed Docker containers)
-* [fleet] (https://github.com/coreos/fleet) (A Distributed init System)
+* [fleet] (https://github.com/coreos/fleet) (将systemd的能力扩展到多个机器)
 * [Meteor](https://github.com/meteorhacks/cluster)(Clustering solution for Meteor with load balancing and service discovery)
 * [helios](https://github.com/spotify/helios) (Docker container orchestration platform)
 * [maestro-ng](https://github.com/signalfuse/maestro-ng) (Orchestration of Docker-based, multi-host environments)
