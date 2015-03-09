@@ -78,7 +78,6 @@ docker资源汇总,随时更新，欢迎补充。
 * [The Docker Book](http://www.dockerbook.com/)
 * [Orchestrating Docker](http://www.amazon.com/Orchestrating-Docker-Shrikrishna-Holla/dp/1783984783)
 
-
 ## 网站
 ### 英文
 * [官方文档](https://docs.docker.com/) 
@@ -86,15 +85,12 @@ docker资源汇总,随时更新，欢迎补充。
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Coreos官方文档](https://coreos.com/docs/)
 
-
 ### 中文
 * [Dockerpool](http://dockerpool.com/) 
 * [Docker中文](http://www.docker.org.cn/) 
 * [Dockerone](http://dockerone.com/)
 * [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
 * [CSDN Docker 社区](http://docker.csdn.net/)
-
-
 
 ## 开源文档
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
@@ -113,16 +109,13 @@ docker资源汇总,随时更新，欢迎补充。
 * [Coreos官方博客](https://coreos.com/blog/)
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
 * [SequenceIQ Blog](http://blog.sequenceiq.com/)
-
-
-
+* [Tutum Blog](http://blog.tutum.co/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
 * [Jeff Lindsay](http://progrium.com/blog/)
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
-
 
 # 相关项目
 ## 操作系统
@@ -139,7 +132,6 @@ docker资源汇总,随时更新，欢迎补充。
 ## 竞争者
 * [rocket](https://github.com/coreos/rocket) (coreos推出)
 * [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
-
 
 ## 管理工具
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (最有可能成为事实标准的一个，已经获得诸多平台支持)
@@ -291,6 +283,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [CFEngine](http://cfengine.com/) (Process management)
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
 * [tini](https://github.com/krallin/tini) (A tiny but valid `init` for containers)
+* [S6](http://skarnet.org/software/s6/) (s6 is a small suite of programs for UNIX, designed to allow process supervision)
 
 ## 扩展
 * [powerstrip](https://github.com/clusterhq/powerstrip) (A tool for prototyping Docker extensions)
@@ -313,6 +306,7 @@ docker资源汇总,随时更新，欢迎补充。
 ## 介绍
 * [How to Use Docker on OS X: The Missing Guide](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
+* [The 5 Most Important Things I’ve Learned From Using Docker](http://blog.tutum.co/2014/10/28/the-5-most-important-things-ive-learned-from-using-docker/)
 * [A Simple Way to Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
 * [Docker orchestration](http://chrisbarra.me/posts/docker-orchestration.html)
 * [Docker's rise from sleeper to open source king](http://www.cnbc.com/id/102422954)
@@ -335,6 +329,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Squashing Docker Images](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/)
 * [Building a Multi-Purpose Docker Image](https://medium.com/docker-news/building-a-multi-purpose-docker-image-7762378ebc2e)
 * [Docker layers cost](https://medium.com/@vaceletm/docker-layers-cost-b28cb13cb627)
+* [Deterministic and minimal docker images](http://gregoryszorc.com/blog/2014/10/13/deterministic-and-minimal-docker-images/)
 
 ### 存储相关
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -359,7 +354,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
 * [On-demand activation of Docker containers with systemd](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
-
+* [Docker and S6 – My New Favorite Process Supervisor](http://blog.tutum.co/2014/12/02/docker-and-s6-my-new-favorite-process-supervisor/)
+* [On Docker Container Composition](https://medium.com/on-docker/on-docker-container-composition-a98788f1aa3c)
 
 ### 安全
 * [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -425,7 +421,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
-
+* [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 
 ## 底层技术
 ### LXC
@@ -529,7 +525,6 @@ docker资源汇总,随时更新，欢迎补充。
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
 * [Docker Service Discovery Using Etcd and Haproxy](http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/)
 
-
 ### 开发部署测试
 * [Docker: Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 * [Eight Docker Development Patterns](http://www.hokstad.com/docker/patterns)
@@ -552,9 +547,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [How Syncano Used Docker to Simplify Their Development Process](https://www.hakkalabs.co/articles/use-docker-cant-live-without)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
-
-
-
+* [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
