@@ -66,7 +66,7 @@ A collection of docker online resources.
   * [Usage](#usage)
     * [Apps](#apps)
     * [GUI](#gui)
-    * [Service Discovery](#service-discovery)
+    * [Service Discovery With Docker](#service-discovery-with-docker)
     * [Development And Deployment And Test](#development-and-deployment-and-test)
     * [Production](#production)
     * [Other Platfroms](#other-platfroms)
@@ -485,7 +485,7 @@ A collection of docker online resources.
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 
-### Service Discovery
+### Service Discovery With Docker
 * [Consul Service Discovery with Docker](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
