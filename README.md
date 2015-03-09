@@ -147,6 +147,7 @@ A collection of docker online resources.
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
 
 
+
 ## Paas Platfroms
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
 * [deis](http://deis.io/) (Your PaaS. Your Rules)
@@ -241,6 +242,8 @@ A collection of docker online resources.
 * [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
 * [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
+* [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
+* [tutum-docker-mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
 
 
 ## Containers
@@ -258,11 +261,13 @@ A collection of docker online resources.
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
+* [go-dockerclient](https://github.com/fsouza/go-dockerclient) (**Golang**)
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
+* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
 
 
 # Blog Posts

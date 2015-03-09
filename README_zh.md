@@ -160,7 +160,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
-
+* [virtkick](https://github.com/virtkick/virtkick) (Manage virtual machines or Docker containers easily)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -256,9 +256,9 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
 * [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
-
-
-
+* [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
+* [tutum-docker-mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
+  
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
@@ -274,13 +274,13 @@ docker资源汇总,随时更新，欢迎补充。
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
-* 
+* [go-dockerclient](https://github.com/fsouza/go-dockerclient) (**Golang**)
 
 ## 其他
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
-
+* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
 
 
 # 博文
