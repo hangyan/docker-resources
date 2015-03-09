@@ -29,6 +29,7 @@ A collection of docker online resources.
   * [Storage](#storage)
   * [Volumes](#volumes)
   * [Security](#security)
+  * [Applications](#applications)
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
@@ -37,34 +38,35 @@ A collection of docker online resources.
 * [Blog Posts](#blog-posts)
   * [General](#general)
   * [Docker](#docker)
-    * [Images](#images)
-    * [Storage](#storage)
-    * [Volumes](#volumes)
+    * [About Images](#about-images)
+    * [About Storage](#about-storage)
+    * [About Volumes](#about-volumes)
     * [Dockerfiles](#dockerfiles)
-    * [Containers](#containers)
-    * [Security](#security)
+    * [About Containers](#about-containers)
+    * [About Security](#about-security)
     * [Resource Management](#resource-management)
-    * [Networking](#networking)
-    * [Monitoring](#monitoring)
-    * [Private Registry](#private-registry)
+    * [About Networking](#about-networking)
+    * [About Monitoring](#about-monitoring)
+    * [About Private Registry](#about-private-registry)
     * [API](#api)
     * [Performance](#performance)
   * [Think Deeply](#think-deeply)
   * [Underlying Techniques](#underlying-techniques)
     * [LXC](#lxc)
     * [cgroups](#cgroups)
-  * [Related Projects](#related-projects)
+    * [Systemd](#systemd)
+  * [Various Projects](#various-projects)
     * [Compose](#compose)
     * [Swarm](#swarm)
     * [Mesosphere](#mesosphere)
     * [Kubernetes](#kubernetes)
     * [Openstack](#openstack)
     * [Azure](#azure)
-    * [Others](#others)
+    * [Other Projects](#other-projects)
   * [Usage](#usage)
     * [Apps](#apps)
     * [GUI](#gui)
-    * [Service Discovery](#service-discovery)
+    * [Service Discovery With Docker](#service-discovery-with-docker)
     * [Development And Deployment And Test](#development-and-deployment-and-test)
     * [Production](#production)
     * [Other Platfroms](#other-platfroms)
@@ -145,6 +147,7 @@ A collection of docker online resources.
 * [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
+* [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 
 
 ## Paas Platfroms
@@ -161,6 +164,9 @@ A collection of docker online resources.
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
+* [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
+* [garether-docker](https://github.com/garethr/garethr-docker) (Puppet module for managing docker)
+* [systemd-docker](https://github.com/ibuildthecloud/systemd-docker) (Wrapper for "docker run" to handle systemd quirks)
 
 ## Monitoring
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
@@ -185,7 +191,7 @@ A collection of docker online resources.
 * [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
 * [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
-
+* [dockership](https://github.com/mcuadros/dockership) (dead simple docker deploy tool)
 
 ## Logging
 * [logspout](https://github.com/gliderlabs/logspout) (Log routing for Docker container logs)
@@ -224,6 +230,14 @@ A collection of docker online resources.
 ## Security
 * [subuser](https://github.com/subuser-security/subuser) (Run programs in linux with selectively restricted permissions)
 
+## Applications
+* [ferry](https://github.com/cirruspath/ferry) (define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker,[ferry.opencore.io](http://ferry.opencore.io/))
+* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
+* [DUnit](https://github.com/Vectorface/dunit) (Test code against multiple versions of PHP with the help of docker)
+* [PHP Stack](https://github.com/kasperisager/phpstack) (Docker- and Shipyard-managed PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, and Elasticsearch. Includes an optional Vagrant-managed CoreOS proxy box at your leisure.)
+* [Django Demo](https://github.com/kencochrane/django-docker) (Demo Django App using Docker)
+* [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
+ 
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
 * [baseimage-docker](https://github.com/phusion/baseimage-docker) (A minimal Ubuntu base image modified for Docker-friendlines)
@@ -235,18 +249,25 @@ A collection of docker online resources.
 * [Dockerfiles](https://github.com/crosbymichael/Dockerfiles)(Collection of Dockerfiles)
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
 * [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
-* [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
-* [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
-* [discourse_docker](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
-* [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
-* [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
-* [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
-
+* [Machine Learning](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
+* [Gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
+* [Discourse](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
+* [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
+* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm.another wordpress [image](https://github.com/jbfink/docker-wordpress))
+* [Nignx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
+* [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
+* [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
+* [CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) (Dockerfiles for various common implementations)
+* [Redmine](https://github.com/sameersbn/docker-redmine) (Dockerized redmine app server)
+* [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
+* [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) (Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard)
+* [Elasticsearch](https://github.com/dockerfile/elasticsearch) (ElasticSearch Dockerfile for trusted automated Docker builds)
+* [docker-alpine](https://github.com/gliderlabs/docker-alpine) (Docker image based on Alpine Linux will help you win at minimalism)
 
 ## Containers
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
 * [Supervisor](http://supervisord.org/) (A Process Control System)
-* [CFEngine](http://cfengine.com/) 
+* [CFEngine](http://cfengine.com/) (Process management)
 * [docker-gen](https://github.com/jwilder/docker-gen) (Generate files from docker container meta-data)
 * [tini](https://github.com/krallin/tini) (A tiny but valid `init` for containers)
 
@@ -258,11 +279,15 @@ A collection of docker online resources.
 * [docker-py](https://github.com/docker/docker-py) (**Python**)
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
+* [go-dockerclient](https://github.com/fsouza/go-dockerclient) (**Golang**)
+* [docker-php](https://github.com/stage1/docker-php) (**PHP**)
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
+* [building](https://github.com/CenturyLinkLabs/building) (Build a Docker container for any app using Heroku Buildpacks)
+* [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
 
 
 # Blog Posts
@@ -276,7 +301,7 @@ A collection of docker online resources.
 
 
 ## Docker
-### Images
+### About Images
 * [Docker Image Insecurity](https://titanous.com/posts/docker-insecurity)
 * [Building good docker images](http://jonathan.bergknoff.com/journal/building-good-docker-images)
 * [Your docker image might might be broken without you knowing it](http://phusion.github.io/baseimage-docker/)
@@ -291,12 +316,12 @@ A collection of docker online resources.
 
 
 
-### Storage
+### About Storage
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
 
-### Volumes
+### About Volumes
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
 * [Powerstrip-flocker: Portable volumes using just the Docker CLI](https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/)
 
@@ -310,14 +335,14 @@ A collection of docker online resources.
 
 
 
-### Containers
+### About Containers
 * [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
 * [On-demand activation of Docker containers with systemd](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
 
 
-### Security
+### About Security
 * [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
 * [shocker: docker PoC VMM-container breakout](http://stealth.openwall.net/xSports/shocker.c)
 * [Containers&Docker: How secure are they?](https://blog.docker.com/2013/08/containers-docker-how-secure-are-they/)
@@ -330,7 +355,7 @@ A collection of docker online resources.
 ### Resource Management
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) 
 
-### Networking
+### About Networking
 * [Advanced networking](https://docs.docker.com/articles/networking/)
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
@@ -341,7 +366,7 @@ A collection of docker online resources.
 
 
 
-### Monitoring
+### About Monitoring
 * [Gathering lxc and docker containers metrics](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 * [Runtime Metrics](https://docs.docker.com/articles/runmetrics/)
@@ -349,7 +374,7 @@ A collection of docker online resources.
 
 
 
-### Private Registry
+### About Private Registry
 * [Docker Registry Rest API](http://tuhrig.de/docker-registry-rest-api/)
 
 
@@ -394,7 +419,13 @@ A collection of docker online resources.
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (from archwiki)
 
 
-## Related Projects
+### Systemd
+* [The systemd for Administrators Blog Series](http://0pointer.de/blog/projects/systemd-for-admins-1.html) (great series,check the index in [here](http://www.freedesktop.org/wiki/Software/systemd/))
+* [Getting Started with systemd](https://coreos.com/using-coreos/systemd/) (from
+  coreos)
+* [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
+
+## Various Projects
 ### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
 * [Announcing Docker Compose
@@ -423,28 +454,19 @@ A collection of docker online resources.
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
 
-### Others
-* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
-* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
-* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
-* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-
-
-
-
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
+* [What is the future of the private cloud world, Mesos or OpenStack?](http://www.quora.com/What-is-the-future-of-the-private-cloud-world-Mesos-or-OpenStack?from=timeline&isappinstalled=0)
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
 
-### Others
+### Other Projects
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-
-
+* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
 
 ## Usage
 
@@ -475,7 +497,7 @@ A collection of docker online resources.
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 
-### Service Discovery
+### Service Discovery With Docker
 * [Consul Service Discovery with Docker](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
