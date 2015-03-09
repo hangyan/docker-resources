@@ -148,6 +148,7 @@ A collection of docker online resources.
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
 * [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
+* [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 
 
 ## Paas Platfroms
@@ -237,7 +238,8 @@ A collection of docker online resources.
 * [PHP Stack](https://github.com/kasperisager/phpstack) (Docker- and Shipyard-managed PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, and Elasticsearch. Includes an optional Vagrant-managed CoreOS proxy box at your leisure.)
 * [Django Demo](https://github.com/kencochrane/django-docker) (Demo Django App using Docker)
 * [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
- 
+* [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
+
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
 * [baseimage-docker](https://github.com/phusion/baseimage-docker) (A minimal Ubuntu base image modified for Docker-friendlines)
@@ -403,7 +405,7 @@ A collection of docker online resources.
 * [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
 * [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
-
+* [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 
 
 
@@ -488,7 +490,7 @@ A collection of docker online resources.
 * [Shipping Node.js Applications with Docker and Codeship](http://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
 * [Using Docker with Apache Flume - Part 1](http://probablyfine.co.uk/2014/05/05/using-docker-with-apache-flume-1/) / [part2](http://probablyfine.co.uk/2014/08/24/using-docker-with-apache-flume-2/)
 * [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
-
+* [Elasticsearch, Weave and Docker](http://weaveblog.com/2015/01/20/elasticsearch-and-weave/)
 
 
 
@@ -531,4 +533,4 @@ A collection of docker online resources.
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
 * [The IoT Singularity: Docker for Internet of Things Devices](http://blogs.intel.com/evangelists/2015/01/28/iot-singularity-docker-internet-things-devices/)
 * [Heavily ARMed after major upgrade: Raspberry Pi with Docker 1.5.0](http://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
-
+* [Getting Docker to run on Power8](https://blog.jtlebi.fr/2014/10/28/getting-docker-to-run-on-power8/)
