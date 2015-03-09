@@ -209,7 +209,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [longshoreman](https://github.com/longshoreman/longshoreman) (Automated deployment with Docker)
 * [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
-
+* [dockership](https://github.com/mcuadros/dockership) (dead simple docker deploy tool)
 
 
 ## 日志
@@ -250,8 +250,9 @@ docker资源汇总,随时更新，欢迎补充。
 * [ferry](https://github.com/cirruspath/ferry) (使用docker来构建部署大数据应用(hadoop,spark...),[ferry.opencore.io](http://ferry.opencore.io/))
 * [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
 * [DUnit](https://github.com/Vectorface/dunit) (Test code against multiple versions of PHP with the help of docker)
-
-
+* [PHP Stack](https://github.com/kasperisager/phpstack) (Docker- and Shipyard-managed PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, and Elasticsearch. Includes an optional Vagrant-managed CoreOS proxy box at your leisure.)
+* [Django Demo](https://github.com/kencochrane/django-docker) (Demo Django App using Docker)
+* [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -278,7 +279,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Redmine](https://github.com/sameersbn/docker-redmine) (Dockerized redmine app server)
 * [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
 * [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) (Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard)
-
+* [Elasticsearch](https://github.com/dockerfile/elasticsearch) (ElasticSearch Dockerfile for trusted automated Docker builds)
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
