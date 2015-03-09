@@ -29,7 +29,7 @@ A collection of docker online resources.
   * [Storage](#storage)
   * [Volumes](#volumes)
   * [Security](#security)
-  * [Applications](#applicatoins)
+  * [Applications](#applications)
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
