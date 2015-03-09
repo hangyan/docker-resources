@@ -428,17 +428,9 @@ A collection of docker online resources.
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
 
-### Others
-* [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
-* [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
-* [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
-* [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-
-
-
-
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
+* [What is the future of the private cloud world, Mesos or OpenStack?](http://www.quora.com/What-is-the-future-of-the-private-cloud-world-Mesos-or-OpenStack?from=timeline&isappinstalled=0)
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)

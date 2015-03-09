@@ -446,6 +446,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
+* [What is the future of the private cloud world, Mesos or OpenStack?](http://www.quora.com/What-is-the-future-of-the-private-cloud-world-Mesos-or-OpenStack?from=timeline&isappinstalled=0)
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
