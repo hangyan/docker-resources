@@ -53,6 +53,7 @@ A collection of docker online resources.
   * [Underlying Techniques](#underlying-techniques)
     * [LXC](#lxc)
     * [cgroups](#cgroups)
+    * [Systemd](#systemd)
   * [Related Projects](#related-projects)
     * [Compose](#compose)
     * [Swarm](#swarm)
@@ -398,6 +399,11 @@ A collection of docker online resources.
 * [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html)
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (from archwiki)
 
+
+### Systemd
+* [The systemd for Administrators Blog Series](http://0pointer.de/blog/projects/systemd-for-admins-1.html) (great series,check the index in [here](http://www.freedesktop.org/wiki/Software/systemd/))
+* [Getting Started with systemd](https://coreos.com/using-coreos/systemd/)
+* [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 
 ## Related Projects
 ### Compose

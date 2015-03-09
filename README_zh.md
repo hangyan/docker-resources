@@ -51,6 +51,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [底层技术](#底层技术)
     * [LXC](#lxc)
     * [cgroups](#cgroups)
+    * [Systemd](#systemd)
   * [相关项目](#相关项目)
     * [Compose](#compose)
     * [Swarm](#swarm)
@@ -409,6 +410,13 @@ docker资源汇总,随时更新，欢迎补充。
 * [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) (内核官方文档)
 * [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html) (推荐）
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (archwiki上的内容)
+
+### Systemd
+* [The systemd for Administrators Blog Series](http://0pointer.de/blog/projects/systemd-for-admins-1.html) (great series,check the index in [here](http://www.freedesktop.org/wiki/Software/systemd/))
+* [Getting Started with systemd](https://coreos.com/using-coreos/systemd/)
+* [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
+
+
 
 
 ## 相关项目
