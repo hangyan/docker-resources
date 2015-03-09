@@ -280,6 +280,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
 * [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) (Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard)
 * [Elasticsearch](https://github.com/dockerfile/elasticsearch) (ElasticSearch Dockerfile for trusted automated Docker builds)
+* [docker-alpine](https://github.com/gliderlabs/docker-alpine) (Docker image based on Alpine Linux will help you win at minimalism)
+
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
