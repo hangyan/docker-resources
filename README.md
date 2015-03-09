@@ -244,15 +244,17 @@ A collection of docker online resources.
 * [Dockerfiles](https://github.com/crosbymichael/Dockerfiles)(Collection of Dockerfiles)
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (create virtual desktops that can be accessed remotely)
 * [StealthBox](https://github.com/Toilal/stealthbox)(Share your favorite content remotely without spoiling your home network)
-* [jetpack](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
-* [docker-gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
-* [discourse_docker](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
-* [dockervpn](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
-* [docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
-* [nginx-proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
+* [Machine Learning](https://github.com/StartupML/jetpack) (Get up and running with machine learning using Docker)
+* [Gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
+* [Discourse](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
+* [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
+* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
+* [Nignx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 * [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
-* [tutum-docker-mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
-
+* [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
+* [CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) (Dockerfiles for various common implementations)
+* [Redmine](https://github.com/sameersbn/docker-redmine) (Dockerized redmine app server)
+* [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
 
 ## Containers
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
@@ -275,6 +277,7 @@ A collection of docker online resources.
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
+* [building](https://github.com/CenturyLinkLabs/building) (Build a Docker container for any app using Heroku Buildpacks)
 
 
 
