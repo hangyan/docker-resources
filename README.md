@@ -55,14 +55,14 @@ A collection of docker online resources.
     * [LXC](#lxc)
     * [cgroups](#cgroups)
     * [Systemd](#systemd)
-  * [Related Projects](#related-projects)
+  * [Various Projects](#various-projects)
     * [Compose](#compose)
     * [Swarm](#swarm)
     * [Mesosphere](#mesosphere)
     * [Kubernetes](#kubernetes)
     * [Openstack](#openstack)
     * [Azure](#azure)
-    * [Others](#others)
+    * [Other Projects](#other-projects)
   * [Usage](#usage)
     * [Apps](#apps)
     * [GUI](#gui)
@@ -413,7 +413,7 @@ A collection of docker online resources.
   coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 
-## Related Projects
+## Various Projects
 ### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
 * [Announcing Docker Compose
@@ -449,7 +449,7 @@ A collection of docker online resources.
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
 
-### Others
+### Other Projects
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
