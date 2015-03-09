@@ -402,7 +402,8 @@ A collection of docker online resources.
 
 ### Systemd
 * [The systemd for Administrators Blog Series](http://0pointer.de/blog/projects/systemd-for-admins-1.html) (great series,check the index in [here](http://www.freedesktop.org/wiki/Software/systemd/))
-* [Getting Started with systemd](https://coreos.com/using-coreos/systemd/)
+* [Getting Started with systemd](https://coreos.com/using-coreos/systemd/) (from
+  coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 
 ## Related Projects
