@@ -1,6 +1,8 @@
 # Docker Resources All In One
 docker资源汇总,随时更新，欢迎补充。
 
+英文版本[链接](https://github.com/hangyan/docker-resources)
+
 # 目录
 * [资源汇集](#资源汇集)
   * [书籍](#书籍)
@@ -36,16 +38,16 @@ docker资源汇总,随时更新，欢迎补充。
 * [博文](#博文)
   * [介绍](#介绍)
   * [Docker技术](#Docker技术)
-    * [镜像](#镜像)
-    * [存储](#存储)
-    * [卷管理](#卷管理)
+    * [镜像相关](#镜像相关)
+    * [存储相关](#存储相关)
+    * [卷管理相关](#卷管理相关)
     * [Dockerfile](#Dockerfile)
-    * [容器](#容器)
-    * [安全](#安全)
+    * [容器相关](#容器相关)
+    * [安全相关](#安全相关)
     * [资源管理](#资源管理)
-    * [网络](#网路)
-    * [监控](#监控)
-    * [私有仓库](#私有仓库)
+    * [网络相关](#网路相关)
+    * [监控相关](#监控相关)
+    * [私有仓库相关](#私有仓库相关)
     * [API](#API)
     * [性能](#性能)
   * [思考](#思考)
@@ -64,7 +66,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [应用](#应用)
     * [Apps](#apps)
     * [GUI](#gui)
-    * [服务发现](#服务发现)
+    * [服务发现相关](#服务发现相关)
     * [开发部署测试](#开发部署测试)
     * [企业实践](#企业实践)
     * [其他平台](#其他平台)
@@ -304,7 +306,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## Docker技术
-### 镜像
+### 镜像相关
 * [Docker Image Insecurity](https://titanous.com/posts/docker-insecurity)
 * [Building good docker images](http://jonathan.bergknoff.com/journal/building-good-docker-images)
 * [Your docker image might might be broken without you knowing it](http://phusion.github.io/baseimage-docker/)
@@ -318,12 +320,12 @@ docker资源汇总,随时更新，欢迎补充。
 * [Building a Multi-Purpose Docker Image](https://medium.com/docker-news/building-a-multi-purpose-docker-image-7762378ebc2e)
 
 
-### 存储
+### 存储相关
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
 
-### 卷管理
+### 卷管理相关
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
 * [Powerstrip-flocker: Portable volumes using just the Docker CLI](https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/)
 
@@ -336,7 +338,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 
-### 容器
+### 容器相关
 * [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 * [Data-only container madness](http://container42.com/2014/11/18/data-only-container-madness/)
@@ -357,7 +359,7 @@ docker资源汇总,随时更新，欢迎补充。
 ### 资源管理
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) (与systemd有关)
 
-### 网络
+### 网络相关
 * [Advanced networking](https://docs.docker.com/articles/networking/)
 * [DNS And docker containers](http://wiredcraft.com/blog/dns-and-docker-containers/)
 * [Coupling Docker and Open vSwitch](http://fbevmware.blogspot.com/2013/12/coupling-docker-and-open-vswitch.html)
@@ -370,14 +372,14 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 
-### 监控
+### 监控相关
 * [GATHERING LXC AND DOCKER CONTAINERS METRICS](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
 * [nsinit: per-container resource monitoring of Docker containers on RHEL/Fedora](http://www.breakage.org/2014/09/03/nsinit-per-container-resource-monitoring-of-docker-containers-on-rhelfedora/)
 * [Runtime Metrics](https://docs.docker.com/articles/runmetrics/)
 * [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/)
 
 
-### 私有仓库
+### 私有仓库相关
 * [Docker Registry Rest API](http://tuhrig.de/docker-registry-rest-api/)
 
 
@@ -504,7 +506,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 
-### 服务发现
+### 服务发现相关
 * [Consul Service Discovery with Docker](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
