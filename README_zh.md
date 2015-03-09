@@ -27,6 +27,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [存储](#存储)
   * [卷管理](#卷管理)
   * [安全](#安全)
+  * [应用](#应用)
   * [镜像及Dockerfile](#镜像及Dockerfile)
   * [容器](#容器)
   * [扩展](#扩展)
@@ -162,6 +163,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
 * [virtkick](https://github.com/virtkick/virtkick) (Manage virtual machines or Docker containers easily)
+* [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -177,6 +179,8 @@ docker资源汇总,随时更新，欢迎补充。
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
+* [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
+* [garether-docker](https://github.com/garethr/garethr-docker) (Puppet module for managing docker)
 
 ## 监控
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
@@ -239,6 +243,9 @@ docker资源汇总,随时更新，欢迎补充。
 ## 卷管理
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
+## 应用
+* [ferry](https://github.com/cirruspath/ferry) (使用docker来构建部署大数据应用(hadoop,spark...),[ferry.opencore.io](http://ferry.opencore.io/))
+* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -281,7 +288,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
-* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
+
 
 
 # 博文

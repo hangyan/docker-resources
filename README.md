@@ -29,6 +29,7 @@ A collection of docker online resources.
   * [Storage](#storage)
   * [Volumes](#volumes)
   * [Security](#security)
+  * [Applications](#applicatoins)
   * [Images And Dockerfiles](#images-and-dockerfiles)
   * [Containers](#containers)
   * [Extensions](#extensions)
@@ -146,7 +147,7 @@ A collection of docker online resources.
 * [shipper](https://github.com/mailgun/shipper) (Fabric for docker containers)
 * [origin](https://github.com/openshift/origin) (OpenShift 3 - build, deploy, and manage your applications with Docker and Kubernetes)
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
-
+* [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 
 
 ## Paas Platfroms
@@ -163,6 +164,8 @@ A collection of docker online resources.
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
+* [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
+* [garether-docker](https://github.com/garethr/garethr-docker) (Puppet module for managing docker)
 
 ## Monitoring
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
@@ -226,6 +229,10 @@ A collection of docker online resources.
 ## Security
 * [subuser](https://github.com/subuser-security/subuser) (Run programs in linux with selectively restricted permissions)
 
+## Applications
+* [ferry](https://github.com/cirruspath/ferry) (define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker,[ferry.opencore.io](http://ferry.opencore.io/))
+* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
+
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
 * [baseimage-docker](https://github.com/phusion/baseimage-docker) (A minimal Ubuntu base image modified for Docker-friendlines)
@@ -268,7 +275,7 @@ A collection of docker online resources.
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
-* [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
+
 
 
 # Blog Posts
