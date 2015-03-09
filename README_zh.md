@@ -183,6 +183,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
 * [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
 * [garether-docker](https://github.com/garethr/garethr-docker) (Puppet module for managing docker)
+* [systemd-docker](https://github.com/ibuildthecloud/systemd-docker) (Wrapper for "docker run" to handle systemd quirks)
 
 ## 监控
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
@@ -248,6 +249,9 @@ docker资源汇总,随时更新，欢迎补充。
 ## 应用
 * [ferry](https://github.com/cirruspath/ferry) (使用docker来构建部署大数据应用(hadoop,spark...),[ferry.opencore.io](http://ferry.opencore.io/))
 * [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
+* [DUnit](https://github.com/Vectorface/dunit) (Test code against multiple versions of PHP with the help of docker)
+
+
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -264,13 +268,17 @@ docker资源汇总,随时更新，欢迎补充。
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
 * [Discourse](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
 * [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
-* [Wordpress+Nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm)
+* [Wordpress+Nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A
+  Dockerfile that installs the latest wordpress, nginx and php-fpm.Another
+  wordpress [image](https://github.com/jbfink/docker-wordpress))
 * [Nginx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 * [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
 * [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
 * [CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) (Dockerfiles for various common implementations)
 * [Redmine](https://github.com/sameersbn/docker-redmine) (Dockerized redmine app server)
 * [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
+* [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) (Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard)
+
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
@@ -287,13 +295,14 @@ docker资源汇总,随时更新，欢迎补充。
 * [docker-api](https://github.com/swipely/docker-api) (**Ruby**)
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
 * [go-dockerclient](https://github.com/fsouza/go-dockerclient) (**Golang**)
+* [docker-php](https://github.com/stage1/docker-php) (**PHP**)
 
 ## 其他
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
 * [buildstep](https://github.com/progrium/buildstep) (Buildstep uses Docker and Buildpacks to build applications like Heroku)
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
 * [building](https://github.com/CenturyLinkLabs/building) (Build a Docker container for any app using Heroku Buildpacks)
-
+* [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
 
 # 博文
 ## 介绍
