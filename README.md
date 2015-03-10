@@ -438,8 +438,7 @@ A collection of docker online resources.
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 
 ### Namespaces
-*
-  [Introduction to Linux namespaces – Part 1: UTS](https://blog.jtlebi.fr/2013/12/22/introduction-to-linux-namespaces-part-1-uts/)
+* [Introduction to Linux namespaces – Part 1: UTS](https://blog.jtlebi.fr/2013/12/22/introduction-to-linux-namespaces-part-1-uts/)
   /
   [part2](https://blog.jtlebi.fr/2013/12/28/introduction-to-linux-namespaces-part-2-ipc/)
   /[part3](https://blog.jtlebi.fr/2014/01/05/introduction-to-linux-namespaces-part-3-pid/)
