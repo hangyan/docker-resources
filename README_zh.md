@@ -203,7 +203,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [centurion](https://github.com/newrelic/centurion) (A mass deployment tool for Docker fleets)
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
 * [dockership](https://github.com/mcuadros/dockership) (dead simple docker deploy tool)
-
+* [devstep](https://github.com/fgrehm/devstep) (Development environments powered by Docker and buildpacks)
 
 ## 日志
 * [logspout](https://github.com/gliderlabs/logspout) (Log routing for Docker container logs)
@@ -223,7 +223,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [docket](https://github.com/netvarun/docket) (Custom docker registry that allows for lightning fast deploys through bittorrent)
 * [docker-registry](https://github.com/docker/docker-registry) (Registry server for Docker (hosting/delivering of repositories and images))
 * [wharf](https://github.com/dockercn/wharf)(ContainerOps Open Source Platform)
-
+* [distribution](https://github.com/docker/distribution) (The Docker toolset to pack, ship, store, and deliver content)
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
@@ -274,8 +274,10 @@ docker资源汇总,随时更新，欢迎补充。
 * [Spark](https://github.com/amplab/docker-scripts) (Dockerfiles and scripts for Spark and Shark Docker images)
 * [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) (Docker image with StatsD, Graphite, Grafana and a Kamon Dashboard)
 * [Elasticsearch](https://github.com/dockerfile/elasticsearch) (ElasticSearch Dockerfile for trusted automated Docker builds)
-* [docker-alpine](https://github.com/gliderlabs/docker-alpine) (Docker image based on Alpine Linux will help you win at minimalism)
-
+* [docker-alpine](https://github.com/gliderlabs/docker-alpine) (Docker image based on Alpine Linux will help you win at minimalism
+* [Hadoop](https://github.com/sequenceiq/hadoop-docker) (Hadoop docker image)
+* [R](https://github.com/rocker-org/rocker) (R configurations for Docker)
+* [ASP.NET](https://github.com/aspnet/aspnet-docker) (Docker image for ASP.NET 5.)
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
@@ -301,6 +303,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dind](https://github.com/jpetazzo/dind)(Docker in Docker)
 * [building](https://github.com/CenturyLinkLabs/building) (Build a Docker container for any app using Heroku Buildpacks)
 * [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
+* [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
 
 # 博文
 ## 介绍
