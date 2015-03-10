@@ -55,7 +55,7 @@ A collection of docker online resources.
     * [LXC](#lxc)
     * [Cgroups](#cgroups)
     * [Systemd](#systemd)
-    * [Namespaces](#Namespaces)
+    * [Namespaces](#namespaces)
   * [Various Projects](#various-projects)
     * [Compose](#compose)
     * [Swarm](#swarm)

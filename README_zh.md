@@ -55,7 +55,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [LXC](#lxc)
     * [cgroups](#cgroups)
     * [Systemd](#systemd)
-    * [Namespaces](#Namespaces)
+    * [Namespaces](#namespaces)
   * [相关项目](#相关项目)
     * [Compose](#compose)
     * [Swarm](#swarm)
