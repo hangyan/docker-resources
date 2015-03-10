@@ -55,6 +55,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [LXC](#lxc)
     * [cgroups](#cgroups)
     * [Systemd](#systemd)
+    * [Namespaces](#Namespaces)
   * [相关项目](#相关项目)
     * [Compose](#compose)
     * [Swarm](#swarm)
@@ -317,6 +318,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [How to Use Docker on Windows](http://blog.tutum.co/2014/11/05/how-to-use-docker-on-windows/)
 * [Run ARM binaries in your Docker Container using Boot2Docker…](http://neophob.com/2014/10/run-arm-binaries-in-your-docker-container-using-boot2docker/)
 * [Docker on OS X with VMWare Fusion](http://ewen.mcneill.gen.nz/blog/entry/2014-09-20-docker-on-osx-with-vmware-fusion/)
+* [Docker 笔记](http://opskumu.github.io/docker.html) 
 
 ## Docker技术
 ### 镜像相关
@@ -442,6 +444,15 @@ docker资源汇总,随时更新，欢迎补充。
   coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 
+### Namespaces
+* [Namespaces in operation](http://lwn.net/Articles/531114/)
+* [Introduction to Linux namespaces – Part 1: UTS](https://blog.jtlebi.fr/2013/12/22/introduction-to-linux-namespaces-part-1-uts/)
+  /
+  [part2](https://blog.jtlebi.fr/2013/12/28/introduction-to-linux-namespaces-part-2-ipc/)
+  /[part3](https://blog.jtlebi.fr/2014/01/05/introduction-to-linux-namespaces-part-3-pid/)
+  /
+  [part4](https://blog.jtlebi.fr/2014/01/12/introduction-to-linux-namespaces-part-4-ns-fs/)
+  /[part5](https://blog.jtlebi.fr/2014/01/19/introduction-to-linux-namespaces-part-5-net/)
 
 
 
@@ -472,10 +483,10 @@ docker资源汇总,随时更新，欢迎补充。
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
-* [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
 * [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/)
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
+* [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
 
 
 ### Openstack
@@ -546,11 +557,11 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker at Shopify: How we built containers that power over 100,000 online shops](http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
 * [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
 * [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
-* [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
 * [How Syncano Used Docker to Simplify Their Development Process](https://www.hakkalabs.co/articles/use-docker-cant-live-without)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
+* [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
