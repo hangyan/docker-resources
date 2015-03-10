@@ -53,8 +53,9 @@ A collection of docker online resources.
   * [Think Deeply](#think-deeply)
   * [Underlying Techniques](#underlying-techniques)
     * [LXC](#lxc)
-    * [cgroups](#cgroups)
+    * [Cgroups](#cgroups)
     * [Systemd](#systemd)
+    * [Namespaces](#Namespaces)
   * [Various Projects](#various-projects)
     * [Compose](#compose)
     * [Swarm](#swarm)
@@ -424,7 +425,7 @@ A collection of docker online resources.
 * [Exploring LXC Networking](http://containerops.org/2013/11/19/lxc-networking/)
 * [Linux Containers](https://wiki.archlinux.org/index.php/Linux_Containers) (from archwiki)
 
-### cgroups
+### Cgroups
 * [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt) (from kernel.org)
 * [Managing system resources on Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/index.html)
 * [Cgroups](https://wiki.archlinux.org/index.php/cgroups) (from archwiki)
@@ -435,6 +436,16 @@ A collection of docker online resources.
 * [Getting Started with systemd](https://coreos.com/using-coreos/systemd/) (from
   coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
+
+### Namespaces
+*
+  [Introduction to Linux namespaces – Part 1: UTS](https://blog.jtlebi.fr/2013/12/22/introduction-to-linux-namespaces-part-1-uts/)
+  /
+  [part2](https://blog.jtlebi.fr/2013/12/28/introduction-to-linux-namespaces-part-2-ipc/)
+  /[part3](https://blog.jtlebi.fr/2014/01/05/introduction-to-linux-namespaces-part-3-pid/)
+  /
+  [part4](https://blog.jtlebi.fr/2014/01/12/introduction-to-linux-namespaces-part-4-ns-fs/)
+  /[part5](https://blog.jtlebi.fr/2014/01/19/introduction-to-linux-namespaces-part-5-net/)
 
 ## Various Projects
 ### Compose
