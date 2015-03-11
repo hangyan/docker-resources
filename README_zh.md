@@ -248,6 +248,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Django Demo](https://github.com/kencochrane/django-docker) (Demo Django App using Docker)
 * [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
 * [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
+* [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -279,6 +280,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Hadoop](https://github.com/sequenceiq/hadoop-docker) (Hadoop docker image)
 * [R](https://github.com/rocker-org/rocker) (R configurations for Docker)
 * [ASP.NET](https://github.com/aspnet/aspnet-docker) (Docker image for ASP.NET 5.)
+* [nmpjs](https://github.com/terinjokes/docker-npmjs) (Docker image for a private npmjs repository)
+* [Jenkins](https://github.com/aespinosa/docker-jenkins) (Builds a Docker image for Jenkins)
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)

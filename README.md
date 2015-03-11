@@ -216,6 +216,7 @@ A collection of docker online resources.
 * [docker-registry](https://github.com/docker/docker-registry) (Registry server for Docker (hosting/delivering of repositories and images))
 * [wharf](https://github.com/dockercn/wharf)(ContainerOps Open Source Platform)
 * [distribution](https://github.com/docker/distribution) (The Docker toolset to pack, ship, store, and deliver content)
+* [dogestry] (https://github.com/blake-education/dogestry) (simple docker image storage on s3)
 
 ## UI Tools
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
@@ -227,6 +228,7 @@ A collection of docker online resources.
 
 ## Storage
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
+
 
 ## Volumes
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
@@ -242,6 +244,7 @@ A collection of docker online resources.
 * [Django Demo](https://github.com/kencochrane/django-docker) (Demo Django App using Docker)
 * [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
 * [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
+* [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
 
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -271,6 +274,8 @@ A collection of docker online resources.
 * [Hadoop](https://github.com/sequenceiq/hadoop-docker) (Hadoop docker image)
 * [R](https://github.com/rocker-org/rocker) (R configurations for Docker)
 * [ASP.NET](https://github.com/aspnet/aspnet-docker) (Docker image for ASP.NET 5.)
+* [nmpjs](https://github.com/terinjokes/docker-npmjs) (Docker image for a private npmjs repository)
+* [Jenkins](https://github.com/aespinosa/docker-jenkins) (Builds a Docker image for Jenkins)
 
 ## Containers
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
