@@ -478,7 +478,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 * [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
 * [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
-* [构建新一代容器云计算Big Data Platform最佳实践](http://www.csdn.net/article/2015-03-09/2824148)
+
 
 
 ### Kubernetes
