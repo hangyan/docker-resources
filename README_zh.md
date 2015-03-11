@@ -566,6 +566,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 * [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
+* [Docker系列之二：基于容器的自动构建](http://tech.meituan.com/autobuild.html)
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
