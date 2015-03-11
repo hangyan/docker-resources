@@ -225,6 +225,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [docker-registry](https://github.com/docker/docker-registry) (Registry server for Docker (hosting/delivering of repositories and images))
 * [wharf](https://github.com/dockercn/wharf)(ContainerOps Open Source Platform)
 * [distribution](https://github.com/docker/distribution) (The Docker toolset to pack, ship, store, and deliver content)
+* [dogestry] (https://github.com/blake-education/dogestry) (simple docker image storage on s3)
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
