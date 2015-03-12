@@ -494,6 +494,7 @@ A collection of docker online resources.
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
 * [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
+* [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (**flannel**)
 
 ## Usage
 
