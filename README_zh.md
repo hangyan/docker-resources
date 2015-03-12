@@ -324,6 +324,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker on OS X with VMWare Fusion](http://ewen.mcneill.gen.nz/blog/entry/2014-09-20-docker-on-osx-with-vmware-fusion/)
 * [Docker 笔记](http://opskumu.github.io/docker.html) 
 * [关于Docker你应该知道的10件事](http://www.lupaworld.com/portal.php?mod=view&aid=250966)
+* [Docker的大坑小洼](http://blog.daocloud.io/docker_troubleshootings/),[再谈《Docker的大坑小洼》](http://dockerone.com/question/92)
 
 ## Docker技术
 ### 镜像相关
@@ -555,7 +556,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Creating an ASP.NET vNext Docker Container using Mono](https://msopentech.com/blog/2014/11/07/creating-asp-net-vnext-docker-container-using-mono-2/)
 * [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker](http://blog.mist.io/post/82383668190/move-fast-and-dont-break-things-testing-with)
 * [Docker and Phoenix: How to Make Your Continuous Integration More Awesome](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
-* [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
+* [Docker实战：更轻松、更愉快、更高效](http://dockerone.com/article/217) ([English](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/))
 * [Docker in Action - Development to Delivery ](https://blog.rainforestqa.com/2014-11-19-docker-in-action-from-deployment-to-delivery-part-1-local-docker-setup/) / [part2](https://blog.rainforestqa.com/2014-12-08-docker-in-action-from-deployment-to-delivery-part-2-continuous-integration) / [part3](https://blog.rainforestqa.com/2015-01-15-docker-in-action-from-deployment-to-delivery-part-3-continuous-delivery)
 * [ASP.NET 5 development on OS X with Docker](http://open.bekk.no/aspnet5-development-on-osx-with-docker)
 
