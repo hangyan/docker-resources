@@ -495,6 +495,7 @@ A collection of docker online resources.
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
 * [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
 * [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (**flannel**)
+* [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (**Boot2Docker**,**RancherOS**)
 
 ## Usage
 
