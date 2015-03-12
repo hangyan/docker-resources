@@ -323,6 +323,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Run ARM binaries in your Docker Container using Boot2Docker…](http://neophob.com/2014/10/run-arm-binaries-in-your-docker-container-using-boot2docker/)
 * [Docker on OS X with VMWare Fusion](http://ewen.mcneill.gen.nz/blog/entry/2014-09-20-docker-on-osx-with-vmware-fusion/)
 * [Docker 笔记](http://opskumu.github.io/docker.html) 
+* [关于Docker你应该知道的10件事](http://www.lupaworld.com/portal.php?mod=view&aid=250966)
 
 ## Docker技术
 ### 镜像相关
@@ -495,7 +496,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
-* [What is the future of the private cloud world, Mesos or OpenStack?](http://www.quora.com/What-is-the-future-of-the-private-cloud-world-Mesos-or-OpenStack?from=timeline&isappinstalled=0)
+* [Mesos vs OpenStack?谁才是私有云的未来](http://dockerone.com/article/224) ([English](http://www.quora.com/What-is-the-future-of-the-private-cloud-world-Mesos-or-OpenStack?from=timeline&isappinstalled=0))
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
@@ -505,9 +506,10 @@ docker资源汇总,随时更新，欢迎补充。
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
-* [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (**flannel**)
-* [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (**Boot2Docker**,**RancherOS**)
+* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (CFEngine)
+* [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (flannel)
+* [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (Boot2Docker,RancherOS)
+* [Deploying Docker applications on YARN via Slider](http://www.slideshare.net/hortonworks/docker-on-slider-45493303) (slide)(YARN)
 
 ## 应用
 

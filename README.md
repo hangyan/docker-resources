@@ -493,9 +493,10 @@ A collection of docker online resources.
 * [Powerstrip: prototype Docker extensions today](https://clusterhq.com/blog/powerstrip-prototype-docker-extensions-today/?)
 * [Docker extensions: the new Docker plugins model](https://clusterhq.com/blog/docker-extensions/)
 * [Docker Without Containers: Introducing Pullcontainer --docker and CVFS](http://blog.terminal.com/docker-without-containers-pulldocker/)
-* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (**CFEngine**)
-* [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (**flannel**)
-* [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (**Boot2Docker**,**RancherOS**)
+* [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (CFEngine)
+* [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (flannel)
+* [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (Boot2Docker,RancherOS)
+* [Deploying Docker applications on YARN via Slider](http://www.slideshare.net/hortonworks/docker-on-slider-45493303) (slide)(YARN)
 
 ## Usage
 
