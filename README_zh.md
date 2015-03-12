@@ -509,7 +509,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Process Management with CFEngine](https://docs.docker.com/articles/cfengine_process_management/) (CFEngine)
 * [Introducing flannel: An etcd backed overlay network for containers](https://coreos.com/blog/introducing-rudder/) (flannel)
 * [Tiny docker operating system](https://blog.docker.com/2015/03/tiny-docker-operating-systems/) (Boot2Docker,RancherOS)
-* [Deploying Docker applications on YARN via Slider](http://www.slideshare.net/hortonworks/docker-on-slider-45493303) (slide)(YARN)
+* [Deploying Docker applications on YARN via Slider](http://pan.baidu.com/s/1jGy1utC) (PPT)(YARN)
 
 ## 应用
 
