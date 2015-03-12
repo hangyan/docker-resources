@@ -324,7 +324,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker on OS X with VMWare Fusion](http://ewen.mcneill.gen.nz/blog/entry/2014-09-20-docker-on-osx-with-vmware-fusion/)
 * [Docker 笔记](http://opskumu.github.io/docker.html) 
 * [关于Docker你应该知道的10件事](http://www.lupaworld.com/portal.php?mod=view&aid=250966)
-* [Docker的大坑小洼](http://blog.daocloud.io/docker_troubleshootings/),[再谈《Docker的大坑小洼》](http://dockerone.com/question/92)
+* [Docker的大坑小洼](http://blog.daocloud.io/docker_troubleshootings/) / [再谈《Docker的大坑小洼》](http://dockerone.com/question/92)
 
 ## Docker技术
 ### 镜像相关
@@ -471,9 +471,10 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ### Swarm
-* [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
+* [剖析Docker Swarm和Mesos：是什么？如何结合？有什么优势？](http://dockerone.com/article/213) ([English](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/))
 * [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
 * [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
+* [Docker Swarm入门（一）概观](http://dockerone.com/article/168) / [(二）配置选项与基本运行环境要求](http://dockerone.com/article/178) / [（三）Swarm SOA举例](http://dockerone.com/article/192) / [（四）Demo](http://dockerone.com/article/203)
 
 
 
