@@ -431,6 +431,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
+* [Java开发人员需要注意的五大Docker误区](http://dockerone.com/article/236) ([English](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/))
 
 ## 底层技术
 ### LXC
@@ -480,9 +481,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker on Mesos](https://mesosphere.com/2013/09/26/docker-on-mesos/)
 * [Running Docker Containers on Marathon](https://mesosphere.github.io/marathon/docs/native-docker.html)
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
-* [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/)
 * [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
-
+* [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/) / [part2](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute-part-2/)
 
 
 ### Kubernetes
