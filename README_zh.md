@@ -117,6 +117,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Jeff Lindsay](http://progrium.com/blog/)
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
+* [Matt Bajor](http://technolo-g.com/)
 
 # 相关项目
 ## 操作系统
@@ -475,6 +476,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
 * [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
 * [Docker Swarm入门（一）概观](http://dockerone.com/article/168) / [(二）配置选项与基本运行环境要求](http://dockerone.com/article/178) / [（三）Swarm SOA举例](http://dockerone.com/article/192) / [（四）Demo](http://dockerone.com/article/203)
+* [Creating SSL/TLS Certificates for Docker and Docker Swarm](http://technolo-g.com/generate-ssl-for-docker-swarm/)
 
 
 
