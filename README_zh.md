@@ -392,7 +392,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
 * [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
-
+* [从SDN以及Docker看网络模型发生的变革](http://dockerone.com/article/188) ([English](http://thenewstack.io/sdn-docker-real-changes-ahead/))
 
 
 
@@ -421,7 +421,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## 思考
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
-* [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
+* [唱衰Docker](http://www.infoq.com/cn/articles/bad-mouthing-docker) ([English](http://iops.io/blog/docker-hype/))
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 * [boycott docker](http://www.boycottdocker.org/)
 * [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
