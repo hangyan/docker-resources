@@ -109,7 +109,7 @@ A collection of docker online resources.
 * [Jeff Lindsay](http://progrium.com/blog/)
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
-
+* [Matt Bajor](http://technolo-g.com/)
 
 # Related Projects
 ## OS
@@ -463,6 +463,8 @@ A collection of docker online resources.
 * [Docker Containers at Scale (Our Take on Docker Swarm)](http://mesosphere.com/2015/02/26/deploying-with-docker-swarm/)
 * [Getting Started with docker swarm](http://www.blackfinsecurity.com/getting-started-with-docker-swarm/)
 * [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
+* [Intro to Docker Swarm: Part 1 - Overview](http://technolo-g.com/intro-to-docker-swarm-pt1-overview/) / [Part 2 - Configuration Options and Requirements](http://technolo-g.com/intro-to-docker-swarm-pt2-config-options-requirements/) / [Part 3 - Example Swarm SOA](http://technolo-g.com/intro-to-docker-swarm-pt3-example-architechture/) / [Part 4 - Demo](http://technolo-g.com/intro-to-docker-swarm-pt4-demo/)
+* [Creating SSL/TLS Certificates for Docker and Docker Swarm](http://technolo-g.com/generate-ssl-for-docker-swarm/)
 
 
 ### Mesosphere
