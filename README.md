@@ -88,7 +88,7 @@ A collection of docker online resources.
 
 ## Documents
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
-
+* [Docker Guidebook](https://github.com/kencochrane/docker-guidebook)
 
 ## Archives
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) 
@@ -245,6 +245,7 @@ A collection of docker online resources.
 * [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
 * [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
 * [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
+* [tmpnb](https://github.com/jupyter/tmpnb) (Creates temporary Jupyter Notebook servers using Docker containers)
 
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -261,7 +262,9 @@ A collection of docker online resources.
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) (Dockerized gitlab web server)
 * [Discourse](https://github.com/discourse/discourse_docker) (A Docker image for Discourse)
 * [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
-* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A Dockerfile that installs the latest wordpress, nginx and php-fpm.another wordpress [image](https://github.com/jbfink/docker-wordpress))
+* [Wordpress+nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A
+  Dockerfile that installs the latest wordpress, nginx and php-fpm.another
+  wordpress [image](https://github.com/jbfink/docker-wordpress)) / another one [wordpress](https://github.com/dz0ny/docker-wpdev)
 * [Nignx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 * [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
 * [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
@@ -276,6 +279,8 @@ A collection of docker online resources.
 * [ASP.NET](https://github.com/aspnet/aspnet-docker) (Docker image for ASP.NET 5.)
 * [nmpjs](https://github.com/terinjokes/docker-npmjs) (Docker image for a private npmjs repository)
 * [Jenkins](https://github.com/aespinosa/docker-jenkins) (Builds a Docker image for Jenkins)
+* [Postgres](https://github.com/docker-library/postgres) (Docker Official Image packaging for Postgres)
+* [Logstash](https://github.com/pblittle/docker-logstash) (Docker image for Logstash 1.4 )
 
 ## Containers
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)

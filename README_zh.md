@@ -96,6 +96,7 @@ docker资源汇总,随时更新，欢迎补充。
 ## 开源文档
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
+* [Docker Guidebook](https://github.com/kencochrane/docker-guidebook)
 
 ## 内容聚合
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) (英文docker资源汇总)
@@ -251,6 +252,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dnt](https://github.com/rvagg/dnt) (Docker Node Tester)
 * [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
 * [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
+* [tmpnb](https://github.com/jupyter/tmpnb) (Creates temporary Jupyter Notebook servers using Docker containers)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -269,7 +271,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [OpenVPN](https://github.com/jpetazzo/dockvpn) (Recipe to build an OpenVPN image for Docker)
 * [Wordpress+Nginx](https://github.com/eugeneware/docker-wordpress-nginx) (A
   Dockerfile that installs the latest wordpress, nginx and php-fpm.Another
-  wordpress [image](https://github.com/jbfink/docker-wordpress))
+  wordpress [image](https://github.com/jbfink/docker-wordpress)) 另一个[wordpress](https://github.com/dz0ny/docker-wpdev)
 * [Nginx-Proxy](https://github.com/jwilder/nginx-proxy) (Automated nginx proxy for Docker containers using docker-gen)
 * [docker-squash](https://github.com/jwilder/docker-squash) (Squash docker images to make them smaller)
 * [Mysql](https://github.com/tutumcloud/tutum-docker-mysql) (Docker image to run an out-of-the-box MySQL server)
@@ -284,6 +286,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [ASP.NET](https://github.com/aspnet/aspnet-docker) (Docker image for ASP.NET 5.)
 * [nmpjs](https://github.com/terinjokes/docker-npmjs) (Docker image for a private npmjs repository)
 * [Jenkins](https://github.com/aespinosa/docker-jenkins) (Builds a Docker image for Jenkins)
+* [Postgres](https://github.com/docker-library/postgres) (Docker Official Image packaging for Postgres)
+* [Logstash](https://github.com/pblittle/docker-logstash) (Docker image for Logstash 1.4 )
 
 ## 容器
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
