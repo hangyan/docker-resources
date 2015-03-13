@@ -16,7 +16,7 @@ A collection of docker online resources.
   * [Virtual Machine](#virtual-machine)
   * [Competitors](#competitors)
   * [Management Tools](#management-tools)
-  * [Paas Platforms](#paas-platfroms)
+  * [Paas Platforms](#paas-platforms)
   * [Integration Projects](#integration-projects)
   * [Monitoring](#monitoring)
   * [Networking](#networking)
@@ -70,7 +70,7 @@ A collection of docker online resources.
     * [Service Discovery With Docker](#service-discovery-with-docker)
     * [Development And Deployment And Test](#development-and-deployment-and-test)
     * [Production](#production)
-    * [Other Platfroms](#other-platfroms)
+    * [Other Platforms](#other-platforms)
 
 # Main Resources
 ## Books
@@ -153,7 +153,7 @@ A collection of docker online resources.
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 
 
-## Paas Platfroms
+## Paas Platforms
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
 * [deis](http://deis.io/) (Your PaaS. Your Rules)
 * [peas](https://github.com/tombh/peas) (Docker and Ruby based PaaS)
@@ -558,7 +558,7 @@ A collection of docker online resources.
 * [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 
-### Other Platfroms
+### Other Platforms
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
 * [The IoT Singularity: Docker for Internet of Things Devices](http://blogs.intel.com/evangelists/2015/01/28/iot-singularity-docker-internet-things-devices/)
 * [Heavily ARMed after major upgrade: Raspberry Pi with Docker 1.5.0](http://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
