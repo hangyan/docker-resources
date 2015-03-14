@@ -180,6 +180,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
 * [garether-docker](https://github.com/garethr/garethr-docker) (Puppet module for managing docker)
 * [systemd-docker](https://github.com/ibuildthecloud/systemd-docker) (Wrapper for "docker run" to handle systemd quirks)
+* [docker-ansible](https://github.com/cove/docker-ansible) (Ansible module for Docker)
 
 ## 监控
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
@@ -207,6 +208,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [shutit](https://github.com/ianmiell/shutit) (Complex and Dynamic Docker Builds Made Simple)
 * [dockership](https://github.com/mcuadros/dockership) (dead simple docker deploy tool)
 * [devstep](https://github.com/fgrehm/devstep) (Development environments powered by Docker and buildpacks)
+* [docker-devenv](https://github.com/wsargent/docker-devenv) (Docker based development environment)
 
 ## 日志
 * [logspout](https://github.com/gliderlabs/logspout) (Log routing for Docker container logs)
@@ -228,6 +230,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [wharf](https://github.com/dockercn/wharf)(ContainerOps Open Source Platform)
 * [distribution](https://github.com/docker/distribution) (The Docker toolset to pack, ship, store, and deliver content)
 * [dogestry] (https://github.com/blake-education/dogestry) (simple docker image storage on s3)
+* [docker-private-registry](https://github.com/shipyard/docker-private-registry) (Private Docker Registry)
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
@@ -253,6 +256,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockermail](https://github.com/adaline/dockermail) (A secure, minimal-configuration mail server in a docker container.)
 * [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
 * [tmpnb](https://github.com/jupyter/tmpnb) (Creates temporary Jupyter Notebook servers using Docker containers)
+* [open-ocr](https://github.com/tleyden/open-ocr) (Run your own OCR-as-a-Service using Tesseract and Docker)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
@@ -306,6 +310,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockernode](https://github.com/apocas/dockerode) (**Node.js**)
 * [go-dockerclient](https://github.com/fsouza/go-dockerclient) (**Golang**)
 * [docker-php](https://github.com/stage1/docker-php) (**PHP**)
+* [dockerclient](https://github.com/samalba/dockerclient) (**Golang**)
+* [docker-java](https://github.com/kpelykh/docker-java) (**Java**)
 
 ## 其他
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
