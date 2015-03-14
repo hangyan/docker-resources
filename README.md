@@ -434,7 +434,7 @@ A collection of docker online resources.
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 * [Ignore the Hype: 5 Docker Misconceptions Java Developers Should Consider](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/)
-
+* [Challenges With Randomness In Multi-tenant Linux Container Platforms](http://blog.pivotal.io/cloud-foundry-pivotal/features/challenges-with-randomness-in-multi-tenant-linux-container-platforms)
 
 ## Underlying Techniques
 ### LXC

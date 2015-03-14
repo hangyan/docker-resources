@@ -445,6 +445,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 * [Java开发人员需要注意的五大Docker误区](http://dockerone.com/article/236) ([English](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/))
+* [Challenges With Randomness In Multi-tenant Linux Container Platforms](http://blog.pivotal.io/cloud-foundry-pivotal/features/challenges-with-randomness-in-multi-tenant-linux-container-platforms)
 
 ## 底层技术
 ### LXC
