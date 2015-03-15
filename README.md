@@ -316,6 +316,7 @@ A collection of docker online resources.
 
 # Blog Posts
 ## General
+* [Docker and Go: why did we decide to write Docker in Go?](http://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go) ( pdf slide)
 * [How to Use Docker on OS X: The Missing Guide](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 * [24 random docker tips](http://csaba.palfi.me/random-docker-tips/)
 * [The 5 Most Important Things I’ve Learned From Using Docker](http://blog.tutum.co/2014/10/28/the-5-most-important-things-ive-learned-from-using-docker/)
