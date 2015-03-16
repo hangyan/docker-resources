@@ -51,6 +51,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [API](#API)
     * [性能](#性能)
   * [思考](#思考)
+  * [Rocket](#rocket)
   * [底层技术](#底层技术)
     * [LXC](#lxc)
     * [cgroups](#cgroups)
@@ -436,22 +437,26 @@ docker资源汇总,随时更新，欢迎补充。
 
 
 ## 思考
-* [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
 * [唱衰Docker](http://www.infoq.com/cn/articles/bad-mouthing-docker) ([English](http://iops.io/blog/docker-hype/))
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 * [boycott docker](http://www.boycottdocker.org/)
 * [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
-* [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
 * [Is docker ready for production?](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html?)
 * [After Docker:Unikernels and Immutable Infrastructure](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e)
-* [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
 * [Docker’s Killer Feature](https://www.joyent.com/blog/dockers-killer-feature)
 * [Linux Containers: Parallels, LXC, OpenVZ, Docker and More](http://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/)
-* [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
-* [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 * [Java开发人员需要注意的五大Docker误区](http://dockerone.com/article/236) ([English](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/))
 * [Challenges With Randomness In Multi-tenant Linux Container Platforms](http://blog.pivotal.io/cloud-foundry-pivotal/features/challenges-with-randomness-in-multi-tenant-linux-container-platforms)
+
+
+## Rocket
+* [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
+* [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
+* [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
+* [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
+* [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
+
 
 ## 底层技术
 ### LXC
