@@ -476,7 +476,7 @@ docker资源汇总,随时更新，欢迎补充。
   /
   [part4](https://blog.jtlebi.fr/2014/01/12/introduction-to-linux-namespaces-part-4-ns-fs/)
   /[part5](https://blog.jtlebi.fr/2014/01/19/introduction-to-linux-namespaces-part-5-net/)
-
+* [Docker背后的内核知识——Namespace资源隔离](http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation)
 
 
 ## 相关项目
