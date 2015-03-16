@@ -114,6 +114,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
 * [SequenceIQ Blog](http://blog.sequenceiq.com/)
 * [Tutum Blog](http://blog.tutum.co/)
+* [Weave Blog](http://weaveblog.com/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)

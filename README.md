@@ -105,6 +105,7 @@ A collection of docker online resources.
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
 * [SequenceIQ Blog](http://blog.sequenceiq.com/)
 * [Tutum Blog](http://blog.tutum.co/)
+* [Weave Blog](http://weaveblog.com/)
 
 ## Personal Blogs
 * [jpetazzo](http://jpetazzo.github.io/)
