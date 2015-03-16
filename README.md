@@ -351,6 +351,7 @@ A collection of docker online resources.
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
+* [Persistent Distributed Filesystems in Docker without NFS or Gluster](http://www.centurylinklabs.com/persistent-distributed-filesystems-in-docker-without-nfs-or-gluster/)
 
 ### About Volumes
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)

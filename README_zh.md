@@ -361,6 +361,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Comprehensive Overview of Storage Scalability in Docker](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/?utm_content=buffer8a955&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Resizing Docker containers with the Device Mapper plugin](http://jpetazzo.github.io/2014/01/29/docker-device-mapper-resize/)
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
+* [Persistent Distributed Filesystems in Docker without NFS or Gluster](http://www.centurylinklabs.com/persistent-distributed-filesystems-in-docker-without-nfs-or-gluster/)
 * [深入Docker存储驱动](http://static.dockerone.com/ppt/filedriver.html#1) (slide)
 
 ### 卷管理相关
