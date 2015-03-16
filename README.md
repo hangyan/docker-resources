@@ -76,6 +76,8 @@ A collection of docker online resources.
 ## Books
 * [The Docker Book](http://www.dockerbook.com/)
 * [Orchestrating Docker](http://www.amazon.com/Orchestrating-Docker-Shrikrishna-Holla/dp/1783984783)
+* [Docker in Action](http://www.manning.com/nickoloff/) (Early Access Edition)
+* [Docker in Practice](http://manning.com/miell/?a_aid=zwischenzugs&a_bid=e0d48f62) (Early Access Edition)
 
 ## Websites
 
