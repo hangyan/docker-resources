@@ -123,6 +123,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
 * [Matt Bajor](http://technolo-g.com/)
+* [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 
 # 相关项目
 ## 操作系统
@@ -502,7 +503,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
 * [Docker Swarm入门（一）概观](http://dockerone.com/article/168) / [(二）配置选项与基本运行环境要求](http://dockerone.com/article/178) / [（三）Swarm SOA举例](http://dockerone.com/article/192) / [（四）Demo](http://dockerone.com/article/203)
 * [Creating SSL/TLS Certificates for Docker and Docker Swarm](http://technolo-g.com/generate-ssl-for-docker-swarm/)
-
+* [Running a Small Docker Swarm Cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
 
 
 ### Mesosphere

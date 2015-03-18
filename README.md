@@ -114,6 +114,7 @@ A collection of docker online resources.
 * [Jason Wilder](http://jasonwilder.com/)
 * [Michael Crosby](http://crosbymichael.com/)
 * [Matt Bajor](http://technolo-g.com/)
+* [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 
 # Related Projects
 ## OS
@@ -490,7 +491,7 @@ A collection of docker online resources.
 * [Scaling docker with swarm](http://blog.docker.com/2015/02/scaling-docker-with-swarm/)
 * [Intro to Docker Swarm: Part 1 - Overview](http://technolo-g.com/intro-to-docker-swarm-pt1-overview/) / [Part 2 - Configuration Options and Requirements](http://technolo-g.com/intro-to-docker-swarm-pt2-config-options-requirements/) / [Part 3 - Example Swarm SOA](http://technolo-g.com/intro-to-docker-swarm-pt3-example-architechture/) / [Part 4 - Demo](http://technolo-g.com/intro-to-docker-swarm-pt4-demo/)
 * [Creating SSL/TLS Certificates for Docker and Docker Swarm](http://technolo-g.com/generate-ssl-for-docker-swarm/)
-
+* [Running a Small Docker Swarm Cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
 
 ### Mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
