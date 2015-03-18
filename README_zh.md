@@ -166,7 +166,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [virtkick](https://github.com/virtkick/virtkick) (Manage virtual machines or Docker containers easily)
 * [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
-* [cSphere](https://csphere.cn/) (容器虚拟化管理平台,提供可视化界面，容器、景象、机器等管理。商业软件，有试用版)
+* [cSphere](https://csphere.cn/) (容器虚拟化管理平台,提供可视化界面，容器、镜像、机器、仓库等管理。商业软件，有试用版)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
