@@ -442,11 +442,13 @@ A collection of docker online resources.
 
 ## Rocket
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
+* [App Container Specification](https://github.com/appc/spec/blob/master/SPEC.md)
 * [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
 * [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
 * [What is Rocket and How It’s Different Than Docker](http://www.centurylinklabs.com/interviews/what-is-rocket-and-how-its-different-than-docker/)
+
 
 ## Underlying Techniques
 ### LXC

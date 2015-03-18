@@ -454,6 +454,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ## Rocket
 * [App Container and Docker](https://coreos.com/blog/app-container-and-docker/)
+* [App Container Specification](https://github.com/appc/spec/blob/master/SPEC.md)
 * [Why Docker and Coreos'split was predictable](http://danielcompton.net/2014/12/02/modular-integrated-docker-coreos)
 * [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
