@@ -261,6 +261,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [docker-rpm-builder](https://github.com/alanfranz/docker-rpm-builder) (Build native RPM packages by leveraging docker capabilities)
 * [tmpnb](https://github.com/jupyter/tmpnb) (Creates temporary Jupyter Notebook servers using Docker containers)
 * [open-ocr](https://github.com/tleyden/open-ocr) (Run your own OCR-as-a-Service using Tesseract and Docker)
+* [dray](https://github.com/CenturyLinkLabs/dray) (An engine for managing the execution of container-based workflows)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
