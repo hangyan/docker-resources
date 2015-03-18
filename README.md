@@ -446,6 +446,7 @@ A collection of docker online resources.
 * [Of Containers, Dockers, Rockets, and Daemons](http://3ofcoins.net/2014/12/06/of-containers-dockers-rockets-and-daemons/)
 * [Why CoreOS just fired a Rocket at Docker](https://gigaom.com/2014/12/02/why-coreos-just-fired-a-rocket-at-docker/)
 * [Rocket vs Docker and The Myth of the “Simple, Lightweight Enterprise Platform](http://blog.xebialabs.com/2014/12/05/rocket-vs-docker-myth-simple-lightweight-enterprise-platform/)
+* [What is Rocket and How It’s Different Than Docker](http://www.centurylinklabs.com/interviews/what-is-rocket-and-how-its-different-than-docker/)
 
 ## Underlying Techniques
 ### LXC
