@@ -100,6 +100,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，质量一般，较老)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
 * [Docker Guidebook](https://github.com/kencochrane/docker-guidebook)
+* [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 
 ## 内容聚合
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) (英文docker资源汇总)

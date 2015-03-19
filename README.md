@@ -92,6 +92,7 @@ A collection of docker online resources.
 ## Documents
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#volumes)
 * [Docker Guidebook](https://github.com/kencochrane/docker-guidebook)
+* [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 
 ## Archives
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) 
@@ -548,8 +549,6 @@ A collection of docker online resources.
 * [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
 * [Elasticsearch, Weave and Docker](http://weaveblog.com/2015/01/20/elasticsearch-and-weave/)
 
-
-
 ### GUI
 * [Docker Containers on the Desktop](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
@@ -560,6 +559,7 @@ A collection of docker online resources.
 * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
 * [Docker Service Discovery Using Etcd and Haproxy](http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/)
+
 
 ### Development And Deployment And Test
 * [Docker: Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
