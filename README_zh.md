@@ -141,6 +141,7 @@ docker资源汇总,随时更新，欢迎补充。
 ## 竞争者
 * [rocket](https://github.com/coreos/rocket) (coreos推出)
 * [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
+* [lmctfy](https://github.com/google/lmctfy) (lmctfy is the open source version of Google’s container stack, which provides Linux application containers.)
 
 ## 管理工具
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (最有可能成为事实标准的一个，已经获得诸多平台支持)

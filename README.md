@@ -131,6 +131,7 @@ A collection of docker online resources.
 ## Competitors
 * [rocket](https://github.com/coreos/rocket)  (App Container runtime)
 * [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
+* [lmctfy](https://github.com/google/lmctfy) (lmctfy is the open source version of Google’s container stack, which provides Linux application containers.)
 
 ## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
