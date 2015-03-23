@@ -574,6 +574,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker desktop: Your desktop over ssh running inside of a docker container ](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 
 ### 服务发现相关
+* [Service Discovery Overview](http://www.simplicityitself.com/learning/getting-started-microservices/service-discovery-overview/)
 * [Consul Service Discovery with Docker](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
 * [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
