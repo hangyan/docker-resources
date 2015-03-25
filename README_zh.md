@@ -417,6 +417,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
 * [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
 * [Four ways to connect a docker container to a local network](http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/)
+* [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
 * [从SDN以及Docker看网络模型发生的变革](http://dockerone.com/article/188) ([English](http://thenewstack.io/sdn-docker-real-changes-ahead/))
 
 ### 监控相关
