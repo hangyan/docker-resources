@@ -108,6 +108,7 @@ A collection of docker online resources.
 * [SequenceIQ Blog](http://blog.sequenceiq.com/)
 * [Tutum Blog](http://blog.tutum.co/)
 * [Weave Blog](http://weaveblog.com/)
+* [Odd Bits](http://blog.oddbit.com/)
 
 ## Personal Blogs
 * [jpetazzo](http://jpetazzo.github.io/)

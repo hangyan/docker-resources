@@ -117,6 +117,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [SequenceIQ Blog](http://blog.sequenceiq.com/)
 * [Tutum Blog](http://blog.tutum.co/)
 * [Weave Blog](http://weaveblog.com/)
+* [Odd Bits](http://blog.oddbit.com/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
