@@ -392,6 +392,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [On-demand activation of Docker containers with systemd](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
 * [Docker and S6 – My New Favorite Process Supervisor](http://blog.tutum.co/2014/12/02/docker-and-s6-my-new-favorite-process-supervisor/)
 * [On Docker Container Composition](https://medium.com/on-docker/on-docker-container-composition-a98788f1aa3c)
+* [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
 
 ### 安全
 * [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
