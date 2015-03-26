@@ -391,6 +391,8 @@ A collection of docker online resources.
 * [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 * [Docker Container Breakout Proof-Of-Concept Exploit](http://outofmemory.cn/wr/?u=http%3A%2F%2Fblog.docker.com%2F2014%2F06%2Fdocker-container-breakout-proof-of-concept-exploit%2F)
 * [The dangers of UFW + Docker](http://blog.viktorpetersson.com/post/101707677489/the-dangers-of-ufw-docker)
+* [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)
+
 
 ### Resource Management
 * [Resource management in Docker](https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/) 
