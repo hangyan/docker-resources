@@ -118,6 +118,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Tutum Blog](http://blog.tutum.co/)
 * [Weave Blog](http://weaveblog.com/)
 * [Odd Bits](http://blog.oddbit.com/)
+* [Project Atomic](http://www.projectatomic.io/blog/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)

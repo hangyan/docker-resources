@@ -109,6 +109,8 @@ A collection of docker online resources.
 * [Tutum Blog](http://blog.tutum.co/)
 * [Weave Blog](http://weaveblog.com/)
 * [Odd Bits](http://blog.oddbit.com/)
+* [Project Atomic](http://www.projectatomic.io/blog/)
+
 
 ## Personal Blogs
 * [jpetazzo](http://jpetazzo.github.io/)
