@@ -536,6 +536,7 @@ docker资源汇总,随时更新，欢迎补充。
 
 ### Azure
 * [Docker and Microsoft: Integrating Docker with Windows Server and Microsoft Azure](http://weblogs.asp.net/scottgu/docker-and-microsoft-integrating-docker-with-windows-server-and-microsoft-azure)
+* [Windows Docker内部原理猜想](http://weibo.com/p/1001603824898261799110)
 
 ### Others
 * [Chef, Puppet, Heat, Juju, Docker, etc](https://docwhat.org/chef-puppet-heat-juju-docker-etc/)
