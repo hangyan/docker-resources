@@ -268,6 +268,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [tmpnb](https://github.com/jupyter/tmpnb) (Creates temporary Jupyter Notebook servers using Docker containers)
 * [open-ocr](https://github.com/tleyden/open-ocr) (Run your own OCR-as-a-Service using Tesseract and Docker)
 * [dray](https://github.com/CenturyLinkLabs/dray) (An engine for managing the execution of container-based workflows)
+* [kolla](https://github.com/stackforge/kolla) (Deploying OpenStack using Kubernetes and Docker)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
