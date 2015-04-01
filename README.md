@@ -325,6 +325,8 @@ A collection of docker online resources.
 * [building](https://github.com/CenturyLinkLabs/building) (Build a Docker container for any app using Heroku Buildpacks)
 * [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
 * [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
+* [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
+
 
 # Blog Posts
 ## General
