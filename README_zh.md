@@ -127,6 +127,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Michael Crosby](http://crosbymichael.com/)
 * [Matt Bajor](http://technolo-g.com/)
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
+* [Luis Elizondo](http://www.luiselizondo.net)
 
 # 相关项目
 ## 操作系统

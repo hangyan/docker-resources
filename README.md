@@ -11,6 +11,7 @@ A collection of docker online resources.
   * [Archives](#archives)
   * [Community Blogs](#community-blogs)
   * [Personal Blogs](#personal-blogs)
+  * [Videos](#videos)
 * [Related Projects](#related-projects)
   * [OS](#os)
   * [Virtual Machine](#virtual-machine)
@@ -119,6 +120,12 @@ A collection of docker online resources.
 * [Michael Crosby](http://crosbymichael.com/)
 * [Matt Bajor](http://technolo-g.com/)
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
+* [Luis Elizondo](http://www.luiselizondo.net)
+
+
+## Videos
+* [Docker Tutorial](https://www.youtube.com/watch?v=bV5vbNK3Uhw&list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h&index=1)
+
 
 # Related Projects
 ## OS
