@@ -121,7 +121,7 @@ A collection of docker online resources.
 * [Matt Bajor](http://technolo-g.com/)
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 * [Luis Elizondo](http://www.luiselizondo.net)
-
+* [zwischenzugs](https://zwischenzugs.wordpress.com)
 
 ## Videos
 * [Docker Tutorial](https://www.youtube.com/watch?v=bV5vbNK3Uhw&list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h&index=1)
@@ -333,7 +333,7 @@ A collection of docker online resources.
 * [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
 * [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
 * [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
-
+* [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
 
 # Blog Posts
 ## General
@@ -530,6 +530,7 @@ A collection of docker online resources.
 * [Running Kubernetes Example on CoreOS, Part 1](https://coreos.com/blog/running-kubernetes-example-on-CoreOS-part-1/)
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
+* [Play With Kubernetes Quickly Using Docker](https://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)

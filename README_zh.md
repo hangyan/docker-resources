@@ -128,6 +128,8 @@ docker资源汇总,随时更新，欢迎补充。
 * [Matt Bajor](http://technolo-g.com/)
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 * [Luis Elizondo](http://www.luiselizondo.net)
+* [zwischenzugs](https://zwischenzugs.wordpress.com)
+
 
 # 相关项目
 ## 操作系统
@@ -334,6 +336,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [torrent-docker](https://github.com/mafintosh/torrent-docker) (realtime boot of remote docker images using bittorrent)
 * [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
 * [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
+* [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
 
 # 博文
 ## 介绍
@@ -531,7 +534,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [How To Install and Configure Kubernetes on top of a CoreOS Cluster](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-kubernetes-on-top-of-a-coreos-cluster)
 * [Corekube: Running Kubernetes on CoreOS via OpenStack](https://developer.rackspace.com/blog/running-coreos-and-kubernetes/)
 * [基于Kubernetes构建Docker集群管理详解](http://www.csdn.net/article/2014-12-24/2823292-Docker-Kubernetes)
-
+* [Play With Kubernetes Quickly Using Docker](https://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 
 ### Openstack
 * [docker](https://wiki.openstack.org/wiki/Docker)
