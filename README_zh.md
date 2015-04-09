@@ -222,6 +222,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockership](https://github.com/mcuadros/dockership) (dead simple docker deploy tool)
 * [devstep](https://github.com/fgrehm/devstep) (Development environments powered by Docker and buildpacks)
 * [docker-devenv](https://github.com/wsargent/docker-devenv) (Docker based development environment)
+* [dexec](https://github.com/docker-exec/dexec) (Command line interface for running code with Docker Exec images)
 
 ## 日志
 * [logspout](https://github.com/gliderlabs/logspout) (Log routing for Docker container logs)
