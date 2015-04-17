@@ -111,7 +111,7 @@ A collection of docker online resources.
 * [Weave Blog](http://weaveblog.com/)
 * [Odd Bits](http://blog.oddbit.com/)
 * [Project Atomic](http://www.projectatomic.io/blog/)
-
+* [Container Solutions](http://container-solutions.com/blog/)
 
 ## Personal Blogs
 * [jpetazzo](http://jpetazzo.github.io/)
@@ -395,7 +395,7 @@ A collection of docker online resources.
 * [Docker and S6 – My New Favorite Process Supervisor](http://blog.tutum.co/2014/12/02/docker-and-s6-my-new-favorite-process-supervisor/)
 * [On Docker Container Composition](https://medium.com/on-docker/on-docker-container-composition-a98788f1aa3c)
 * [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
-
+* [Docker Inspect Template Magic](http://container-solutions.com/2015/03/docker-inspect-template-magic/)
 
 ### About Security
 * [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -490,6 +490,7 @@ A collection of docker online resources.
 * [Getting Started with systemd](https://coreos.com/using-coreos/systemd/) (from
   coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
+* [Running Docker Containers with Systemd](http://container-solutions.com/2015/04/running-docker-containers-with-systemd/)
 
 ### Namespaces
 * [Namespaces in operation](http://lwn.net/Articles/531114/)
@@ -524,7 +525,7 @@ A collection of docker online resources.
 * [Mesos + Docker Tutorial: How to Build Your Own Framework](http://codefutures.com/mesos-docker-tutorial-how-to-build-your-own-framework/)
 * [Continuous Delivery with Docker on Mesos in less than a minute – Part 1](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/) / [part2](http://container-solutions.com/2015/03/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute-part-2/)
 * [ArangoDB on Apache Mesos using Marathon and Docker](https://github.com/arangodb/Cookbook/blob/master/recipes/UsingArangoDBMesosphere.md)
-
+* [TOWARDS DOCKER IN PRODUCTION WITH APACHE MESOS](http://www.ivoverberk.nl/towards-docker-in-production-with-apache-mesos/)
 
 ### Kubernetes
 * [Deploying Kubernetes on CoreOS with Fleet and Flannel](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
