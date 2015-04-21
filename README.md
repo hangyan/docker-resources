@@ -129,10 +129,12 @@ A collection of docker online resources.
 
 # Related Projects
 ## OS
-* [coreos](https://coreos.com/) (Linux for Massive Server Deployments)
-* [RHEL Atomic Host](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers) 
-* [rancheio](http://rancher.com/) (Simple, elegant tools for managing Docker in production)
-* [snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
+* [Coreos](https://coreos.com/) (Linux for Massive Server Deployments)
+* [Atomic](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers) 
+* [Rancheio](http://rancher.com/) (Simple, elegant tools for managing Docker in production)
+* [Snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
+* [Photon](https://github.com/vmware/photon)
+
 
 ## Virtual Machine
 * [boot2docker](https://github.com/boot2docker/boot2docker) (Lightweight Linux for Docker)

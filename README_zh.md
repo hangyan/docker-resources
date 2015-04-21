@@ -134,10 +134,11 @@ docker资源汇总,随时更新，欢迎补充。
 
 # 相关项目
 ## 操作系统
-* [coreos](https://coreos.com/) (比较成熟)
-* [RHEL Atomic Host](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，内置kubernetes)
-* [rancheio](http://rancher.com/) (较新)
-* [snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
+* [Coreos](https://coreos.com/) (比较成熟)
+* [Atomic](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，内置kubernetes)
+* [Rancheio](http://rancher.com/) (较新)
+* [Snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
+* [Photon](https://github.com/vmware/photon)
 
 ## 虚拟机
 * [boot2docker](https://github.com/boot2docker/boot2docker) (Lightweight Linux for Docker)
