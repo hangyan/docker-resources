@@ -122,6 +122,7 @@ A collection of docker online resources.
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 * [Luis Elizondo](http://www.luiselizondo.net)
 * [zwischenzugs](https://zwischenzugs.wordpress.com)
+* [Musings of Matt Williams](http://matthewkwilliams.com/)
 
 ## Videos
 * [Docker Tutorial](https://www.youtube.com/watch?v=bV5vbNK3Uhw&list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h&index=1)
@@ -398,6 +399,7 @@ A collection of docker online resources.
 * [On Docker Container Composition](https://medium.com/on-docker/on-docker-container-composition-a98788f1aa3c)
 * [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
 * [Docker Inspect Template Magic](http://container-solutions.com/2015/03/docker-inspect-template-magic/)
+* [‘Piping’ Hot Docker Containers](http://matthewkwilliams.com/index.php/2015/04/21/piping-hot-docker-containers/)
 
 ### About Security
 * [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -449,7 +451,7 @@ A collection of docker online resources.
 * [Preview of Docker Benchmarking at Flux7](http://blog.flux7.com/blogs/docker/preview-of-docker-benchmarking-at-flux7)
 * [Getting Started with Performance Analysis of Docker](http://www.breakage.org/2014/06/06/getting-started-with-performance-analysis-of-docker/)
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
-
+* [Docker Containers: Smaller is not always better](http://matthewkwilliams.com/index.php/2015/04/19/docker-containers-smaller-is-not-always-better/)
 
 ## Think Deeply
 

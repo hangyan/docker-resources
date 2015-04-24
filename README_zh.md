@@ -130,7 +130,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Scott's Weblog](http://blog.scottlowe.org/2015/02/06/quick-intro-to-consul/)
 * [Luis Elizondo](http://www.luiselizondo.net)
 * [zwischenzugs](https://zwischenzugs.wordpress.com)
-
+* [Musings of Matt Williams](http://matthewkwilliams.com/)
 
 # 相关项目
 ## 操作系统
@@ -404,6 +404,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [On Docker Container Composition](https://medium.com/on-docker/on-docker-container-composition-a98788f1aa3c)
 * [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
 * [Docker Inspect Template Magic](http://container-solutions.com/2015/03/docker-inspect-template-magic/)
+* [‘Piping’ Hot Docker Containers](http://matthewkwilliams.com/index.php/2015/04/21/piping-hot-docker-containers/)
 
 ### 安全
 * [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -453,7 +454,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Preview of Docker Benchmarking at Flux7](http://blog.flux7.com/blogs/docker/preview-of-docker-benchmarking-at-flux7)
 * [Getting Started with Performance Analysis of Docker](http://www.breakage.org/2014/06/06/getting-started-with-performance-analysis-of-docker/)
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
-
+* [Docker Containers: Smaller is not always better](http://matthewkwilliams.com/index.php/2015/04/19/docker-containers-smaller-is-not-always-better/)
 
 ## 思考
 * [唱衰Docker](http://www.infoq.com/cn/articles/bad-mouthing-docker) ([English](http://iops.io/blog/docker-hype/))
