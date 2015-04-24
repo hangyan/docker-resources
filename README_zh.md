@@ -202,7 +202,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dockerana](https://github.com/dockerana/dockerana) (Docker Monitoring with support for Grafana and Graphite)
 * [docker-mon](https://github.com/icecrime/docker-mon)(Console-based Docker monitoring)
 * [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
-
+* [Prometheus](https://github.com/prometheus/prometheus) (The Prometheus  monitoring system and time series database,see the [docker exporter](https://github.com/docker-infra/container_exporter))
 
 ## 网络
 * [weave](https://github.com/zettio/weave) (The Docker Network)
