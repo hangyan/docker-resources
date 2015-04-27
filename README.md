@@ -495,6 +495,8 @@ A collection of docker online resources.
   coreos)
 * [Systemd](https://wiki.archlinux.org/index.php/Systemd) (from archwiki)
 * [Running Docker Containers with Systemd](http://container-solutions.com/2015/04/running-docker-containers-with-systemd/)
+* [Docker without Docker](https://chimeracoder.github.io/docker-without-docker) (slide)
+
 
 ### Namespaces
 * [Namespaces in operation](http://lwn.net/Articles/531114/)
