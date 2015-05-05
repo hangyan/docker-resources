@@ -11,6 +11,7 @@ docker资源汇总,随时更新，欢迎补充。
   * [内容聚合](#内容聚合)
   * [社区博客](#社区博客)
   * [个人博客](#个人博客)
+  * [创业公司](#创业公司)
 * [相关项目](#相关项目)
   * [操作系统](#操作系统)
   * [虚拟机](#虚拟机)
@@ -132,6 +133,10 @@ docker资源汇总,随时更新，欢迎补充。
 * [zwischenzugs](https://zwischenzugs.wordpress.com)
 * [Musings of Matt Williams](http://matthewkwilliams.com/)
 
+## 创业公司
+* [云栈科技](https://csphere.cn)
+* [云雀科技](https://www.alauda.cn)
+
 # 相关项目
 ## 操作系统
 * [Coreos](https://coreos.com/) (比较成熟)
@@ -209,7 +214,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
 * [calico-docker](https://github.com/Metaswitch/calico-docker)(Docker version of Project Calico,Calico can provide networking in a Docker environment)
-
+* [libnetwork](https://github.com/docker/libnetwork) (networking for containers)
 
 ## 持续集成
 * [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
@@ -275,6 +280,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [open-ocr](https://github.com/tleyden/open-ocr) (Run your own OCR-as-a-Service using Tesseract and Docker)
 * [dray](https://github.com/CenturyLinkLabs/dray) (An engine for managing the execution of container-based workflows)
 * [kolla](https://github.com/stackforge/kolla) (Deploying OpenStack using Kubernetes and Docker)
+* [docker-desktop](https://github.com/rogaha/docker-desktop) (Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)

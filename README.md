@@ -204,6 +204,7 @@ A collection of docker online resources.
 * [wormhole](https://github.com/vishvananda/wormhole) (A smart proxy to connect docker containers.)
 * [flannel](https://github.com/coreos/flannel) (flannel is an etcd backed network fabric for containers)
 * [calico-docker](https://github.com/Metaswitch/calico-docker)(Docker version of Project Calico,Calico can provide networking in a Docker environment)
+* [libnetwork](https://github.com/docker/libnetwork) (networking for containers)
 
 ## Continuous Integration
 * [drone](https://github.com/drone/drone) (A Continuous Integration platform built on Docker)
@@ -273,6 +274,7 @@ A collection of docker online resources.
 * [open-ocr](https://github.com/tleyden/open-ocr) (Run your own OCR-as-a-Service using Tesseract and Docker)
 * [dray](https://github.com/CenturyLinkLabs/dray) (An engine for managing the execution of container-based workflows)
 * [kolla](https://github.com/stackforge/kolla) (Deploying OpenStack using Kubernetes and Docker)
+* [docker-desktop](https://github.com/rogaha/docker-desktop) (Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed)
 
 ## Images And Dockerfiles
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
