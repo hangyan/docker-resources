@@ -51,6 +51,7 @@ A collection of docker online resources.
     * [About Private Registry](#about-private-registry)
     * [API](#api)
     * [Performance](#performance)
+    * [Process Management](#process-management)
   * [Think Deeply](#think-deeply)
   * [Rocket](#rocket)
   * [Underlying Techniques](#underlying-techniques)
@@ -454,6 +455,10 @@ A collection of docker online resources.
 * [Getting Started with Performance Analysis of Docker](http://www.breakage.org/2014/06/06/getting-started-with-performance-analysis-of-docker/)
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
 * [Docker Containers: Smaller is not always better](http://matthewkwilliams.com/index.php/2015/04/19/docker-containers-smaller-is-not-always-better/)
+
+
+### Process Management
+* [Running systemd within a Docker Container](http://developerblog.redhat.com/2014/05/05/running-systemd-within-docker-container/)
 
 ## Think Deeply
 

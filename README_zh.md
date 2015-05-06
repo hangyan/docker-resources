@@ -51,6 +51,7 @@ docker资源汇总,随时更新，欢迎补充。
     * [私有仓库相关](#私有仓库相关)
     * [API](#API)
     * [性能](#性能)
+    * [进程管理](#进程管理)
   * [思考](#思考)
   * [Rocket](#rocket)
   * [底层技术](#底层技术)
@@ -461,6 +462,9 @@ docker资源汇总,随时更新，欢迎补充。
 * [Getting Started with Performance Analysis of Docker](http://www.breakage.org/2014/06/06/getting-started-with-performance-analysis-of-docker/)
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
 * [Docker Containers: Smaller is not always better](http://matthewkwilliams.com/index.php/2015/04/19/docker-containers-smaller-is-not-always-better/)
+
+### 进程管理
+* [Running systemd within a Docker Container](http://developerblog.redhat.com/2014/05/05/running-systemd-within-docker-container/)
 
 ## 思考
 * [唱衰Docker](http://www.infoq.com/cn/articles/bad-mouthing-docker) ([English](http://iops.io/blog/docker-hype/))
