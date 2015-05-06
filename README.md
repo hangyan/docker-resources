@@ -581,6 +581,7 @@ A collection of docker online resources.
 * [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
 * [Elasticsearch, Weave and Docker](http://weaveblog.com/2015/01/20/elasticsearch-and-weave/)
 * [Running libvirtd in a container](http://www.projectatomic.io/blog/2014/10/libvirtd_in_containers/)
+* [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
 
 ### GUI
 * [Docker Containers on the Desktop](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
