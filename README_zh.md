@@ -135,6 +135,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Musings of Matt Williams](http://matthewkwilliams.com/)
 
 ## 创业公司
+* [DaoCloud](https://www.daocloud.io/)
 * [云栈科技](https://csphere.cn)
 * [云雀科技](https://www.alauda.cn)
 
@@ -246,6 +247,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [docker-grand-ambassador](https://github.com/cpuguy83/docker-grand-ambassador) ( fully dynamic docker link ambassador)
 * [confd](https://github.com/kelseyhightower/confd) (Manage local application configuration files using templates and data from etcd or consul)
 * [ambassadord](https://github.com/progrium/ambassadord) (Magic Docker ambassador)
+* [logcabin](https://github.com/logcabin/logcabin) (LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage)
 
 ## 私有仓库
 * [docket](https://github.com/netvarun/docket) (Custom docker registry that allows for lightning fast deploys through bittorrent)
