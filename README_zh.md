@@ -146,6 +146,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Rancheio](http://rancher.com/) (较新)
 * [Snappy](http://developer.ubuntu.com/en/snappy/) (A new, transactionally updated Ubuntu for clouds and devices)
 * [Photon](https://github.com/vmware/photon)
+* [ClearLinux](https://clearlinux.org) (The Clear Linux™ Project for Intel® Architecture is a project that is building a Linux OS distribution for various cloud use cases)
 
 ## 虚拟机
 * [boot2docker](https://github.com/boot2docker/boot2docker) (Lightweight Linux for Docker)
