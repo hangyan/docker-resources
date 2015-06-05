@@ -147,6 +147,7 @@ A collection of docker online resources.
 * [dockerlite](https://github.com/docker/dockerlite) (Lightweight virtualization system based on LXC and BTRFS)
 * [lmctfy](https://github.com/google/lmctfy) (lmctfy is the open source version of Google’s container stack, which provides Linux application containers.)
 * [OpenVZ](https://openvz.org/Main_Page)
+* [Hyper](https://www.hyper.sh/) (Hyper = Hypervisor + Kernel + Docker Image)
 
 ## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
@@ -245,6 +246,7 @@ A collection of docker online resources.
 * [distribution](https://github.com/docker/distribution) (The Docker toolset to pack, ship, store, and deliver content)
 * [dogestry] (https://github.com/blake-education/dogestry) (simple docker image storage on s3)
 * [docker-private-registry](https://github.com/shipyard/docker-private-registry) (Private Docker Registry)
+* [speedy](https://github.com/jcloudpub/speedy) (a distributed docker image storage)
 
 ## UI Tools
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
