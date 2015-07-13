@@ -122,6 +122,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Odd Bits](http://blog.oddbit.com/)
 * [Project Atomic](http://www.projectatomic.io/blog/)
 * [Container Solutions](http://container-solutions.com/blog/)
+* [灵雀云博客](http://www.alauda.cn/blog/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
