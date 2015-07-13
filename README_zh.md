@@ -395,6 +395,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Where are Docker images stored?](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
 * [Persistent Distributed Filesystems in Docker without NFS or Gluster](http://www.centurylinklabs.com/persistent-distributed-filesystems-in-docker-without-nfs-or-gluster/)
 * [深入Docker存储驱动](http://static.dockerone.com/ppt/filedriver.html#1) (slide)
+* [Deep dive into Docker storage drivers](http://jpetazzo.github.io/assets/2015-03-03-not-so-deep-dive-into-docker-storage-drivers.html#1)
 
 ### 卷管理相关
 * [Understanding Volumes in Docker](http://container-solutions.com/2014/12/understanding-volumes-docker/)
