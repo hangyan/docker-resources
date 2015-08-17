@@ -152,6 +152,7 @@ A collection of docker online resources.
 * [lmctfy](https://github.com/google/lmctfy) (lmctfy is the open source version of Google’s container stack, which provides Linux application containers.)
 * [OpenVZ](https://openvz.org/Main_Page)
 * [Hyper](https://www.hyper.sh/) (Hyper = Hypervisor + Kernel + Docker Image)
+* [bocker](https://github.com/p8952/bocker) (Docker implemented in around 100 lines of bash)
 
 ## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
