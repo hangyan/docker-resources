@@ -350,6 +350,7 @@ A collection of docker online resources.
 * [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
 * [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
 * [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
+* [docker-gc](https://github.com/spotify/docker-gc) (Docker garbage collection of containers and images)
 
 # Blog Posts
 ## General
