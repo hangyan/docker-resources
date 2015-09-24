@@ -149,14 +149,17 @@ docker资源汇总,随时更新，欢迎补充。
 * [Musings of Matt Williams](http://matthewkwilliams.com/)
 
 ## 创业公司
+* [云雀科技](https://www.alauda.cn)
 * [DaoCloud](https://www.daocloud.io/)
 * [云栈科技](https://csphere.cn)
-* [云雀科技](https://www.alauda.cn)
-
+* [tutum](https://www.tutum.co/)
+* [时速云](https://www.tenxcloud.com/)
+* [数人科技](http://www.dataman-inc.com/)
 
 ## 镜像中心
 * [Dockerhub](http://hub.docker.com/)
 * [灵雀云镜像中心](https://hub.alauda.cn/)
+* [时速云镜像中心](https://www.tenxcloud.com/marketplace)
 
 # 相关项目
 ## 操作系统
