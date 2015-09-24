@@ -200,6 +200,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 * [cSphere](https://csphere.cn/) (容器虚拟化管理平台,提供可视化界面，容器、镜像、机器、仓库等管理。商业软件，有试用版)
 * [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
+* [chronos](https://github.com/mesos/chronos)(Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)

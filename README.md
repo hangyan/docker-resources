@@ -180,6 +180,7 @@ A collection of docker online resources.
 * [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 * [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
+* [chronos](https://github.com/mesos/chronos)(Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules)
 
 ## Paas Platforms
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
