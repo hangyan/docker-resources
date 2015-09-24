@@ -77,12 +77,22 @@ docker资源汇总,随时更新，欢迎补充。
 
 # 资源汇集
 ## 书籍
-* [第一本Docker书](http://book.douban.com/subject/26285268/) 
+* [第一本Docker书](http://book.douban.com/subject/26285268/) (7.4分)
 * [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) (内容一般)
 * [The Docker Book](http://www.dockerbook.com/)
-* [Orchestrating Docker](http://www.amazon.com/Orchestrating-Docker-Shrikrishna-Holla/dp/1783984783)
 * [Docker in Action](http://www.manning.com/nickoloff/) (Early Access Edition)
 * [Docker in Practice](http://manning.com/miell/?a_aid=zwischenzugs&a_bid=e0d48f62) (Early Access Edition)
+* [Docker 技术入门与实战](http://book.douban.com/subject/26284823/) (6.1分)
+* [Docker源码分析](http://book.douban.com/subject/26581184/)
+* [Docker——容器与容器云](http://book.douban.com/subject/26593175/)
+* [Docker in the Trenches:Successful Production Deployment](http://book.douban.com/subject/26477632/)
+* [docker cookbook:80 hands-on recipes to efficiently work with the Docker 1.6 environment on Linux](http://book.douban.com/subject/26426431/)
+* [Using docker](http://book.douban.com/subject/26423831/)
+* [Orchestrating Docker](http://book.douban.com/subject/26333028/)
+* [Docker:Up and Running](http://book.douban.com/subject/26413766/)
+* [Docker开发实践](http://book.douban.com/subject/26432893/)
+* [Build Your Own PaaS with Docker:Create, modify, and run your own PaaS with modularized containers using Docker](http://book.douban.com/subject/26423913/)
+
 
 ## 网站
 ### 英文
