@@ -132,6 +132,11 @@ A collection of docker online resources.
 
 ## Videos
 * [Docker Tutorial](https://www.youtube.com/watch?v=bV5vbNK3Uhw&list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h&index=1)
+* [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)
+* [Docker channel](https://www.youtube.com/user/dockerrun)
+* [Docker 101 Tutorial](https://www.youtube.com/watch?v=VeiUjkiqo9E)
+* [Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU)
+* [Docker Clustering on Mesos with Marathon](https://www.youtube.com/watch?v=hZNGST2vIds)
 
 
 # Related Projects
