@@ -106,6 +106,7 @@ A collection of docker online resources.
 * [Valuable Docker Links](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
+* [Docker news](https://medium.com/docker-news)
 
 ## Community Blogs
 * [Official Blogs](http://blog.docker.com/)
