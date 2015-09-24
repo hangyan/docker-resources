@@ -121,6 +121,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
 * [开源中国社区Docker技术翻译文章](http://www.oschina.net/translate/tag/docker)
+* [Dockerone周报](http://weekly.dockerone.com/index)
 
 ## 社区博客
 * [Docker官方博客](http://blog.docker.com/)
