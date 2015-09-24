@@ -179,7 +179,7 @@ A collection of docker online resources.
 * [autodock](https://github.com/cholcombe973/autodock) (The docker container automation tool.)
 * [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
-
+* [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
 
 ## Paas Platforms
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -190,7 +190,7 @@ A collection of docker online resources.
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
 * [cloudfoundry](https://github.com/cloudfoundry) 
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
-
+* [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
 
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -415,6 +415,7 @@ A collection of docker online resources.
 * [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
 * [Docker Inspect Template Magic](http://container-solutions.com/2015/03/docker-inspect-template-magic/)
 * [‘Piping’ Hot Docker Containers](http://matthewkwilliams.com/index.php/2015/04/21/piping-hot-docker-containers/)
+* [Checkpoint and restore Docker container with CRIU](http://blog.circleci.com/checkpoint-and-restore-docker-container-with-criu/)
 
 ### About Security
 * [Why you don't need to run sshd in your docker containers](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -638,6 +639,7 @@ A collection of docker online resources.
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
 * [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/) 
+* [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
 
 ### Other Platforms
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)

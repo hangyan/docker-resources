@@ -189,6 +189,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [blockade](https://github.com/dcm-oss/blockade) (Docker-based utility for testing network failures and partitions in distributed applications,[docs](http://blockade.readthedocs.org/))
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 * [cSphere](https://csphere.cn/) (容器虚拟化管理平台,提供可视化界面，容器、镜像、机器、仓库等管理。商业软件，有试用版)
+* [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -199,6 +200,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [dokku](https://github.com/progrium/dokku) (Docker powered mini-Heroku in around 100 lines of Bash)
 * [cloudfoundry](https://github.com/cloudfoundry)
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
+* [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
 
 
 ## 项目集成
@@ -421,6 +423,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [Introducing a *Super* Privileged Container Concept](http://developerblog.redhat.com/2014/11/06/introducing-a-super-privileged-container-concept/)
 * [Docker Inspect Template Magic](http://container-solutions.com/2015/03/docker-inspect-template-magic/)
 * [‘Piping’ Hot Docker Containers](http://matthewkwilliams.com/index.php/2015/04/21/piping-hot-docker-containers/)
+* [Checkpoint and restore Docker container with CRIU](http://blog.circleci.com/checkpoint-and-restore-docker-container-with-criu/)
 
 ### 安全
 * [WHY YOU DON'T NEED TO RUN SSHD IN YOUR DOCKER CONTAINERS](http://blog.docker.com/2014/06/why-you-dont-need-to-run-sshd-in-docker/)
@@ -643,6 +646,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
 * [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
 * [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/) 
+* [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
 * [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
 * [Docker在春晚中的实际表现](http://weibo.com/p/1001603816339658657489)
 * [Docker系列之二：基于容器的自动构建](http://tech.meituan.com/autobuild.html) (美团)
