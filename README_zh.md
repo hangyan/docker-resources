@@ -661,7 +661,7 @@ docker资源汇总,随时更新，欢迎补充。
 * [大规模Docker集群助力微博迎接春晚峰值挑战](http://weibo.com/p/1001603811301997572906)
 * [Docker在春晚中的实际表现](http://weibo.com/p/1001603816339658657489)
 * [Docker系列之二：基于容器的自动构建](http://tech.meituan.com/autobuild.html) (美团)
-
+* [Mesos在去哪儿网的应用](http://dockone.io/article/675)
 
 ### 其他平台
 * [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
