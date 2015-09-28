@@ -265,6 +265,7 @@ A collection of docker online resources.
 * [Kitematic](https://kitematic.com/) (for MAC OSX)
 * [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
+* [Portus](https://github.com/SUSE/Portus) (Authorization service and frontend for Docker registry v2)
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
 
