@@ -1,5 +1,5 @@
 # Docker Resources All In One
-docker资源汇总,随时更新，欢迎补充。
+docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 英文版本[链接](https://github.com/hangyan/docker-resources)
 
