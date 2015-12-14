@@ -279,6 +279,7 @@ A collection of docker online resources.
 
 ## Security
 * [subuser](https://github.com/subuser-security/subuser) (Run programs in linux with selectively restricted permissions)
+* [TUF](http://theupdateframework.com/) (Like the S in HTTPS, a plug-and-play library for securing a software updater)
 
 ## Applications
 * [ferry](https://github.com/cirruspath/ferry) (define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker,[ferry.opencore.io](http://ferry.opencore.io/))
