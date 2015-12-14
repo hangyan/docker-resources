@@ -302,6 +302,9 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 ## 卷管理
 * [docker-volumes](https://github.com/cpuguy83/docker-volumes) (Docker Volume Manager)
 
+## 安全
+* [TUF](http://theupdateframework.com/) (Like the S in HTTPS, a plug-and-play library for securing a software updater)
+
 ## 应用
 * [ferry](https://github.com/cirruspath/ferry) (使用docker来构建部署大数据应用(hadoop,spark...),[ferry.opencore.io](http://ferry.opencore.io/))
 * [codecube](https://github.com/hmarr/codecube) (Docker-powered runnable code snippets)
