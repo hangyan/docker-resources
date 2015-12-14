@@ -319,6 +319,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [dray](https://github.com/CenturyLinkLabs/dray) (An engine for managing the execution of container-based workflows)
 * [kolla](https://github.com/stackforge/kolla) (Deploying OpenStack using Kubernetes and Docker)
 * [docker-desktop](https://github.com/rogaha/docker-desktop) (Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed)
+* [dockercraft](https://github.com/docker/dockercraft) (在我的世界中管理docker容器~)
 
 ## 镜像及Dockerfile
 * [dockly](https://github.com/swipely/dockly) (DSL and Gem for building ready-to-launch Docker images)
