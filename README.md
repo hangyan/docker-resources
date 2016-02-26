@@ -18,6 +18,7 @@ A collection of docker online resources.
   * [Competitors](#competitors)
   * [Management Tools](#management-tools)
   * [Paas Platforms](#paas-platforms)
+  * [Caas Platforms](#cass-platforms)
   * [Integration Projects](#integration-projects)
   * [Monitoring](#monitoring)
   * [Networking](#networking)
@@ -199,6 +200,11 @@ A collection of docker online resources.
 * [cloudfoundry](https://github.com/cloudfoundry) 
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
+
+
+## Caas Platforms
+* [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
+* [Alauda.io](http://alauda.io/)
 
 ## Integration Projects
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
