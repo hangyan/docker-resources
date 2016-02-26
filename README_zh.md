@@ -19,6 +19,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
   * [竞争者](#竞争者)
   * [管理工具](#管理工具)
   * [Paas平台](#paas平台)
+  * [Caas平台](#caas平台)
   * [项目集成](#项目集成)
   * [监控](#监控)
   * [网络](#网络)
@@ -225,6 +226,9 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
 
+## Caas平台
+* [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
+* [Aluda](http://www.alauda.cn/)(灵雀云容器服务) (英文版[Alauda.io](http://www.alauda.io/)
 
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
@@ -304,6 +308,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 ## 安全
 * [TUF](http://theupdateframework.com/) (Like the S in HTTPS, a plug-and-play library for securing a software updater)
+* [container-compliance](https://github.com/OpenSCAP/container-compliance)(Assessing compliance of a container)
 
 ## 应用
 * [ferry](https://github.com/cirruspath/ferry) (使用docker来构建部署大数据应用(hadoop,spark...),[ferry.opencore.io](http://ferry.opencore.io/))
