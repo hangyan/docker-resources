@@ -228,7 +228,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 ## Caas平台
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
-* [Aluda](http://www.alauda.cn/)(灵雀云容器服务) (英文版[Alauda.io](http://www.alauda.io/)
+* [Aluda](http://www.alauda.cn/)(灵雀云容器服务) (英文版[Alauda.io](http://www.alauda.io/))
 
 ## 项目集成
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
