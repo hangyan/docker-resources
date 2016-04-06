@@ -161,6 +161,7 @@ A collection of docker online resources.
 * [OpenVZ](https://openvz.org/Main_Page)
 * [Hyper](https://www.hyper.sh/) (Hyper = Hypervisor + Kernel + Docker Image)
 * [bocker](https://github.com/p8952/bocker) (Docker implemented in around 100 lines of bash)
+* [lxd](https://github.com/lxc/lxd) (Daemon based on liblxc offering a REST API to manage containers )
 
 ## Management Tools
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (Container Cluster Manager)
