@@ -184,6 +184,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [OpenVZ](https://openvz.org/Main_Page)
 * [Hyper](https://www.hyper.sh/) (Hyper = Hypervisor + Kernel + Docker Image)
 * [bocker](https://github.com/p8952/bocker) (100行bash实现的docker)
+* [lxd](https://github.com/lxc/lxd)(Daemon based on liblxc offering a REST API to manage containers)
 
 ## 管理工具
 * [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) (最有可能成为事实标准的一个，已经获得诸多平台支持)
