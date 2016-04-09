@@ -561,6 +561,8 @@ A collection of docker online resources.
 * [Intro to Docker Swarm: Part 1 - Overview](http://technolo-g.com/intro-to-docker-swarm-pt1-overview/) / [Part 2 - Configuration Options and Requirements](http://technolo-g.com/intro-to-docker-swarm-pt2-config-options-requirements/) / [Part 3 - Example Swarm SOA](http://technolo-g.com/intro-to-docker-swarm-pt3-example-architechture/) / [Part 4 - Demo](http://technolo-g.com/intro-to-docker-swarm-pt4-demo/)
 * [Creating SSL/TLS Certificates for Docker and Docker Swarm](http://technolo-g.com/generate-ssl-for-docker-swarm/)
 * [Running a Small Docker Swarm Cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
+* [Running a Distributed Docker Swarm on AWS](https://www.linkedin.com/pulse/running-distributed-docker-swarm-aws-jay-johnson-6113375835559841792)  (Mar 9, 2016)
+* [Toward a Production-Ready Docker Swarm Cluster with Consul](https://medium.com/on-docker/toward-a-production-ready-docker-swarm-cluster-with-consul-9ecd36533bb8#.sltccot40) (Mar 2, 2016)
 
 ### Mesosphere
 * [Launching a Docker Container on Mesosphere](https://mesosphere.com/docs/tutorials/launch-docker-container-on-mesosphere/) 
