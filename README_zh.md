@@ -294,7 +294,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
-* [Kitematic](https://kitematic.com/) (用于MAC)
+* [Kitematic](https://kitematic.com/) (现在包含在Docker Toolbox中，支持Mac OS X 10.8+ 和 Windows 7+ (64-bit) )
 * [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
 * [Portus](https://github.com/SUSE/Portus) (Authorization service and frontend for Docker registry v2)
