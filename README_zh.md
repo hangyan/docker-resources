@@ -391,6 +391,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [docker-backup](https://github.com/docker-infra/docker-backup) (Tool for backing up docker volume / data containers)
 * [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
 * [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
+* [habitus](https://github.com/cloud66/habitus)(A Build Flow Tool for Docker)
 
 # 博文
 ## 介绍
