@@ -270,7 +270,7 @@ A collection of docker online resources.
 
 ## UI Tools
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
-* [Kitematic](https://kitematic.com/) (for MAC OSX)
+* [Kitematic](https://kitematic.com/) (Now part of the Docker Toolbox. Available for Mac OS X 10.8+ and Windows 7+ (64-bit) )
 * [dockerui](https://github.com/crosbymichael/dockerui) (A web interface for docker)
 * [docker-registry-web](https://github.com/atc-/docker-registry-web) (A web UI for easy private/local Docker Registry integration)
 * [Portus](https://github.com/SUSE/Portus) (Authorization service and frontend for Docker registry v2)
