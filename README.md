@@ -339,6 +339,7 @@ A collection of docker online resources.
 * [Jenkins](https://github.com/aespinosa/docker-jenkins) (Builds a Docker image for Jenkins)
 * [Postgres](https://github.com/docker-library/postgres) (Docker Official Image packaging for Postgres)
 * [Logstash](https://github.com/pblittle/docker-logstash) (Docker image for Logstash 1.4 )
+* [Harbor](https://github.com/vmware/harbor) (An enterprise-class container registry server based on Docker Distribution)
 
 ## Containers
 * [dockize](https://github.com/jwilder/dockerize) (Utility to simplify running applications in docker containers)
