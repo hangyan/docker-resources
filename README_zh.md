@@ -291,6 +291,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [dogestry] (https://github.com/blake-education/dogestry) (simple docker image storage on s3)
 * [docker-private-registry](https://github.com/shipyard/docker-private-registry) (Private Docker Registry)
 * [speedy](https://github.com/jcloudpub/speedy) (a distributed docker image storage)
+* [harbor](https://github.com/vmware/harbor) (An enterprise-class container registry server based on Docker Distribution)
 
 ## 可视化工具
 * [dockerboard](https://github.com/dockerboard/dockerboard)  (Simple dashboards, visualizations, managements for your dockers)
