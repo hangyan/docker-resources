@@ -156,6 +156,8 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [tutum](https://www.tutum.co/)
 * [时速云](https://www.tenxcloud.com/)
 * [数人科技](http://www.dataman-inc.com/)
+* [网易蜂巢](https://c.163.com/)
+* [好雨云](https://www.goodrain.com/)
 
 ## 镜像中心
 * [Dockerhub](http://hub.docker.com/)
@@ -301,6 +303,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [Portus](https://github.com/SUSE/Portus) (Authorization service and frontend for Docker registry v2)
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
+* [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer)(A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3)
 
 ## 存储
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
