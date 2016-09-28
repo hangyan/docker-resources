@@ -137,6 +137,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [Project Atomic](http://www.projectatomic.io/blog/)
 * [Container Solutions](http://container-solutions.com/blog/)
 * [灵雀云博客](http://www.alauda.cn/blog/)
+* [好雨云社区](http://t.goodrain.com/)
 
 ## 个人博客
 * [jpetazzo](http://jpetazzo.github.io/)
@@ -217,6 +218,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [cSphere](https://csphere.cn/) (容器虚拟化管理平台,提供可视化界面，容器、镜像、机器、仓库等管理。商业软件，有试用版)
 * [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
 * [chronos](https://github.com/mesos/chronos)(Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules)
+* [Cloudbang](http://www.goodrain.com/product/cloudhelp.html)(云帮社区版，提供可视化界面管理应用，支持源码和Dockerfile构建，提供应用性能分析等功能。社区版免费下载使用)
 
 ## Paas平台
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -228,7 +230,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [cloudfoundry](https://github.com/cloudfoundry)
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
-
+* [云帮公有云](http://www.goodrain.com/product/cloudhelp.html)(云帮公有云版，提供可视化界面管理应用，支持源码和Dockerfile构建，提供应用性能分析等功能。)
 ## Caas平台
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
 * [Aluda](http://www.alauda.cn/)(灵雀云容器服务) (英文版[Alauda.io](http://www.alauda.io/))
