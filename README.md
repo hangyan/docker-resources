@@ -86,6 +86,7 @@ A collection of docker online resources.
 * [Docker Cookbook](http://shop.oreilly.com/product/0636920036791.do) by Sébastien Goasguen ([@sebgoa](https://twitter.com/sebgoa)) (Early Access Edition)
 * [Docker Up & Running](http://shop.oreilly.com/product/0636920036142.do)
 * [Using Docker](http://shop.oreilly.com/product/0636920035671.do) (Early Access Edition)
+* [Docker for Java Developers](https://www.nginx.com/resources/library/docker-for-java-developers/)
 
 ## Websites
 
