@@ -94,6 +94,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [Docker:Up and Running](http://book.douban.com/subject/26413766/)
 * [Docker开发实践](http://book.douban.com/subject/26432893/)
 * [Build Your Own PaaS with Docker:Create, modify, and run your own PaaS with modularized containers using Docker](http://book.douban.com/subject/26423913/)
+* [Docker for Java Developers](https://www.nginx.com/resources/library/docker-for-java-developers/)
 
 
 ## 网站
