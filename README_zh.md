@@ -531,6 +531,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 * [Java开发人员需要注意的五大Docker误区](http://dockerone.com/article/236) ([English](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/))
 * [Challenges With Randomness In Multi-tenant Linux Container Platforms](http://blog.pivotal.io/cloud-foundry-pivotal/features/challenges-with-randomness-in-multi-tenant-linux-container-platforms)
+* [Docker in Production: A History of Failure](https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/)
 
 
 ## Rocket
