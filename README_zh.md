@@ -305,6 +305,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) (The Web GUI for Panamax)
 * [seagull](https://github.com/tobegit3hub/seagull) (Friendly Web UI to monitor docker daemon)
 * [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer)(A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3)
+* [portainer](http://portainer.io/) (简单的UI管理工具)
 
 ## 存储
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
