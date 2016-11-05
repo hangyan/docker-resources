@@ -510,6 +510,7 @@ A collection of docker online resources.
 * [dockerizability is better than dockerized](https://medium.com/@behruz/dockerizability-is-better-than-dockerized-3c08b9dbd84c)
 * [Ignore the Hype: 5 Docker Misconceptions Java Developers Should Consider](http://blog.takipi.com/ignore-the-hype-5-docker-misconceptions-java-developers-should-consider/)
 * [Challenges With Randomness In Multi-tenant Linux Container Platforms](http://blog.pivotal.io/cloud-foundry-pivotal/features/challenges-with-randomness-in-multi-tenant-linux-container-platforms)
+* [Docker in Production: A History of Failure](https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/)
 
 
 ## Rocket
