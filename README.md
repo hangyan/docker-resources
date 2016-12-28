@@ -380,6 +380,7 @@ A collection of docker online resources.
 * [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
 * [docker-gc](https://github.com/spotify/docker-gc) (Docker garbage collection of containers and images)
 * [habitus](https://github.com/cloud66/habitus)(A Build Flow Tool for Docker)
+* [ofelia](https://github.com/mcuadros/ofelia) (A docker job scheduler (aka. crontab for docker))
 
 # Blog Posts
 ## General
