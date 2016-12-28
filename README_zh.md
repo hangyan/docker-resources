@@ -398,6 +398,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [Docker Support in IntelliJ IDEA 14.1](http://blog.jetbrains.com/idea/2015/03/docker-support-in-intellij-idea-14-1/)
 * [dockerception](https://github.com/jamiemccrindle/dockerception) (Docker building dockers - keeping them small)
 * [habitus](https://github.com/cloud66/habitus)(A Build Flow Tool for Docker)
+* [ofelia](https://github.com/mcuadros/ofelia) (A docker job scheduler (aka. crontab for docker))
 
 # 博文
 ## 介绍
