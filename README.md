@@ -13,6 +13,7 @@ A collection of docker online resources.
   * [Personal Blogs](#personal-blogs)
   * [Videos](#videos)
 * [Related Projects](#related-projects)
+  * [Core](#core)
   * [OS](#os)
   * [Virtual Machine](#virtual-machine)
   * [Competitors](#competitors)
@@ -142,6 +143,10 @@ A collection of docker online resources.
 
 
 # Related Projects
+
+## Core
+* [containerd](https://github.com/docker/containerd/)
+
 ## OS
 * [Coreos](https://coreos.com/) (Linux for Massive Server Deployments)
 * [Atomic](http://www.redhat.com/en/files/resources/en-rhel-atomic-host-datasheet-INC0223751.pdf) (A platform optimized for Linux containers) 
