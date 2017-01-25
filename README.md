@@ -196,6 +196,7 @@ A collection of docker online resources.
 * [rancher](https://github.com/rancherio/rancher) (A Platform for Operating Docker in Production.[rancher.com](http://rancher.com/))
 * [rocker-compose](https://github.com/grammarly/rocker-compose) (Docker composition tool with idempotency features for deploying apps composed of multiple containers.)
 * [chronos](https://github.com/mesos/chronos)(Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules)
+* [cloudbang](http://www.goodrain.com/product/cloudhelp.html)(Centered on Cloud Native Applications, providing source code and Dockerfile a key deployment. Native support for performance monitoring and business monitoring.Community Edition is free)
 
 ## Paas Platforms
 * [flynn](https://github.com/flynn/flynn) (A next generation open source platform as a service)
@@ -207,6 +208,7 @@ A collection of docker online resources.
 * [cloudfoundry](https://github.com/cloudfoundry) 
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
+* [cloudbang Paas](https://user.goodrain.com)(Centered on Cloud Native Applications, providing source code and Dockerfile a key deployment. Native support for performance monitoring and business monitoring.)
 
 
 ## Caas Platforms
