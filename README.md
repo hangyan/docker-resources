@@ -95,6 +95,7 @@ A collection of docker online resources.
 * [Docker Source Code](https://github.com/docker/docker)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Coreos Official Documents](https://coreos.com/docs/)
+* [Hackr.io's Curated Docker Resources](https://hackr.io/tutorials/learn-docker)
 
 
 
