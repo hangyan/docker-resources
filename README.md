@@ -287,6 +287,7 @@ A collection of docker online resources.
 * [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer)(A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3)
 * [portainer](http://portainer.io/) ( Simple management ui for docker )
 * [Swarmpit](https://swarmpit.io) ( Lightweight Docker Swarm management UI )
+* [Swirl](https://github.com/cuigh/swirl) (A web management tool for Docker, focusing on Swarm cluster)
 
 ## Storage
 * [pfs](http://pachyderm-io.github.io/pfs/#whats-new-in-v02) (A git-like distributed file system for a dockerized world)
