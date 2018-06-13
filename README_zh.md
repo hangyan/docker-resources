@@ -229,6 +229,7 @@ docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 * [cloudfoundry](https://github.com/cloudfoundry)
 * [paz](https://github.com/yldio/paz) (A pluggable in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet)
 * [armada](https://github.com/armadaplatform/armada) (Complete solution for development, deployment, configuration and discovery of microservices)
+* [rainbond](https://github.com/goodrain/rainbond) (Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.)
 
 ## Caas平台
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
