@@ -229,6 +229,7 @@ A collection of docker online resources.
 * [cadvisor](https://github.com/google/cadvisor) (Analyzes resource usage and performance characteristics of running containers)
 * [Prometheus](https://github.com/prometheus/prometheus) (The Prometheus  monitoring system and time series database,see the [docker exporter](https://github.com/docker-infra/container_exporter))
 * [ctop](https://github.com/bcicen/ctop) (Top-like interface for container metrics https://bcicen.github.io/ctop/)
+* [NexClipper](https://github.com/TheNexCloud/NexClipper) - Simple web UI for container monitoring by [@Nexcloud](https://github.com/TheNexCloud)
 
 ## Networking
 * [weave](https://github.com/zettio/weave) (The Docker Network)
