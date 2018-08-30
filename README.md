@@ -88,6 +88,7 @@ A collection of docker online resources.
 * [Docker Up & Running](http://shop.oreilly.com/product/0636920036142.do)
 * [Using Docker](http://shop.oreilly.com/product/0636920035671.do) (Early Access Edition)
 * [Docker for Java Developers](https://www.nginx.com/resources/library/docker-for-java-developers/)
+* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 
 ## Websites
 
