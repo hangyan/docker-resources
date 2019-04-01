@@ -81,14 +81,14 @@ A collection of docker online resources.
 ## Books
 * [The Docker Book](http://www.dockerbook.com/)
 * [Orchestrating Docker](http://www.amazon.com/Orchestrating-Docker-Shrikrishna-Holla/dp/1783984783)
-* [Docker in Action](http://www.manning.com/nickoloff/) (Early Access Edition)
-* [Docker in Practice](http://manning.com/miell/?a_aid=zwischenzugs&a_bid=e0d48f62) (Early Access Edition)
 * [Docker Cookbook](http://dockercookbook.github.io/) by Neependra Khare ([@neependra](https://twitter.com/neependra))
 * [Docker Cookbook](http://shop.oreilly.com/product/0636920036791.do) by Sébastien Goasguen ([@sebgoa](https://twitter.com/sebgoa)) (Early Access Edition)
 * [Docker Up & Running](http://shop.oreilly.com/product/0636920036142.do)
 * [Using Docker](http://shop.oreilly.com/product/0636920035671.do) (Early Access Edition)
 * [Docker for Java Developers](https://www.nginx.com/resources/library/docker-for-java-developers/)
+* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
+
 
 ## Websites
 
