@@ -117,7 +117,6 @@ A collection of docker online resources.
 * [Official Blogs](http://blog.docker.com/)
 * [Coreos Official Blogs](https://coreos.com/blog/)
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
-* [SequenceIQ Blog](http://blog.sequenceiq.com/)
 * [Tutum Blog](http://blog.tutum.co/)
 * [Weave Blog](http://weaveblog.com/)
 * [Odd Bits](http://blog.oddbit.com/)
@@ -436,7 +435,6 @@ A collection of docker online resources.
 * [6 Dockerfile Tips from the Official Images](http://container-solutions.com/2014/11/6-dockerfile-tips-official-images/)
 * [Writing Dockerfile](http://www.techbar.me/writing-dockerfile/)
 * [How to Optimize Your Dockerfile](http://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
-* [Dockerfile Golf (or optimizing the Docker build process)](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
 * [Dockerfile Best Practices](http://crosbymichael.com/dockerfile-best-practices.html)
 
 
@@ -475,10 +473,9 @@ A collection of docker online resources.
 * [Connecting Docker containers on multiple hosts](https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/)
 * [Muti-host Docker Network](http://wiredcraft.com/blog/multi-host-docker-network/)
 * [Life and Docker networking](http://weaveblog.com/2014/11/13/life-and-docker-networking/)
-* [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
 * [SDN, Docker and the Real Changes Ahead](http://thenewstack.io/sdn-docker-real-changes-ahead/)
 * [Four ways to connect a docker container to a local network](http://blog.oddbit.com/2014/08/11/four-ways-to-connect-a-docker/)
-* [Docker intercontainer networking explained](http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/)
+
 
 
 ### About Monitoring
@@ -498,7 +495,6 @@ A collection of docker online resources.
 * [KVM and Docker LXC Benchmarking with OpenStack](http://bodenr.blogspot.com/2014/05/kvm-and-docker-lxc-benchmarking-with.html)
 
 ### Performance
-* [PostgreSQL Performance on Docker](http://www.davidmkerr.com/2014/06/postgresql-performance-on-docker.html)
 * [Performance Analysis of Docker on Red Hat Enterprise Linux 7](http://developerblog.redhat.com/2014/08/19/performance-analysis-docker-red-hat-enterprise-linux-7/)
 * [Preview of Docker Benchmarking at Flux7](http://blog.flux7.com/blogs/docker/preview-of-docker-benchmarking-at-flux7)
 * [Getting Started with Performance Analysis of Docker](http://www.breakage.org/2014/06/06/getting-started-with-performance-analysis-of-docker/)
@@ -510,8 +506,6 @@ A collection of docker online resources.
 * [Running systemd within a Docker Container](http://developerblog.redhat.com/2014/05/05/running-systemd-within-docker-container/)
 
 ## Think Deeply
-
-* [Lets review.. Docker (again)](http://iops.io/blog/docker-hype/)
 * [docker is the heroku killer](http://www.brightball.com/devops/docker-is-the-heroku-killer)
 * [boycott docker](http://www.boycottdocker.org/)
 * [Docker isn't so bad](http://grahamc.com/blog/docker-isnt-so-bad/)
@@ -634,8 +628,6 @@ A collection of docker online resources.
 * [Wrapping Desktop Apps with Docker](http://container-solutions.com/2014/10/wrapping-desktop-apps-docker/)
 * [Deploying RethinkDB applications with Docker using Dokku](http://rethinkdb.com/blog/dokku-deployment/)
 * [Shipping Node.js Applications with Docker and Codeship](http://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
-* [Using Docker with Apache Flume - Part 1](http://probablyfine.co.uk/2014/05/05/using-docker-with-apache-flume-1/) / [part2](http://probablyfine.co.uk/2014/08/24/using-docker-with-apache-flume-2/)
-* [Multi-node Hadoop cluster on Docker](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/)
 * [Elasticsearch, Weave and Docker](http://weaveblog.com/2015/01/20/elasticsearch-and-weave/)
 * [Running libvirtd in a container](http://www.projectatomic.io/blog/2014/10/libvirtd_in_containers/)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
@@ -648,8 +640,6 @@ A collection of docker online resources.
 ### Service Discovery With Docker
 * [Service Discovery Overview](http://www.simplicityitself.com/learning/getting-started-microservices/service-discovery-overview/)
 * [Consul Service Discovery with Docker](http://www.davidmkerr.com/2014/08/dockerfile-golf-or-optimizing-docker.html)
-* [Understanding Modern Service Discovery with Docker](http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/)
-* [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
 * [Docker Service Discovery Using Etcd and Haproxy](http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/)
 * [Simulating service discovery in a development context with Docker and etcd](http://talwai.github.io/#/blog/post/discovery)
 
