@@ -3,6 +3,8 @@ A collection of docker online resources.
 
 中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
+
 # Menu
 * [Main Resources](#main-resources)
   * [Books](#books)
@@ -660,20 +662,4 @@ A collection of docker online resources.
 ### Production
 * [Docker at Lyst](http://developers.lyst.com/devops/2014/12/08/docker/)
 * [Docker at Shopify: How we built containers that power over 100,000 online shops](http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops)
-* [Intro to Docker ...and how we use it at writeLaTex](http://jdlm.info/ds-docker-demo/)
-* [How We Use Docker For Continuous Delivery – Part 1](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
-* [How Syncano Used Docker to Simplify Their Development Process](https://www.hakkalabs.co/articles/use-docker-cant-live-without)
-* [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
-* [10x: Docker at Clay.io](http://zolmeister.com/2014/12/10x-docker-at-clay-io.html)
-* [BATTLEFY : How We Ship](http://blog.battlefy.com/how-we-ship/)
-* [Docker in Production — What We’ve Learned Launching Over 300 Million Containers](http://blog.iron.io/2014/10/docker-in-production-what-weve-learned.html)
-* [A production ready Docker workflow](http://www.luiselizondo.net/a-production-ready-docker-workflow/) / [part2](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-2-the-storage-problem/) / [part3](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-3-orchestration-tools/) / [part4](http://www.luiselizondo.net/a-production-ready-docker-workflow-part-4-service-discovery-and-the-load-balancer/) 
-* [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
-* [Developing With Docker At 500px, Part One](http://developers.500px.com/2015/09/10/developing-with-docker-at-500px-pt1.html)
-
-### Other Platforms
-* [Docker on Raspberry Pi](https://resin.io/blog/docker-on-raspberry-pi/)
-* [The IoT Singularity: Docker for Internet of Things Devices](http://blogs.intel.com/evangelists/2015/01/28/iot-singularity-docker-internet-things-devices/)
-* [Heavily ARMed after major upgrade: Raspberry Pi with Docker 1.5.0](http://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
-* [Getting Docker to run on Power8](https://blog.jtlebi.fr/2014/10/28/getting-docker-to-run-on-power8/)
-* [Swarming Raspberry Pi – Part 1](http://matthewkwilliams.com/index.php/2015/03/21/swarming-raspberry-pi-part-1/)
+* [Intro to Docker ...and how we use it at writeLaTe
