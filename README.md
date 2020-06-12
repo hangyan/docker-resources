@@ -143,6 +143,7 @@ A collection of docker online resources.
 * [Docker 101 Tutorial](https://www.youtube.com/watch?v=VeiUjkiqo9E)
 * [Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU)
 * [Docker Clustering on Mesos with Marathon](https://www.youtube.com/watch?v=hZNGST2vIds)
+* [Docker Courses at Classpert](https://classpert.com/docker) (List of over 140 free and paid Online Courses)
 
 
 # Related Projects
